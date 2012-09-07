@@ -88,6 +88,8 @@ class Database:
 	
 	def addUtilityFunctions( self ):
 		self.executeCommit('''
+			CREATE EXTENSION unaccent;
+			
 			CREATE OR REPLACE FUNCTION lpad_notrunc( text, int4, varchar(1) )
 			RETURNS text
 			AS $$
