@@ -449,13 +449,13 @@ class Database:
 		print 'UPDATE ST_SimplifyPreserveTopology %.1f seconds' %( t2 - t1 )
 	
 	def makeGeoJSON( self,
-		filename, table, boxGeom, boxGeomLL, polyGeom,
+		filename, table, boxGeom, polyGeom,
 		geoid, name, idCol, nameCol, extraCol, where, jsonp
 	):
 		print 'makeGeoJSON', filename
 		t1 = time.clock()
 		featurecollection = self.makeFeatureCollection(
-			table, boxGeom, boxGeomLL, polyGeom,
+			table, boxGeom, polyGeom,
 			geoid, name, idCol, nameCol, extraCol, where
 		)
 		self.writeGeoJSON( filename, featurecollection, jsonp )
@@ -474,7 +474,7 @@ class Database:
 
 
 	def makeFeatureCollection( self,
-		table, boxGeom, boxGeomLL, polyGeom,
+		table, boxGeom, polyGeom,
 		geoid, name, idCol, nameCol, extraCol, where, fixid=None
 	):
 		print 'makeFeatureCollection'
@@ -494,24 +494,8 @@ class Database:
 						%(digits)s
 					),
 					ST_AsGeoJSON(
-						ST_Transform(
-							ST_SetSRID(
-								ST_Centroid(
-									ST_Extent( %(boxGeom)s )
-								),
-								3857
-							),
-							4326
-						),
-						6, 1
-					),
-					ST_AsGeoJSON(
 						ST_Extent( %(boxGeom)s ),
 						%(digits)s, 1
-					),
-					ST_AsGeoJSON(
-						ST_Extent( %(boxGeomLL)s ),
-						6, 1
 					)
 				FROM 
 					%(table)s
@@ -521,18 +505,15 @@ class Database:
 			''' % {
 				'table': table,
 				'boxGeom': boxGeom,
-				'boxGeomLL': boxGeomLL,
 				'polyGeom': polyGeom,
 				'where': where,
 				'digits': digits,
 			})
-			( centerjson, centerjsonll, extentjson, extentjsonll ) = self.cursor.fetchone()
+			( centerjson, extentjson ) = self.cursor.fetchone()
 			if centerjson is None:
 				return None
 			center = json.loads( centerjson )
-			centerLL = json.loads( centerjsonll )
 			extent = json.loads( extentjson )
-			extentLL = json.loads( extentjsonll )
 			t2 = time.clock()
 			print 'ST_Extent %.1f seconds' %( t2 - t1 )
 		else:
@@ -595,9 +576,7 @@ class Database:
 		if boxGeom is not None:
 			featurecollection.update({
 				'bbox': extent['bbox'],
-				'bboxLL': extentLL['bbox'],
 				'center': center['coordinates'],
-				'centerLL': centerLL['coordinates'],
 			})
 		if srid != -1:
 			featurecollection['crs'] = {
