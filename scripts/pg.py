@@ -138,6 +138,33 @@ class Database:
 			'schema': schema,
 		})
 	
+	def loadCsvTable( self, source, table, cols, columns, copyopt='HEADER', encoding='utf8' ):
+		target = '%s/%s-utf8.txt' %( private.TEMP_PATH, table )
+		utf8 = file(source).read().decode(encoding).encode('utf8')
+		file( target, 'w' ).write( utf8 )
+		self.executeCommit( '''
+			CREATE TABLE %(table)s (
+				gid serial,
+				%(columns)s
+			);
+			
+			ALTER TABLE %(table)s ADD PRIMARY KEY (gid);
+			
+			COPY %(table)s ( %(cols)s )
+				FROM '%(target)s'
+				WITH CSV %(copyopt)s;
+		''' %({
+			'table': table,
+			'cols': cols,
+			'columns': columns,
+			'target': target,
+			'copyopt': copyopt,
+		}) )
+		os.remove( target )
+	
+	def loadTsvTable( self, source, table, cols, columns, encoding='utf8' ):
+		return loadCsvTable( self, source, table, cols, columns, "HEADER DELIMITER E'\t' ", encoding )
+	
 	def loadShapefile( self, zipfile, tempdir, tablename, column=None, srid=None, encoding=None, create=True, shpfilename=None, tweaksql=None ):
 		if column is None: column = 'full_geom'
 		if srid is None: srid = '4269'
