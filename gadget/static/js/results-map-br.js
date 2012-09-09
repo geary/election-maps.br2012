@@ -1974,9 +1974,13 @@ function nationalEnabled() {
 		//	featureType: "administrative.locality",
 		//	stylers: [ { visibility: "on" } ]
 		},{
+			featureType: "poi.attraction",
+			elementType: "all",
+			stylers: [ { lightness: 60 }, { visibility: "simplified" } ]
+		},{
 			featureType: "poi.park",
-			elementType: "geometry",
-			stylers: [{ lightness: 60 }]
+			elementType: "all",
+			stylers: [ { lightness: 60 }, { visibility: "simplified" } ]
 		}
 	];
 	
