@@ -947,7 +947,7 @@ function nationalEnabled() {
 	
 	function maybeGo( where, feature, why ) {
 		if(
-			//where.geo.id.slice(0,2) == 'FR'  &&
+			where.geo.id == 'BR'  &&
 			feature.id != current.geoid  &&
 			feature.click !== false
 		) {
@@ -981,7 +981,7 @@ function nationalEnabled() {
 					where = feature = null;
 				var cursor =
 					! feature ? null :
-					/*where.geo.id.slice(0,2) == 'FR'  &&*/  feature.click !== false ? 'pointer' :
+					where.geo.id == 'BR'  &&  feature.click !== false ? 'pointer' :
 					'default';
 				map.setOptions({ draggableCursor: cursor });
 				outlineFeature( where );
