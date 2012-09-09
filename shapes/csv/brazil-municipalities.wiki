@@ -1,0 +1,12032 @@
+{{unreferenced|date=April 2011}}
+Here is the list of all 5,564 [[Municipalities of Brazil|municipalities]] of Brazil, grouped by [[mesoregion (Brazil)|mesoregions]] (''mesorregiões''; sing. ''mesorregião'') and [[microregion (Brazil)|microregions]] (''microrregiões''; sing. ''microrregião'').
+
+==[[Northern Region, Brazil|Northern Brazil]]==
+===[[Acre (state)|Acre (AC)]]===
+{|class="wikitable"
+!Mesoregion
+!Microregion
+!Municipality
+|-
+|rowspan=14|Vale do Jurua
+|rowspan=4|Brasiléia
+|[[Assis Brasil]]
+|-
+|[[Brasiléia]]
+|-
+|[[Epitaciolândia]]
+|-
+|[[Xapuri]]
+|-
+|rowspan=7|Rio Branco
+|[[Acrelândia]]
+|-
+|[[Bujari]]
+|-
+|[[Capixaba, Acre|Capixaba]]
+|-
+|[[Plácido de Castro]]
+|-
+|[[Porto Acre]]
+|-
+|[[Rio Branco]] (State Capital)
+|-
+|[[Senador Guiomard]]
+|-
+|rowspan=3|Sena Madureira
+|[[Manoel Urbano]]
+|-
+|[[Santa Rosa do Purus]]
+|-
+|[[Sena Madureira]]
+|-
+|rowspan=8|Vale do Acre
+|rowspan=5|Cruzeiro do Sul
+|[[Cruzeiro do Sul, Acre|Cruzeiro do Sul]]
+|-
+|[[Mâncio Lima]]
+|-
+|[[Marechal Thaumaturgo]]
+|-
+|[[Porto Walter]]
+|-
+|[[Rodrigues Alves, Acre|Rodrigues Alves]]
+|-
+|rowspan=3|Tarauacá
+|[[Feijó, Acre|Feijó]]
+|-
+|[[Jordão, Acre|Jordão]]
+|-
+|[[Tarauacá]]
+|}
+
+===[[Amapá|Amapá (AP)]]===
+{|class="wikitable"
+!Mesoregion
+!Microregion
+!Municipality
+|-
+|rowspan=5|Norte do Amapa
+|rowspan=3|Amapa
+|[[Amapá (city)|Amapá]]
+|-
+|[[Pracuúba]]
+|-
+|[[Tartarugalzinho]]
+|-
+|rowspan=2|Oiapoque
+|[[Calçoene]]
+|-
+|[[Oiapoque]]
+|-
+|rowspan=11|Sul do Amapa
+|rowspan=8|Macapa
+|[[Cutias]]
+|-
+|[[Ferreira Gomes]]
+|-
+|[[Itaubal]]
+|-
+|[[Macapá]] (State Capital)
+|-
+|[[Pedra Branca do Amapari]]
+|-
+|[[Porto Grande]]
+|-
+|[[Santana, Amapá|Santana]]
+|-
+|[[Serra do Navio]]
+|-
+|rowspan=3|Mazagao
+|[[Laranjal do Jari]]
+|-
+|[[Mazagão]]
+|-
+|[[Vitória do Jari]]
+|}
+
+===[[Amazonas (Brazilian state)|Amazonas (AM)]]===
+{|class="wikitable"
+!Mesoregion
+!Microregion
+!Municipality
+|-
+|rowspan=30|Centro Amazonense
+|rowspan=6|Coari
+|[[Anamã]]
+|-
+|[[Anori]]
+|-
+|[[Beruri]]
+|-
+|[[Caapiranga]]
+|-
+|[[Coari]]
+|-
+|[[Codajás]]
+|-
+|rowspan=5|Itacoatiara
+|[[Itacoatiara, Amazonas|Itacoatiara]]
+|-
+|[[Itapiranga]]
+|-
+|[[Nova Olinda do Norte]]
+|-
+|[[Silves, Amazonas|Silves]]
+|-
+|[[Urucurituba]]
+|-
+|rowspan=7|Manaus
+|[[Autazes]]
+|-
+|[[Careiro]]
+|-
+|[[Careiro da Várzea]]
+|-
+|[[Iranduba]]
+|-
+|[[Manacapuru]]
+|-
+|[[Manaquiri]]
+|-
+|[[Manaus]] (State Capital)
+|-
+|rowspan=7|Parintins
+|[[Barreirinha]]
+|-
+|[[Boa Vista do Ramos]]
+|-
+|[[Maués]]
+|-
+|[[Nhamundá]]
+|-
+|[[Parintins]]
+|-
+|[[São Sebastião do Uatumã]]
+|-
+|[[Urucará]]
+|-
+|rowspan=2|Rio Preto da Eva
+|[[Presidente Figueiredo]]
+|-
+|[[Rio Preto da Eva]]
+|-
+|rowspan=3|Tefe
+|[[Alvarães, Amazonas|Alvarães]]
+|-
+|[[Tefé]]
+|-
+|[[Uarini]]
+|-
+|rowspan=6|Norte Amazonense
+|rowspan=2|Japura
+|[[Japurá]]
+|-
+|[[Maraã]]
+|-
+|rowspan=4|Rio Negro
+|[[Barcelos, Amazonas|Barcelos]]
+|-
+|[[Novo Airão]]
+|-
+|[[Santa Isabel do Rio Negro]]
+|-
+|[[São Gabriel da Cachoeira]]
+|-
+|rowspan=16|Sudoeste Amazonense
+|rowspan=9|Alto Solimoes
+|[[Amaturá]]
+|-
+|[[Atalaia do Norte]]
+|-
+|[[Benjamin Constant, Amazonas|Benjamin Constant]]
+|-
+|[[Fonte Boa, Amazonas|Fonte Boa]]
+|-
+|[[Jutaí]]
+|-
+|[[Santo Antônio do Içá]]
+|-
+|[[São Paulo de Olivença]]
+|-
+|[[Tabatinga]]
+|-
+|[[Tonantins]]
+|-
+|rowspan=7|Jurua
+|[[Carauari]]
+|-
+|[[Eirunepé]]
+|-
+|[[Envira]]
+|-
+|[[Guajará]]
+|-
+|[[Ipixuna]]
+|-
+|[[Itamarati]]
+|-
+|[[Juruá, Amazonas|Juruá]]
+|-
+|rowspan=10|Sul Amazonense
+|rowspan=2|Boca do Acre
+|[[Boca do Acre]]
+|-
+|[[Pauini]]
+|-
+|rowspan=5|Madeira
+|[[Apuí]]
+|-
+|[[Borba, Amazonas|Borba]]
+|-
+|[[Humaitá, Amazonas|Humaitá]]
+|-
+|[[Manicoré]]
+|-
+|[[Novo Aripuanã]]
+|-
+|rowspan=3|Purus
+|[[Canutama]]
+|-
+|[[Lábrea]]
+|-
+|[[Tapauá]]
+|}
+
+===[[Pará|Pará (PA)]]===
+{|class="wikitable"
+!Mesoregion
+!Microregion
+!Municipality
+|-
+|rowspan=14|Baixo Amazonas
+|rowspan=2|Almeirim
+|[[Almeirim, Pará|Almeirim]]
+|-
+|[[Porto de Moz, Pará|Porto de Moz]]
+|-
+|rowspan=5|Óbidos
+|[[Faro, Pará|Faro]]
+|-
+|[[Juruti, Brazil|Juruti]]
+|-
+|[[Óbidos, Pará|Óbidos]]
+|-
+|[[Oriximiná]]
+|-
+|[[Terra Santa]]
+|-
+|rowspan=7|Santarém
+|[[Alenquer, Brazil|Alenquer]]
+|-
+|[[Belterra]]
+|-
+|[[Curuá]]
+|-
+|[[Monte Alegre, Pará|Monte Alegre]]
+|-
+|[[Placas]]
+|-
+|[[Prainha, Pará|Prainha]]
+|-
+|[[Santarém, Pará|Santarém]]
+|-
+|rowspan=16|Marajó
+|rowspan=7|Arari
+|[[Cachoeira do Arari]]
+|-
+|[[Chaves, Pará|Chaves]]
+|-
+|[[Muaná]]
+|-
+|[[Ponta de Pedras]]
+|-
+|[[Salvaterra]]
+|-
+|[[Santa Cruz do Arari]]
+|-
+|[[Soure, Pará|Soure]]
+|-
+|rowspan=5|Furos de Breves
+|[[Afuá]]
+|-
+|[[Anajás]]
+|-
+|[[Breves, Pará|Breves]]
+|-
+|[[Curralinho]]
+|-
+|[[São Sebastião da Boa Vista]]
+|-
+|rowspan=4|Portel
+|[[Bagre, Brazil|Bagre]]
+|-
+|[[Gurupá]]
+|-
+|[[Melgaço, Pará|Melgaço]]
+|-
+|[[Portel, Pará|Portel]]
+|-
+|rowspan=11|Metropolitana de Belém
+|rowspan=6|Belém
+|[[Ananindeua]]
+|-
+|[[Barcarena, Brazil|Barcarena]]
+|-
+|[[Belém]] (State Capital)
+|-
+|[[Benevides]]
+|-
+|[[Marituba]]
+|-
+|[[Santa Bárbara do Pará]]
+|-
+|rowspan=5|Castanhal
+|[[Bujaru]]
+|-
+|[[Castanhal]]
+|-
+|[[Inhangapi]]
+|-
+|[[Santa Isabel do Pará]]
+|-
+|[[Santo Antônio do Tauá]]
+|-
+|rowspan=49|Nordeste Paraense
+|rowspan=13|Bragantina
+|[[Augusto Corrêa]]
+|-
+|[[Bonito, Pará|Bonito]]
+|-
+|[[Bragança, Pará|Bragança]]
+|-
+|[[Capanema, Pará|Capanema]]
+|-
+|[[Igarapé-Açu]]
+|-
+|[[Nova Timboteua]]
+|-
+|[[Peixe-Boi]]
+|-
+|[[Primavera, Pará|Primavera]]
+|-
+|[[Quatipuru]]
+|-
+|[[Santa Maria do Pará]]
+|-
+|[[Santarém Novo]]
+|-
+|[[São Francisco do Pará]]
+|-
+|[[Tracuateua]]
+|-
+|rowspan=7|Cametá
+|[[Abaetetuba]]
+|-
+|[[Baião, Pará|Baião]]
+|-
+|[[Cametá]]
+|-
+|[[Igarapé-Miri]]
+|-
+|[[Limoeiro do Ajuru]]
+|-
+|[[Mocajuba]]
+|-
+|[[Oeiras do Pará]]
+|-
+|rowspan=13|Guamá
+|[[Aurora do Pará]]
+|-
+|[[Cachoeira do Piriá]]
+|-
+|[[Capitão Poço]]
+|-
+|[[Garrafão do Norte]]
+|-
+|[[Ipixuna do Pará]]
+|-
+|[[Irituia]]
+|-
+|[[Mãe do Rio]]
+|-
+|[[Nova Esperança do Piriá]]
+|-
+|[[Ourém, Pará|Ourém]]
+|-
+|[[Santa Luzia do Pará]]
+|-
+|[[São Domingos do Capim]]
+|-
+|[[São Miguel do Guamá]]
+|-
+|[[Viseu, Pará|Viseu]]
+|-
+|rowspan=11|Salgado
+|[[Colares, Pará|Colares]]
+|-
+|[[Curuçá]]
+|-
+|[[Magalhães Barata]]
+|-
+|[[Maracanã, Pará|Maracanã]]
+|-
+|[[Marapanim]]
+|-
+|[[Salinópolis]]
+|-
+|[[São Caetano de Odivelas]]
+|-
+|[[São João da Ponta]]
+|-
+|[[São João de Pirabas]]
+|-
+|[[Terra Alta, Pará|Terra Alta]]
+|-
+|[[Vigia, Pará|Vigia]]
+|-
+|rowspan=5|Tomé-Açu
+|[[Acará]]
+|-
+|[[Concórdia do Pará]]
+|-
+|[[Moju]]
+|-
+|[[Tailândia, Pará|Tailândia]]
+|-
+|[[Tomé-Açu]]
+|-
+|rowspan=39|Sudeste Paraense
+|rowspan=4|Conceição do Araguaia
+|[[Conceição do Araguaia]]
+|-
+|[[Floresta do Araguaia]]
+|-
+|[[Santa Maria das Barreiras]]
+|-
+|[[Santana do Araguaia]]
+|-
+|rowspan=5|Marabá
+|[[Brejo Grande do Araguaia]]
+|-
+|[[Marabá]]
+|-
+|[[Palestina do Pará]]
+|-
+|[[São Domingos do Araguaia]]
+|-
+|[[São João do Araguaia]]
+|-
+|rowspan=7|Paragominas
+|[[Abel Figueiredo]]
+|-
+|[[Bom Jesus do Tocantins]]
+|-
+|[[Dom Eliseu]]
+|-
+|[[Goianésia do Pará]]
+|-
+|[[Paragominas]]
+|-
+|[[Rondon do Pará]]
+|-
+|[[Ulianópolis]]
+|-
+|rowspan=5|Parauapebas
+|[[Água Azul do Norte]]
+|-
+|[[Canaã dos Carajás]]
+|-
+|[[Curionópolis]]
+|-
+|[[Eldorado dos Carajás]]
+|-
+|[[Parauapebas]]
+|-
+|rowspan=7|Redenção
+|[[Pau D'Arco, Pará|Pau D'Arco]]
+|-
+|[[Piçarra]]
+|-
+|[[Redenção, Pará|Redenção]]
+|-
+|[[Rio Maria]]
+|-
+|[[São Geraldo do Araguaia]]
+|-
+|[[Sapucaia, Pará|Sapucaia]]
+|-
+|[[Xinguara]]
+|-
+|rowspan=5|São Félix do Xingu
+|[[Bannach]]
+|-
+|[[Cumaru do Norte]]
+|-
+|[[Ourilândia do Norte]]
+|-
+|[[São Félix do Xingu]]
+|-
+|[[Tucumã]]
+|-
+|rowspan=6|Tucurui
+|[[Breu Branco]]
+|-
+|[[Itupiranga]]
+|-
+|[[Jacundá]]
+|-
+|[[Nova Ipixuna]]
+|-
+|[[Novo Repartimento]]
+|-
+|[[Tucuruí]]
+|-
+|rowspan=14|Sudoeste Paraense
+|rowspan=8|Altamira
+|[[Altamira, Pará|Altamira]]
+|-
+|[[Anapu]]
+|-
+|[[Brasil Novo]]
+|-
+|[[Medicilândia]]
+|-
+|[[Pacajá]]
+|-
+|[[Senador José Porfírio]]
+|-
+|[[Uruará]]
+|-
+|[[Vitória do Xingu]]
+|-
+|rowspan=6|Itaituba
+|[[Aveiro, Pará|Aveiro]]
+|-
+|[[Itaituba]]
+|-
+|[[Jacareacanga]]
+|-
+|[[Novo Progresso]]
+|-
+|[[Rurópolis]]
+|-
+|[[Trairão]]
+|}
+
+===[[Rondônia|Rondônia (RO)]]===
+{|class="wikitable"
+!Mesoregion
+!Microregion
+!Municipality
+|-
+|rowspan=42|Leste Rondoniense
+|rowspan=4|Alvorada d'Oeste
+|[[Alvorada d'Oeste]]
+|-
+|[[Nova Brasilândia d'Oeste]]
+|-
+|[[São Miguel do Guaporé]]
+|-
+|[[Seringueiras]]
+|-
+|rowspan=7|Ariquemes
+|[[Alto Paraíso]]
+|-
+|[[Ariquemes]]
+|-
+|[[Cacaulândia]]
+|-
+|[[Machadinho d'Oeste]]
+|-
+|[[Monte Negro]]
+|-
+|[[Rio Crespo]]
+|-
+|[[Vale do Anari]]
+|-
+|rowspan=9|Cacoal
+|[[Alta Floresta d'Oeste]]
+|-
+|[[Alto Alegre dos Parecis]]
+|-
+|[[Cacoal]]
+|-
+|[[Castanheiras]]
+|-
+|[[Espigão d'Oeste]]
+|-
+|[[Ministro Andreazza]]
+|-
+|[[Novo Horizonte do Oeste]]
+|-
+|[[Rolim de Moura]]
+|-
+|[[Santa Luzia d'Oeste]]
+|-
+|rowspan=5|Colorado do Oeste
+|[[Cabixi]]
+|-
+|[[Cerejeiras]]
+|-
+|[[Colorado do Oeste]]
+|-
+|[[Corumbiara]]
+|-
+|[[Pimenteiras do Oeste]]
+|-
+|rowspan=11|Ji-Parana
+|[[Governador Jorge Teixeira]]
+|-
+|[[Jaru]]
+|-
+|[[Ji-Paraná]]
+|-
+|[[Mirante da Serra]]
+|-
+|[[Nova União]]
+|-
+|[[Ouro Preto do Oeste]]
+|-
+|[[Presidente Médici]]
+|-
+|[[Teixeirópolis]]
+|-
+|[[Theobroma, Rondônia|Theobroma]]
+|-
+|[[Urupá]]
+|-
+|[[Vale do Paraíso]]
+|-
+|rowspan=6|Vilhena
+|[[Chupinguaia]]
+|-
+|[[Parecis]]
+|-
+|[[Pimenta Bueno]]
+|-
+|[[Primavera de Rondônia]]
+|-
+|[[São Felipe d'Oeste]]
+|-
+|[[Vilhena]]
+|-
+|rowspan=10|Madeira-Guapore
+|rowspan=3|Guajara-Mirim
+|[[Costa Marques]]
+|-
+|[[Guajará-Mirim]]
+|-
+|[[São Francisco do Guaporé]]
+|-
+|rowspan=7|Porto Velho
+|[[Buritis, Rondônia|Buritis]]
+|-
+|[[Campo Novo de Rondônia]]
+|-
+|[[Candeias do Jamari]]
+|-
+|[[Cujubim]]
+|-
+|[[Itapuã do Oeste]]
+|-
+|[[Nova Mamoré]]
+|-
+|[[Porto Velho]] (State Capital)
+|}
+
+===[[Roraima|Roraima (RR)]]===
+{|class="wikitable"
+!Mesoregion
+!Microregion
+!Municipality
+|-
+|rowspan=8|Norte de Roraima
+|rowspan=4|Boa Vista
+|[[Alto Alegre, Roraima|Alto Alegre]]
+|-
+|[[Amajari]]
+|-
+|[[Boa Vista, Roraima|Boa Vista]] (State Capital)
+|-
+|[[Pacaraima]]
+|-
+|rowspan=4|Nordeste de Roraima
+|[[Bonfim, Roraima|Bonfim]]
+|-
+|[[Cantá]]
+|-
+|[[Normandia, Roraima|Normandia]]
+|-
+|[[Uiramutã]]
+|-
+|rowspan=7|Sul de Roraima
+|rowspan=3|Caracarai
+|[[Caracaraí]]
+|-
+|[[Iracema, Roraima|Iracema]]
+|-
+|[[Mucajaí]]
+|-
+|rowspan=4|Sudeste de Roraima
+|[[Caroebe]]
+|-
+|[[Rorainópolis]]
+|-
+|[[São João da Baliza]]
+|-
+|[[São Luiz, Roraima|São Luiz]]
+|}
+
+===[[Tocantins (state)|Tocantins (TO)]]===
+{|class=wikitable
+!Mesoregion
+!Microregion
+!Municipality
+|-
+|rowspan=93|Ocidental do Tocantins
+|rowspan=17|Araguaina
+|[[Aragominas]]
+|-
+|[[Araguaína]]
+|-
+|[[Araguanã, Tocantins|Araguanã]]
+|-
+|[[Arapoema]]
+|-
+|[[Babaçulândia]]
+|-
+|[[Bandeirantes do Tocantins]]
+|-
+|[[Carmolândia]]
+|-
+|[[Colinas do Tocantins]]
+|-
+|[[Filadélfia, Tocantins|Filadélfia]]
+|-
+|[[Muricilândia]]
+|-
+|[[Nova Olinda]]
+|-
+|[[Palmeirante]]
+|-
+|[[Pau D'Arco, Tocantins|Pau d'Arco]]
+|-
+|[[Piraquê]]
+|-
+|[[Santa Fé do Araguaia]]
+|-
+|[[Wanderlândia]]
+|-
+|[[Xambioá]]
+|-
+|rowspan=25|Bico do Papagaio
+|[[Aguiarnópolis]]
+|-
+|[[Ananás, Tocantins|Ananás]]
+|-
+|[[Angico]]
+|-
+|[[Araguatins]]
+|-
+|[[Augustinópolis]]
+|-
+|[[Axixá do Tocantins]]
+|-
+|[[Buriti do Tocantins]]
+|-
+|[[Cachoeirinha, Tocantins|Cachoeirinha]]
+|-
+|[[Carrasco Bonito]]
+|-
+|[[Darcinópolis]]
+|-
+|[[Esperantina]]
+|-
+|[[Itaguatins]]
+|-
+|[[Luzinópolis]]
+|-
+|[[Maurilândia do Tocantins]]
+|-
+|[[Nazaré, Tocantins|Nazaré]]
+|-
+|[[Palmeiras do Tocantins]]
+|-
+|[[Praia Norte]]
+|-
+|[[Riachinho]]
+|-
+|[[Sampaio]]
+|-
+|[[Santa Terezinha do Tocantins]]
+|-
+|[[São Bento do Tocantins]]
+|-
+|[[São Miguel do Tocantins]]
+|-
+|[[São Sebastião do Tocantins]]
+|-
+|[[Sítio Novo do Tocantins]]
+|-
+|[[Tocantinópolis]]
+|-
+|rowspan=14|Gurupi
+|[[Aliança do Tocantins]]
+|-
+|[[Alvorada, Tocantins|Alvorada]]
+|-
+|[[Brejinho de Nazaré]]
+|-
+|[[Cariri do Tocantins]]
+|-
+|[[Crixás do Tocantins]]
+|-
+|[[Figueirópolis]]
+|-
+|[[Gurupi]]
+|-
+|[[Jaú do Tocantins]]
+|-
+|[[Peixe]]
+|-
+|[[Palmeirópolis]]
+|-
+|[[Santa Rita do Tocantins]]
+|-
+|[[São Salvador do Tocantins]]
+|-
+|[[Sucupira]]
+|-
+|[[Talismã]]
+|-
+|rowspan=24|Miracema do Tocantins
+|[[Abreulândia]]
+|-
+|[[Araguacema]]
+|-
+|[[Barrolândia]]
+|-
+|[[Bernardo Sayão]]
+|-
+|[[Brasilândia do Tocantins]]
+|-
+|[[Caseara]]
+|-
+|[[Colméia]]
+|-
+|[[Couto Magalhães]]
+|-
+|[[Divinópolis do Tocantins]]
+|-
+|[[Dois Irmãos do Tocantins]]
+|-
+|[[Fortaleza do Tabocão]]
+|-
+|[[Goianorte]]
+|-
+|[[Guaraí]]
+|-
+|[[Itaporã do Tocantins]]
+|-
+|[[Juarina]]
+|-
+|[[Marianópolis do Tocantins]]
+|-
+|[[Miracema do Tocantins]]
+|-
+|[[Miranorte]]
+|-
+|[[Monte Santo do Tocantins]]
+|-
+|[[Pequizeiro]]
+|-
+|[[Presidente Kennedy, Tocantins|Presidente Kennedy]]
+|-
+|[[Rio dos Bois]]
+|-
+|[[Tupirama]]
+|-
+|[[Tupiratins]]
+|-
+|rowspan=13|Rio Formoso
+|[[Araguaçu]]
+|-
+|[[Chapada de Areia]]
+|-
+|[[Cristalândia]]
+|-
+|[[Dueré]]
+|-
+|[[Fátima, Tocantins|Fátima]]
+|-
+|[[Formoso do Araguaia]]
+|-
+|[[Lagoa da Confusão]]
+|-
+|[[Nova Rosalândia]]
+|-
+|[[Oliveira de Fátima]]
+|-
+|[[Paraíso do Tocantins]]
+|-
+|[[Pium]]
+|-
+|[[Pugmil]]
+|-
+|[[Sandolândia]]
+|-
+|rowspan=46|Oriental do Tocantins
+|rowspan=20|Dianopolis
+|[[Almas, Tocantins|Almas]]
+|-
+|[[Arraias]]
+|-
+|[[Aurora do Tocantins]]
+|-
+|[[Chapada da Natividade]]
+|-
+|[[Combinado]]
+|-
+|[[Conceição do Tocantins]]
+|-
+|[[Dianópolis]]
+|-
+|[[Lavandeira, Tocantins|Lavandeira]]
+|-
+|[[Natividade]]
+|-
+|[[Novo Alegre]]
+|-
+|[[Novo Jardim]]
+|-
+|[[Paranã, Tocantins|Paranã]]
+|-
+|[[Pindorama do Tocantins]]
+|-
+|[[Ponte Alta do Bom Jesus]]
+|-
+|[[Porto Alegre do Tocantins]]
+|-
+|[[Rio da Conceição]]
+|-
+|[[Santa Rosa do Tocantins]]
+|-
+|[[São Valério]]
+|-
+|[[Taguatinga (Tocantins)|Taguatinga]]
+|-
+|[[Taipas do Tocantins]]
+|-
+|rowspan=15|Jalapao
+|[[Barra do Ouro]]
+|-
+|[[Campos Lindos]]
+|-
+|[[Centenário, Tocantins|Centenário]]
+|-
+|[[Goiatins]]
+|-
+|[[Itacajá]]
+|-
+|[[Itapiratins]]
+|-
+|[[Lagoa do Tocantins]]
+|-
+|[[Lizarda]]
+|-
+|[[Recursolândia]]
+|-
+|[[Rio Sono]]
+|-
+|[[Mateiros]]
+|-
+|[[Novo Acordo]]
+|-
+|[[Ponte Alta do Tocantins]]
+|-
+|[[Santa Tereza do Tocantins]]
+|-
+|[[São Félix do Tocantins]]
+|-
+|rowspan=11|Porto Nacional
+|[[Aparecida do Rio Negro]]
+|-
+|[[Bom Jesus do Tocantins, Tocantins|Bom Jesus do Tocantins]]
+|-
+|[[Ipueiras]]
+|-
+|[[Lajeado, Tocantins|Lajeado]]
+|-
+|[[Monte do Carmo]]
+|-
+|[[Palmas (TO)|Palmas]] (State Capital)
+|-
+|[[Pedro Afonso]]
+|-
+|[[Porto Nacional]]
+|-
+|[[Santa Maria do Tocantins]]
+|-
+|[[Silvanópolis]]
+|-
+|[[Tocantínia]]
+|}
+
+==[[Northeast Region, Brazil|North Eastern Brazil]]==
+===[[Alagoas|Alagoas (AL)]]===
+{|class="wikitable"
+!Mesoregion
+!Microregion
+!Municipality
+|-
+|rowspan=24|Agreste Alagoano
+|rowspan=10|Arapiraca
+|[[Arapiraca]]
+|-
+|[[Campo Grande, Alagoas|Campo Grande]]
+|-
+|[[Coité do Nóia]]
+|-
+|[[Craíbas]]
+|-
+|[[Feira Grande]]
+|-
+|[[Girau do Ponciano]]
+|-
+|[[Lagoa da Canoa]]
+|-
+|[[Limoeiro de Anadia]]
+|-
+|[[São Sebastião, Alagoas|São Sebastião]]
+|-
+|[[Taquarana]]
+|-
+|rowspan=11|Palmeira dos Indios
+|[[Belém, Alagoas|Belém]]
+|-
+|[[Cacimbinhas]]
+|-
+|[[Estrela de Alagoas]]
+|-
+|[[Igaci]]
+|-
+|[[Mar Vermelho]]
+|-
+|[[Maribondo]]
+|-
+|[[Minador do Negrão]]
+|-
+|[[Palmeira dos Índios]]
+|-
+|[[Paulo Jacinto]]
+|-
+|[[Quebrangulo]]
+|-
+|[[Tanque d'Arca]]
+|-
+|rowspan=3|Traipu
+|[[Olho d'Água Grande]]
+|-
+|[[São Brás, Alagoas|São Brás]]
+|-
+|[[Traipu]]
+|-
+|rowspan=52|Leste Alagoano
+|rowspan=6|Litoral Norte Alagoano
+|[[Japaratinga]]
+|-
+|[[Jequiá da Praia]]
+|-
+|[[Maragogi]]
+|-
+|[[Passo de Camaragibe]]
+|-
+|[[Porto de Pedras]]
+|-
+|[[São Miguel dos Milagres]]
+|-
+|rowspan=10|Maceio
+|[[Barra de Santo Antônio]]
+|-
+|[[Barra de São Miguel, Alagoas|Barra de São Miguel]]
+|-
+|[[Coqueiro Seco]]
+|-
+|[[Maceió]] (State Capital)
+|-
+|[[Marechal Deodoro]]
+|-
+|[[Paripueira]]
+|-
+|[[Pilar, Alagoas|Pilar]]
+|-
+|[[Rio Largo]]
+|-
+|[[Santa Luzia do Norte]]
+|-
+|[[Satuba]]
+|-
+|rowspan=16|Mata Alagoana
+|[[Atalaia, Alagoas|Atalaia]]
+|-
+|[[Branquinha]]
+|-
+|[[Cajueiro]]
+|-
+|[[Campestre]]
+|-
+|[[Capela]]
+|-
+|[[Colônia Leopoldina]]
+|-
+|[[Flexeiras]]
+|-
+|[[Jacuípe]]
+|-
+|[[Joaquim Gomes, Alagoas|Joaquim Gomes]]
+|-
+|[[Jundiá]]
+|-
+|[[Matriz de Camaragibe]]
+|-
+|[[Messias, Alagoas|Messias]]
+|-
+|[[Murici]]
+|-
+|[[Novo Lino]]
+|-
+|[[Porto Calvo]]
+|-
+|[[São Luís do Quitunde]]
+|-
+|rowspan=5|Penedo
+|[[Feliz Deserto]]
+|-
+|[[Igreja Nova, Alagoas|Igreja Nova]]
+|-
+|[[Penedo]]
+|-
+|[[Piaçabuçu]]
+|-
+|[[Porto Real do Colégio]]
+|-
+|rowspan=8|Sao Miguel dos Campos
+|[[Anadia, Alagoas|Anadia]]
+|-
+|[[Boca da Mata]]
+|-
+|[[Campo Alegre, Alagoas|Campo Alegre]]
+|-
+|[[Coruripe]]
+|-
+|[[Junqueiro]]
+|-
+|[[Roteiro, Alagoas|Roteiro]]
+|-
+|[[São Miguel dos Campos]]
+|-
+|[[Teotônio Vilela]]
+|-
+|rowspan=7|Serrana dos Quilombos
+|[[Chã Preta]]
+|-
+|[[Ibateguara]]
+|-
+|[[Pindoba]]
+|-
+|[[Santana do Mundaú]]
+|-
+|[[São José da Laje]]
+|-
+|[[União dos Palmares]]
+|-
+|[[Viçosa, Alagoas|Viçosa]]
+|-
+|rowspan=26|Sertao Alagoano
+|rowspan=3|Alagoana do Sertao do Sao Francisco
+|[[Delmiro Gouveia]]
+|-
+|[[Olho d'Água do Casado]]
+|-
+|[[Piranhas]]
+|-
+|rowspan=8|Batalha
+|[[Batalha, Alagoas|Batalha]]
+|-
+|[[Belo Monte]]
+|-
+|[[Jacaré dos Homens]]
+|-
+|[[Jaramataia]]
+|-
+|[[Major Isidoro]]
+|-
+|[[Monteirópolis]]
+|-
+|[[Olho d'Água das Flores]]
+|-
+|[[Olivença, Alagoas|Olivença]]
+|-
+|rowspan=10|Santana do Ipanema
+|[[Carneiros]]
+|-
+|[[Dois Riachos]]
+|-
+|[[Maravilha]]
+|-
+|[[Ouro Branco]]
+|-
+|[[Palestina, Alagoas|Palestina]]
+|-
+|[[Pão de Açúcar, Alagoas|Pão de Açúcar]]
+|-
+|[[Poço das Trincheiras]]
+|-
+|[[Santana do Ipanema]]
+|-
+|[[São José da Tapera]]
+|-
+|[[Senador Rui Palmeira]]
+|-
+|rowspan=5|Serrana do Sertao Alagoano
+|[[Água Branca]]
+|-
+|[[Canapi]]
+|-
+|[[Inhapi]]
+|-
+|[[Mata Grande]]
+|-
+|[[Pariconha]]
+|}
+
+===[[Bahia|Bahia (BA)]]===
+{|class="wikitable"
+!Mesoregion
+!Microregion
+!Municipality
+|-
+|rowspan=80|Centro Norte Baiano
+|rowspan=24|Feira de Santana
+|[[Água Fria]]
+|-
+|[[Amélia Rodrigues]]
+|-
+|[[Anguera]]
+|-
+|[[Antônio Cardoso]]
+|-
+|[[Conceição da Feira]]
+|-
+|[[Coração de Maria]]
+|-
+|[[Elísio Medrado]]
+|-
+|[[Feira de Santana]]
+|-
+|[[Ipecaetá]]
+|-
+|[[Ipirá]]
+|-
+|[[Irará]]
+|-
+|[[Itatim]]
+|-
+|[[Ouriçangas]]
+|-
+|[[Pedrão]]
+|-
+|[[Pintadas]]
+|-
+|[[Rafael Jambeiro]]
+|-
+|[[Santa Bárbara, Bahia|Santa Bárbara]]
+|-
+|[[Santa Teresinha]]
+|-
+|[[Santanópolis]]
+|-
+|[[Santo Estêvão, Bahia|Santo Estêvão]]
+|-
+|[[São Gonçalo dos Campos]]
+|-
+|[[Serra Preta]]
+|-
+|[[Tanquinho]]
+|-
+|[[Teodoro Sampaio, Bahia|Teodoro Sampaio]]
+|-
+|rowspan=19|Irecê
+|[[América Dourada]]
+|-
+|[[Barra do Mendes]]
+|-
+|[[Barro Alto, Bahia|Barro Alto]]
+|-
+|[[Cafarnaum]]
+|-
+|[[Canarana]]
+|-
+|[[Central (Bahia)|Central]]
+|-
+|[[Gentio do Ouro]]
+|-
+|[[Ibipeba]]
+|-
+|[[Ibititá]]
+|-
+|[[Iraquara]]
+|-
+|[[Irecê]]
+|-
+|[[João Dourado]]
+|-
+|[[Jussara, Bahia|Jussara]]
+|-
+|[[Lapão]]
+|-
+|[[Mulungu do Morro]]
+|-
+|[[Presidente Dutra]]
+|-
+|[[São Gabriel, Bahia|São Gabriel]]
+|-
+|[[Souto Soares]]
+|-
+|[[Uibaí]]
+|-
+|rowspan=12|Itaberaba
+|[[Baixa Grande]]
+|-
+|[[Boa Vista do Tupim]]
+|-
+|[[Iaçu]]
+|-
+|[[Ibiquera]]
+|-
+|[[Itaberaba]]
+|-
+|[[Lajedinho]]
+|-
+|[[Macajuba]]
+|-
+|[[Mairi, Bahia|Mairi]]
+|-
+|[[Mundo Novo, Bahia|Mundo Novo]]
+|-
+|[[Ruy Barbosa, Bahia|Ruy Barbosa]]
+|-
+|[[Tapiramutá]]
+|-
+|[[Várzea da Roça]]
+|-
+|rowspan=16|Jacobina
+|[[Caém]]
+|-
+|[[Caldeirão Grande]]
+|-
+|[[Capim Grosso]]
+|-
+|[[Jacobina]]
+|-
+|[[Miguel Calmon]]
+|-
+|[[Mirangaba]]
+|-
+|[[Morro do Chapéu]]
+|-
+|[[Ourolândia]]
+|-
+|[[Piritiba]]
+|-
+|[[Ponto Novo]]
+|-
+|[[Quixabeira]]
+|-
+|[[São José do Jacuípe]]
+|-
+|[[Saúde]]
+|-
+|[[Serrolândia]]
+|-
+|[[Várzea do Poço]]
+|-
+|[[Várzea Nova]]
+|-
+|rowspan=9|Senhor do Bonfim
+|[[Andorinha]]
+|-
+|[[Antônio Gonçalves]]
+|-
+|[[Campo Formoso]]
+|-
+|[[Filadélfia (Bahia)|Filadélfia]]
+|-
+|[[Itiúba]]
+|-
+|[[Jaguarari]]
+|-
+|[[Pindobaçu]]
+|-
+|[[Senhor do Bonfim]]
+|-
+|[[Umburanas]]
+|-
+|rowspan=118|Centro Sul Baiano
+|rowspan=11|Boquira
+|[[Boquira]]
+|-
+|[[Botuporã]]
+|-
+|[[Brotas de Macaúbas]]
+|-
+|[[Caturama]]
+|-
+|[[Ibipitanga]]
+|-
+|[[Ibitiara]]
+|-
+|[[Ipupiara]]
+|-
+|[[Macaúbas]]
+|-
+|[[Novo Horizonte, Bahia|Novo Horizonte]]
+|-
+|[[Oliveira dos Brejinhos]]
+|-
+|[[Tanque Novo]]
+|-
+|rowspan=14|Brumado
+|[[Aracatu]]
+|-
+|[[Brumado]]
+|-
+|[[Caraíbas]]
+|-
+|[[Condeúba]]
+|-
+|[[Cordeiros]]
+|-
+|[[Guajeru]]
+|-
+|[[Ituaçu]]
+|-
+|[[Maetinga]]
+|-
+|[[Malhada de Pedras]]
+|-
+|[[Piripá]]
+|-
+|[[Presidente Jânio Quadros]]
+|-
+|[[Rio do Antônio]]
+|-
+|[[Tanhaçu]]
+|-
+|[[Tremedal]]
+|-
+|rowspan=18|Guanambi
+|[[Caculé]]
+|-
+|[[Caetité]]
+|-
+|[[Candiba]]
+|-
+|[[Guanambi]]
+|-
+|[[Ibiassucê]]
+|-
+|[[Igaporã]]
+|-
+|[[Iuiú]]
+|-
+|[[Jacaraci]]
+|-
+|[[Lagoa Real]]
+|-
+|[[Licínio de Almeida]]
+|-
+|[[Malhada]]
+|-
+|[[Matina]]
+|-
+|[[Mortugaba]]
+|-
+|[[Palmas de Monte Alto]]
+|-
+|[[Pindaí]]
+|-
+|[[Riacho de Santana, Bahia|Riacho de Santana]]
+|-
+|[[Sebastião Laranjeiras]]
+|-
+|[[Urandi]]
+|-
+|rowspan=9|Itapetinga
+|[[Encruzilhada]]
+|-
+|[[Itambé]]
+|-
+|[[Itapetinga]]
+|-
+|[[Itarantim]]
+|-
+|[[Itororó]]
+|-
+|[[Macarani]]
+|-
+|[[Maiquinique]]
+|-
+|[[Potiraguá]]
+|-
+|[[Ribeirão do Largo]]
+|-
+|rowspan=26|Jequié
+|[[Aiquara]]
+|-
+|[[Amargosa, Brazil|Amargosa]]
+|-
+|[[Apuarema]]
+|-
+|[[Brejões]]
+|-
+|[[Cravolândia]]
+|-
+|[[Irajuba]]
+|-
+|[[Iramaia]]
+|-
+|[[Itagi, Bahia|Itagi]]
+|-
+|[[Itaquara]]
+|-
+|[[Itiruçu]]
+|-
+|[[Jaguaquara]]
+|-
+|[[Jequié]]
+|-
+|[[Jiquiriçá]]
+|-
+|[[Jitaúna]]
+|-
+|[[Lafaiete Coutinho]]
+|-
+|[[Laje]]
+|-
+|[[Lajedo do Tabocal]]
+|-
+|[[Maracás]]
+|-
+|[[Marcionílio Souza]]
+|-
+|[[Milagres]]
+|-
+|[[Mutuípe]]
+|-
+|[[Nova Itarana]]
+|-
+|[[Planaltino]]
+|-
+|[[Santa Inês]]
+|-
+|[[São Miguel das Matas]]
+|-
+|[[Ubaíra]]
+|-
+|rowspan=5|Livramento do Brumado
+|[[Dom Basílio]]
+|-
+|[[Érico Cardoso]]
+|-
+|[[Livramento de Nossa Senhora]]
+|-
+|[[Paramirim]]
+|-
+|[[Rio do Pires]]
+|-
+|rowspan=18|Seabra
+|[[Abaíra]]
+|-
+|[[Andaraí]]
+|-
+|[[Barra da Estiva]]
+|-
+|[[Boninal]]
+|-
+|[[Bonito (Bahia)|Bonito]]
+|-
+|[[Contendas do Sincorá]]
+|-
+|[[Ibicoara]]
+|-
+|[[Itaeté]]
+|-
+|[[Jussiape]]
+|-
+|[[Lençóis]]
+|-
+|[[Mucugê]]
+|-
+|[[Nova Redenção]]
+|-
+|[[Palmeiras (Bahia)|Palmeiras]]
+|-
+|[[Piatã, Bahia|Piatã]]
+|-
+|[[Rio de Contas]]
+|-
+|[[Seabra]]
+|-
+|[[Utinga]]
+|-
+|[[Wagner (Bahia)|Wagner]]
+|-
+|rowspan=17|Vitória da Conquista
+|[[Anagé]]
+|-
+|[[Barra do Choça]]
+|-
+|[[Belo Campo]]
+|-
+|[[Boa Nova]]
+|-
+|[[Bom Jesus da Serra]]
+|-
+|[[Caatiba]]
+|-
+|[[Caetanos]]
+|-
+|[[Cândido Sales]]
+|-
+|[[Dário Meira]]
+|-
+|[[Ibicuí]]
+|-
+|[[Iguaí]]
+|-
+|[[Manoel Vitorino]]
+|-
+|[[Mirante]]
+|-
+|[[Nova Canaã (Bahia)|Nova Canaã]]
+|-
+|[[Planalto, Bahia|Planalto]]
+|-
+|[[Poções]]
+|-
+|[[Vitória da Conquista]]
+|-
+|rowspan=24|Extremo Oeste Baiano
+|rowspan=7|Barreiras
+|[[Baianópolis]]
+|-
+|[[Barreiras]]
+|-
+|[[Catolândia]]
+|-
+|[[Formosa do Rio Preto]]
+|-
+|[[Luis Eduardo Magalhaes|Luís Eduardo Magalhães]]
+|-
+|[[Riachão das Neves]]
+|-
+|[[São Desidério]]
+|-
+|rowspan=8|Cotegipe
+|[[Angical]]
+|-
+|[[Brejolândia]]
+|-
+|[[Cotegipe]]
+|-
+|[[Cristópolis]]
+|-
+|[[Mansidão]]
+|-
+|[[Santa Rita de Cássia, Bahia|Santa Rita de Cássia]]
+|-
+|[[Tabocas do Brejo Velho]]
+|-
+|[[Wanderley]]
+|-
+|rowspan=9|Santa Maria da Vitória
+|[[Canápolis, Bahia|Canápolis]]
+|-
+|[[Cocos (Bahia)|Cocos]]
+|-
+|[[Coribe]]
+|-
+|[[Correntina]]
+|-
+|[[Jaborandi, Bahia|Jaborandi]]
+|-
+|[[Santa Maria da Vitória]]
+|-
+|[[Santana (Bahia)|Santana]]
+|-
+|[[São Félix do Coribe]]
+|-
+|[[Serra Dourada]]
+|-
+|rowspan=38|Metropolitana de Salvador
+|rowspan=7|Catu
+|[[Catu]]
+|-
+|[[Conceição do Jacuípe]]
+|-
+|[[Itanagra]]
+|-
+|[[Mata de São João]]
+|-
+|[[Pojuca]]
+|-
+|[[São Sebastião do Passé]]
+|-
+|[[Terra Nova (Bahia)|Terra Nova]]
+|-
+|rowspan=10|Salvador
+|[[Camaçari]]
+|-
+|[[Candeias]]
+|-
+|[[Dias d'Ávila]]
+|-
+|[[Itaparica]]
+|-
+|[[Lauro de Freitas]]
+|-
+|[[Madre de Deus, Brazil|Madre de Deus]]
+|-
+|[[Salvador, Bahia|Salvador]] (State Capital)
+|-
+|[[São Francisco do Conde]]
+|-
+|[[Simões Filho]]
+|-
+|[[Vera Cruz (Bahia)|Vera Cruz]]
+|-
+|rowspan=21|Santo Antônio de Jesus
+|[[Aratuípe]]
+|-
+|[[Cabaceiras do Paraguaçu]]
+|-
+|[[Cachoeira]]
+|-
+|[[Castro Alves, Bahia|Castro Alves]]
+|-
+|[[Conceição do Almeida]]
+|-
+|[[Cruz das Almas]]
+|-
+|[[Dom Macedo Costa]]
+|-
+|[[Governador Mangabeira]]
+|-
+|[[Jaguaripe]]
+|-
+|[[Maragogipe]]
+|-
+|[[Muniz Ferreira]]
+|-
+|[[Muritiba]]
+|-
+|[[Nazaré, Bahia|Nazaré]]
+|-
+|[[Salinas da Margarida]]
+|-
+|[[Santo Amaro, Brazil|Santo Amaro]]
+|-
+|[[Santo Antônio de Jesus]]
+|-
+|[[São Felipe]]
+|-
+|[[São Félix, Bahia|São Félix]]
+|-
+|[[Sapeaçu]]
+|-
+|[[Saubara]]
+|-
+|[[Varzedo]]
+|-
+|rowspan=60|Nordeste Baiano
+|rowspan=10|Alagoinhas
+|[[Acajutiba]]
+|-
+|[[Alagoinhas]]
+|-
+|[[Aporá]]
+|-
+|[[Araças]]
+|-
+|[[Aramari, Bahia|Aramari]]
+|-
+|[[Barrocas]]
+|-
+|[[Crisópolis]]
+|-
+|[[Inhambupe]]
+|-
+|[[Rio Real]]
+|-
+|[[Sátiro Dias]]
+|-
+|rowspan=5|Entre Rios
+|[[Cardeal da Silva]]
+|-
+|[[Conde (Bahia)|Conde]]
+|-
+|[[Entre Rios (Bahia)|Entre Rios]]
+|-
+|[[Esplanada]]
+|-
+|[[Jandaíra]]
+|-
+|rowspan=9|Euclides da Cunha
+|[[Cansanção]]
+|-
+|[[Canudos]]
+|-
+|[[Euclides da Cunha (town)|Euclides da Cunha]]
+|-
+|[[Monte Santo (Bahia)|Monte Santo]]
+|-
+|[[Nordestina]]
+|-
+|[[Queimadas, Bahia|Queimadas]]
+|-
+|[[Quijingue]]
+|-
+|[[Tucano (town)|Tucano]]
+|-
+|[[Uauá]]
+|-
+|rowspan=5|Jeremoabo
+|[[Coronel João Sá]]
+|-
+|[[Jeremoabo]]
+|-
+|[[Pedro Alexandre]]
+|-
+|[[Santa Brígida, Bahia|Santa Brígida]]
+|-
+|[[Sítio do Quinto]]
+|-
+|rowspan=14|Ribeira do Pombal
+|[[Adustina]]
+|-
+|[[Antas, Bahia|Antas]]
+|-
+|[[Banzaê]]
+|-
+|[[Cícero Dantas]]
+|-
+|[[Cipó]]
+|-
+|[[Fátima (Bahia)|Fátima]]
+|-
+|[[Heliópolis (Brazil)|Heliópolis]]
+|-
+|[[Itapicuru]]
+|-
+|[[Nova Soure]]
+|-
+|[[Novo Triunfo]]
+|-
+|[[Olindina]]
+|-
+|[[Paripiranga]]
+|-
+|[[Ribeira do Amparo]]
+|-
+|[[Ribeira do Pombal]]
+|-
+|rowspan=17|Serrinha
+|[[Araci]]
+|-
+|[[Biritinga]]
+|-
+|[[Candeal]]
+|-
+|[[Capela do Alto Alegre]]
+|-
+|[[Conceição do Coité]]
+|-
+|[[Gavião (Bahia)|Gavião]]
+|-
+|[[Ichu]]
+|-
+|[[Lamarão]]
+|-
+|[[Nova Fátima]]
+|-
+|[[Pé de Serra]]
+|-
+|[[Retirolândia]]
+|-
+|[[Riachão do Jacuípe]]
+|-
+|[[Santaluz]]
+|-
+|[[São Domingos, Bahia|São Domingos]]
+|-
+|[[Serrinha]]
+|-
+|[[Teofilândia]]
+|-
+|[[Valente, Brazil|Valente]]
+|-
+|rowspan=70|Sul Baiano
+|rowspan=41|Ilhéus-Itabuna
+|[[Almadina, Bahia|Almadina]]
+|-
+|[[Arataca]]
+|-
+|[[Aurelino Leal]]
+|-
+|[[Barra do Rocha]]
+|-
+|[[Belmonte, Bahia|Belmonte]]
+|-
+|[[Buerarema]]
+|-
+|[[Camacan]]
+|-
+|[[Canavieiras]]
+|-
+|[[Coaraci]]
+|-
+|[[Firmino Alves]]
+|-
+|[[Floresta Azul]]
+|-
+|[[Gandu]]
+|-
+|[[Gongogi]]
+|-
+|[[Barro Preto]]
+|-
+|[[Ibicaraí]]
+|-
+|[[Ibirapitanga]]
+|-
+|[[Ibirataia]]
+|-
+|[[Ilhéus]]
+|-
+|[[Ipiaú]]
+|-
+|[[Itabuna]]
+|-
+|[[Itacaré]]
+|-
+|[[Itagibá]]
+|-
+|[[Itaju do Colônia]]
+|-
+|[[Itajuípe]]
+|-
+|[[Itamari]]
+|-
+|[[Itapé, Bahia|Itapé]]
+|-
+|[[Itapebi]]
+|-
+|[[Itapitanga]]
+|-
+|[[Jussari]]
+|-
+|[[Mascote]]
+|-
+|[[Nova Ibiá]]
+|-
+|[[Pau Brasil]]
+|-
+|[[Santa Cruz da Vitória]]
+|-
+|[[Santa Luzia, Bahia|Santa Luzia]]
+|-
+|[[São José da Vitória]]
+|-
+|[[Teolândia]]
+|-
+|[[Ubaitaba]]
+|-
+|[[Ubatã]]
+|-
+|[[Una, Brazil|Una]]
+|-
+|[[Uruçuca]]
+|-
+|[[Wenceslau Guimarães]]
+|-
+|rowspan=19|Porto Seguro
+|[[Alcobaça (Bahia)|Alcobaça]]
+|-
+|[[Caravelas]]
+|-
+|[[Eunápolis]]
+|-
+|[[Guaratinga]]
+|-
+|[[Ibirapuã]]
+|-
+|[[Itabela]]
+|-
+|[[Itagimirim]]
+|-
+|[[Itamaraju]]
+|-
+|[[Itanhém]]
+|-
+|[[Jucuruçu]]
+|-
+|[[Lajedão]]
+|-
+|[[Medeiros Neto]]
+|-
+|[[Mucuri]]
+|-
+|[[Nova Viçosa]]
+|-
+|[[Porto Seguro]]
+|-
+|[[Prado (Bahia)|Prado]]
+|-
+|[[Santa Cruz Cabrália]]
+|-
+|[[Teixeira de Freitas]]
+|-
+|[[Vereda, Bahia|Vereda]]
+|-
+|rowspan=10|Valença
+|[[Cairu]]
+|-
+|[[Camamu]]
+|-
+|[[Igrapiúna]]
+|-
+|[[Ituberá]]
+|-
+|[[Maraú]]
+|-
+|[[Nilo Peçanha, Brazil|Nilo Peçanha]]
+|-
+|[[Piraí do Norte]]
+|-
+|[[Presidente Tancredo Neves]]
+|-
+|[[Taperoá]]
+|-
+|[[Valença, Bahia|Valença]]
+|-
+|rowspan=27|Vale São-Franciscano da Bahia
+|rowspan=7|Barra
+|[[Barra (Bahia)|Barra]]
+|-
+|[[Buritirama]]
+|-
+|[[Ibotirama]]
+|-
+|[[Itaguaçu da Bahia]]
+|-
+|[[Morpará]]
+|-
+|[[Muquém de São Francisco]]
+|-
+|[[Xique-Xique]]
+|-
+|rowspan=6|Bom Jesus da Lapa
+|[[Bom Jesus da Lapa]]
+|-
+|[[Carinhanha]]
+|-
+|[[Feira da Mata]]
+|-
+|[[Paratinga]]
+|-
+|[[Serra do Ramalho]]
+|-
+|[[Sítio do Mato]]
+|-
+|rowspan=8|Juazeiro
+|[[Campo Alegre de Lourdes]]
+|-
+|[[Casa Nova]]
+|-
+|[[Curaçá]]
+|-
+|[[Juazeiro]]
+|-
+|[[Pilão Arcado]]
+|-
+|[[Remanso]]
+|-
+|[[Sento Sé]]
+|-
+|[[Sobradinho]]
+|-
+|rowspan=6|Paulo Afonso
+|[[Abaré]]
+|-
+|[[Chorrochó]]
+|-
+|[[Glória, Bahia|Glória]]
+|-
+|[[Macururé]]
+|-
+|[[Paulo Afonso]]
+|-
+|[[Rodelas]]
+|}
+
+===[[Ceará|Ceará (CE)]]===
+{|class="wikitable"
+!Mesoregion
+!Microregion
+!Municipality
+|-
+|rowspan=14|Centro-Sul Cearense
+|rowspan=5|Iguatu
+|[[Cedro]]
+|-
+|[[Icó]]
+|-
+|[[Iguatu]]
+|-
+|[[Orós]]
+|-
+|[[Quixelô]]
+|-
+|rowspan=4|Lavras da Mangabeira
+|[[Baixio]]
+|-
+|[[Ipaumirim]]
+|-
+|[[Lavras da Mangabeira]]
+|-
+|[[Umari, Brazil|Umari]]
+|-
+|rowspan=5|Varzea Alegre
+|[[Antonina do Norte]]
+|-
+|[[Cariús]]
+|-
+|[[Jucás]]
+|-
+|[[Tarrafas]]
+|-
+|[[Várzea Alegre]]
+|-
+|rowspan=21|Jaguaribe
+|rowspan=10|Baixo Jaguaribe
+|[[Alto Santo]]
+|-
+|[[Ibicuitinga]]
+|-
+|[[Jaguaruana]]
+|-
+|[[Limoeiro do Norte]]
+|-
+|[[Morada Nova]]
+|-
+|[[Palhano]]
+|-
+|[[Quixeré]]
+|-
+|[[Russas]]
+|-
+|[[São João do Jaguaribe]]
+|-
+|[[Tabuleiro do Norte]]
+|-
+|rowspan=4|Litoral de Aracati
+|[[Aracati]]
+|-
+|[[Fortim]]
+|-
+|[[Icapuí]]
+|-
+|[[Itaiçaba]]
+|-
+|rowspan=3|Medio Jaguaribe
+|[[Jaguaretama]]
+|-
+|[[Jaguaribara]]
+|-
+|[[Jaguaribe]]
+|-
+|rowspan=4|Serra do Pereiro
+|[[Ererê]]
+|-
+|[[Iracema]]
+|-
+|[[Pereiro]]
+|-
+|[[Potiretama]]
+|-
+|rowspan=11|Metropolitana de Fortaleza
+|rowspan=9|Fortaleza
+|[[Aquiraz]]
+|-
+|[[Caucaia]]
+|-
+|[[Eusébio, Ceará|Eusébio]]
+|-
+|[[Fortaleza]] (State Capital)
+|-
+|[[Guaiúba]]
+|-
+|[[Itaitinga]]
+|-
+|[[Maracanaú]]
+|-
+|[[Maranguape]]
+|-
+|[[Pacatuba, Ceará|Pacatuba]]
+|-
+|rowspan=2|Pacajus
+|[[Horizonte]]
+|-
+|[[Pacajús]]
+|-
+|rowspan=47|Noroeste Cearense
+|rowspan=4|Coreau
+|[[Coreaú]]
+|-
+|[[Frecheirinha]]
+|-
+|[[Moraújo]]
+|-
+|[[Uruoca]]
+|-
+|rowspan=8|Ibiapaba
+|[[Carnaubal]]
+|-
+|[[Croatá]]
+|-
+|[[Guaraciaba do Norte]]
+|-
+|[[Ibiapina]]
+|-
+|[[São Benedito]]
+|-
+|[[Tianguá]]
+|-
+|[[Ubajara]]
+|-
+|[[Viçosa do Ceará]]
+|-
+|rowspan=6|Ipu
+|[[Ipú]]
+|-
+|[[Ipueiras]]
+|-
+|[[Pires Ferreira]]
+|-
+|[[Poranga]]
+|-
+|[[Reriutaba]]
+|-
+|[[Varjota]]
+|-
+|rowspan=12|Litoral de Camocim e Acarau
+|[[Acaraú]]
+|-
+|[[Barroquinha]]
+|-
+|[[Bela Cruz]]
+|-
+|[[Camocim]]
+|-
+|[[Chaval]]
+|-
+|[[Cruz, Ceará|Cruz]]
+|-
+|[[Granja, Ceará|Granja]]
+|-
+|[[Itarema]]
+|-
+|[[Jijoca de Jericoacoara]]
+|-
+|[[Marco, Ceará|Marco]]
+|-
+|[[Martinópole]]
+|-
+|[[Morrinhos, Ceará|Morrinhos]]
+|-
+|rowspan=2|Meruoca
+|[[Alcântaras]]
+|-
+|[[Meruoca]]
+|-
+|rowspan=3|Santa Quiteria
+|[[Catunda]]
+|-
+|[[Hidrolândia, Ceará|Hidrolândia]]
+|-
+|[[Santa Quitéria, Ceará|Santa Quitéria]]
+|-
+|rowspan=12|Sobral
+|[[Cariré]]
+|-
+|[[Forquilha]]
+|-
+|[[Graça]]
+|-
+|[[Groaíras]]
+|-
+|[[Irauçuba]]
+|-
+|[[Massapê]]
+|-
+|[[Miraíma]]
+|-
+|[[Mucambo]]
+|-
+|[[Pacujá]]
+|-
+|[[Santana do Acaraú]]
+|-
+|[[Senador Sá]]
+|-
+|[[Sobral, Ceará|Sobral]]
+|-
+|rowspan=36|Norte Cearense
+|rowspan=3|Baixo Curu
+|[[Paracuru]]
+|-
+|[[Paraipaba]]
+|-
+|[[São Gonçalo do Amarante, Ceará|São Gonçalo do Amarante]]
+|-
+|rowspan=11|Baturite
+|[[Acarape|Acarapé]]
+|-
+|[[Aracoiaba]]
+|-
+|[[Aratuba]]
+|-
+|[[Baturité]]
+|-
+|[[Capistrano, Ceará|Capistrano]]
+|-
+|[[Guaramiranga]]
+|-
+|[[Itapiúna]]
+|-
+|[[Mulungu, Ceará|Mulungu]]
+|-
+|[[Pacoti]]
+|-
+|[[Palmácia]]
+|-
+|[[Redenção, Ceará|Redenção]]
+|-
+|rowspan=4|Caninde
+|[[Canindé, Ceará|Canindé]]
+|-
+|[[Caridade]]
+|-
+|[[Itatira]]
+|-
+|[[Paramoti]]
+|-
+|rowspan=3|Cascavel
+|[[Beberibe]]
+|-
+|[[Cascavel, Ceará|Cascavel]]
+|-
+|[[Pindoretama]]
+|-
+|rowspan=3|Chorozinho
+|[[Barreira]]
+|-
+|[[Chorozinho]]
+|-
+|[[Ocara]]
+|-
+|rowspan=3|Itapipoca
+|[[Amontada]]
+|-
+|[[Itapipoca]]
+|-
+|[[Trairi]]
+|-
+|rowspan=5|Medio Curu
+|[[Apuiarés]]
+|-
+|[[General Sampaio]]
+|-
+|[[Pentecoste]]
+|-
+|[[São Luís do Curu]]
+|-
+|[[Tejuçuoca]]
+|-
+|rowspan=4|Uruburetama
+|[[Itapagé]]
+|-
+|[[Tururu]]
+|-
+|[[Umirim]]
+|-
+|[[Uruburetama]]
+|-
+|rowspan=30|Sertoes Cearenses
+|rowspan=9|Sertao de Crateus
+|[[Ararendá]]
+|-
+|[[Crateús]]
+|-
+|[[Independência, Ceará|Independência]]
+|-
+|[[Ipaporanga]]
+|-
+|[[Monsenhor Tabosa]]
+|-
+|[[Nova Russas]]
+|-
+|[[Novo Oriente]]
+|-
+|[[Quiterianópolis]]
+|-
+|[[Tamboril,Ceará|Tamboril]]
+|-
+|rowspan=6|Sertao de Inhamuns
+|[[Aiuaba]]
+|-
+|[[Arneiroz]]
+|-
+|[[Catarina, Ceará|Catarina]]
+|-
+|[[Parambu]]
+|-
+|[[Saboeiro]]
+|-
+|[[Tauá]]
+|-
+|rowspan=7|Sertao de Quixeramobim
+|[[Banabuiú]]
+|-
+|[[Boa Viagem, Ceará|Boa Viagem]]
+|-
+|[[Choró]]
+|-
+|[[Ibaretama]]
+|-
+|[[Madalena, Brazil|Madalena]]
+|-
+|[[Quixadá]]
+|-
+|[[Quixeramobim]]
+|-
+|rowspan=8|Sertao de Senador Pompeu
+|[[Acopiara]]
+|-
+|[[Deputado Irapuan Pinheiro]]
+|-
+|[[Milhã]]
+|-
+|[[Mombaça]]
+|-
+|[[Pedra Branca, Ceará|Pedra Branca]]
+|-
+|[[Piquet Carneiro]]
+|-
+|[[Senador Pompeu]]
+|-
+|[[Solonópole]]
+|-
+|rowspan=25|Sul Cearense
+|rowspan=3|Barro
+|[[Aurora, Ceará|Aurora]]
+|-
+|[[Barro, Ceará|Barro]]
+|-
+|[[Mauriti]]
+|-
+|rowspan=5|Brejo Santo
+|[[Abaiara]]
+|-
+|[[Brejo Santo]]
+|-
+|[[Jati(Ceará)|Jati]]
+|-
+|[[Milagres]]
+|-
+|[[Penaforte]]
+|-
+|rowspan=8|Cariri
+|[[Barbalha]]
+|-
+|[[Crato, Ceará|Crato]]
+|-
+|[[Jardim, Ceará|Jardim]]
+|-
+|[[Juazeiro do Norte]]
+|-
+|[[Missão Velha]]
+|-
+|[[Nova Olinda]]
+|-
+|[[Porteiras]]
+|-
+|[[Santana do Cariri]]
+|-
+|rowspan=4|Caririacu
+|[[Altaneira]]
+|-
+|[[Caririaçú]]
+|-
+|[[Farias Brito]]
+|-
+|[[Granjeiro]]
+|-
+|rowspan=5|Chapada do Araripe
+|[[Araripe]]
+|-
+|[[Assaré]]
+|-
+|[[Campos Sales, Ceará|Campos Sales]]
+|-
+|[[Potengi]]
+|-
+|[[Salitre, Brazil|Salitre]]
+|}
+
+===[[Maranhão|Maranhão (MA)]]===
+{|class="wikitable"
+!Mesoregion
+!Microregion
+!Municipality
+|-
+|rowspan=42|Centro Maranhense
+|rowspan=11|Alto Mearim e Grajaú
+|[[Arame (Maranhão)|Arame]]
+|-
+|[[Barra do Corda]]
+|-
+|[[Fernando Falcão]]
+|-
+|[[Formosa da Serra Negra]]
+|-
+|[[Grajaú (Maranhão)|Grajaú]]
+|-
+|[[Itaipava do Grajaú]]
+|-
+|[[Jenipapo dos Vieiras]]
+|-
+|[[Joselândia]]
+|-
+|[[Santa Filomena do Maranhão]]
+|-
+|[[Sítio Novo]]
+|-
+|[[Tuntum]]
+|-
+|rowspan=20|Médio Mearim
+|[[Bacabal]]
+|-
+|[[Bernardo do Mearim]]
+|-
+|[[Bom Lugar]]
+|-
+|[[Esperantinópolis]]
+|-
+|[[Igarapé Grande]]
+|-
+|[[Lago do Junco]]
+|-
+|[[Lago dos Rodrigues]]
+|-
+|[[Lago Verde, Maranhão|Lago Verde]]
+|-
+|[[Lima Campos]]
+|-
+|[[Olho d'Água das Cunhãs]]
+|-
+|[[Pedreiras, Maranhão|Pedreiras]]
+|-
+|[[Pio XII (Maranhão)|Pio XII]]
+|-
+|[[Poção de Pedras]]
+|-
+|[[Santo Antônio dos Lopes, Maranhão|Santo Antônio dos Lopes]]
+|-
+|[[São Luís Gonzaga do Maranhão]]
+|-
+|[[São Mateus do Maranhão]]
+|-
+|[[São Raimundo do Doca Bezerra]]
+|-
+|[[São Roberto]]
+|-
+|[[Satubinha]]
+|-
+|[[Trizidela do Vale]]
+|-
+|rowspan=11|Presidente Dutra
+|[[Dom Pedro (Maranhão)|Dom Pedro]]
+|-
+|[[Fortuna (Maranhão)|Fortuna]]
+|-
+|[[Gonçalves Dias (Maranhão)|Gonçalves Dias]]
+|-
+|[[Governador Archer]]
+|-
+|[[Governador Eugênio Barros]]
+|-
+|[[Governador Luiz Rocha]]
+|-
+|[[Graça Aranha, Maranhão|Graça Aranha]]
+|-
+|[[Presidente Dutra (Maranhão)|Presidente Dutra]]
+|-
+|[[Senador Alexandre Costa]]
+|-
+|[[São Domingos do Maranhão]]
+|-
+|[[São José dos Basílios]]
+|-
+|rowspan=44|Leste Maranhense
+|rowspan=6|Baixo Parnaíba Maranhense
+|[[Água Doce do Maranhão]]
+|-
+|[[Araioses]]
+|-
+|[[Magalhães de Almeida]]
+|-
+|[[Santa Quitéria do Maranhão]]
+|-
+|[[Santana do Maranhão]]
+|-
+|[[São Bernardo, Maranhão|São Bernardo]]
+|-
+|rowspan=6|Caxias
+|[[Buriti Bravo]]
+|-
+|[[Caxias (Maranhão)|Caxias]]
+|-
+|[[Matões]]
+|-
+|[[Parnarama]]
+|-
+|[[São João do Soter]]
+|-
+|[[Timon, Maranhão|Timon]]
+|-
+|rowspan=13|Chapadas do Alto Itapecuru
+|[[Barão de Grajaú]]
+|-
+|[[Colinas (Maranhão)|Colinas]]
+|-
+|[[Jatobá (Maranhão)|Jatobá]]
+|-
+|[[Lagoa do Mato (Maranhão)|Lagoa do Mato]]
+|-
+|[[Mirador (Maranhão)|Mirador]]
+|-
+|[[Nova Iorque]]
+|-
+|[[Paraibano]]
+|-
+|[[Passagem Franca]]
+|-
+|[[Pastos Bons]]
+|-
+|[[São Francisco do Maranhão]]
+|-
+|[[São João dos Patos]]
+|-
+|[[Sucupira do Norte]]
+|-
+|[[Sucupira do Riachão]]
+|-
+|rowspan=9|Chapadinha
+|[[Anapurus]]
+|-
+|[[Belágua]]
+|-
+|[[Brejo]]
+|-
+|[[Buriti]]
+|-
+|[[Chapadinha]]
+|-
+|[[Mata Roma]]
+|-
+|[[Milagres do Maranhão]]
+|-
+|[[São Benedito do Rio Preto]]
+|-
+|[[Urbano Santos]]
+|-
+|rowspan=6|Codó
+|[[Alto Alegre do Maranhão]]
+|-
+|[[Capinzal do Norte]]
+|-
+|[[Codó]]
+|-
+|[[Coroatá]]
+|-
+|[[Peritoró]]
+|-
+|[[Timbiras]]
+|-
+|rowspan=4|Coelho Neto
+|[[Afonso Cunha]]
+|-
+|[[Aldeias Altas]]
+|-
+|[[Coelho Neto, Maranhão|Coelho Neto]]
+|-
+|[[Duque Bacelar]]
+|-
+|rowspan=60|Norte Maranhense
+|rowspan=4|Aglomeração Urbana de São Luís
+|[[Paço do Lumiar]]
+|-
+|[[Raposa]]
+|-
+|[[São José de Ribamar]]
+|-
+|[[São Luís, Maranhão|São Luís]] (State Capital)
+|-
+|rowspan=21|Baixada Maranhense
+|[[Anajatuba]]
+|-
+|[[Arari]]
+|-
+|[[Bela Vista do Maranhão]]
+|-
+|[[Cajari]]
+|-
+|[[Conceição do Lago-Açu]]
+|-
+|[[Igarapé do Meio]]
+|-
+|[[Matinha]]
+|-
+|[[Monção, Maranhão|Monção]]
+|-
+|[[Olinda Nova do Maranhão]]
+|-
+|[[Palmeirândia]]
+|-
+|[[Pedro do Rosário]]
+|-
+|[[Penalva]]
+|-
+|[[Peri Mirim]]
+|-
+|[[Pinheiro, Maranhão|Pinheiro]]
+|-
+|[[Presidente Sarney (Maranhão)|Presidente Sarney]]
+|-
+|[[Santa Helena, Maranhão|Santa Helena]]
+|-
+|[[São Bento, Maranhão|São Bento]]
+|-
+|[[São João Batista, Maranhão|São João Batista]]
+|-
+|[[São Vicente Ferrer, Maranhão|São Vicente Ferrer]]
+|-
+|[[Viana (Maranhão)|Viana]]
+|-
+|[[Vitória do Mearim]]
+|-
+|rowspan=8|Itapecuru Mirim
+|[[Cantanhede (Maranhão)|Cantanhede]]
+|-
+|[[Itapecuru Mirim]]
+|-
+|[[Matões do Norte]]
+|-
+|[[Miranda do Norte]]
+|-
+|[[Nina Rodrigues]]
+|-
+|[[Pirapemas]]
+|-
+|[[Presidente Vargas (Maranhão)|Presidente Vargas]]
+|-
+|[[Vargem Grande (Maranhão)|Vargem Grande]]
+|-
+|rowspan=6|Lençois Maranhenses
+|[[Barreirinhas]]
+|-
+|[[Humberto de Campos]]
+|-
+|[[Paulino Neves]]
+|-
+|[[Primeira Cruz]]
+|-
+|[[Santo Amaro do Maranhão]]
+|-
+|[[Tutóia]]
+|-
+|rowspan=13|Litoral Ocidental Maranhense
+|[[Alcântara, Maranhão|Alcântara]]
+|-
+|[[Apicum-Açu]]
+|-
+|[[Bacuri (Maranhão)|Bacuri]]
+|-
+|[[Bacurituba]]
+|-
+|[[Bequimão]]
+|-
+|[[Cajapió]]
+|-
+|[[Cedral (Maranhão)|Cedral]]
+|-
+|[[Central do Maranhão]]
+|-
+|[[Cururupu]]
+|-
+|[[Guimarães (Maranhão)|Guimarães]]
+|-
+|[[Mirinzal]]
+|-
+|[[Porto Rico do Maranhão]]
+|-
+|[[Serrano do Maranhão]]
+|-
+|rowspan=8|Rosário
+|[[Axixá]]
+|-
+|[[Bacabeira]]
+|-
+|[[Cachoeira Grande]]
+|-
+|[[Icatu]]
+|-
+|[[Morros, Maranhão|Morros]]
+|-
+|[[Presidente Juscelino (Maranhão)|Presidente Juscelino]]
+|-
+|[[Rosário (Brazil)|Rosário]]
+|-
+|[[Santa Rita, Maranhão|Santa Rita]]
+|-
+|rowspan=52|Oeste Maranhense
+|rowspan=14|Gurupi
+|[[Amapá do Maranhão]]
+|-
+|[[Boa Vista do Gurupi]]
+|-
+|[[Cândido Mendes (Maranhão)|Cândido Mendes]]
+|-
+|[[Carutapera]]
+|-
+|[[Centro do Guilherme]]
+|-
+|[[Centro Novo do Maranhão]]
+|-
+|[[Godofredo Viana]]
+|-
+|[[Governador Nunes Freire]]
+|-
+|[[Junco do Maranhão]]
+|-
+|[[Luís Domingues]]
+|-
+|[[Maracaçumé]]
+|-
+|[[Maranhãozinho]]
+|-
+|[[Turiaçu]]
+|-
+|[[Turilândia]]
+|-
+|rowspan=16|Imperatriz
+|[[Açailândia]]
+|-
+|[[Amarante do Maranhão]]
+|-
+|[[Buritirana]]
+|-
+|[[Cidelândia]]
+|-
+|[[Davinópolis, Maranhão|Davinópolis]]
+|-
+|[[Governador Edison Lobão]]
+|-
+|[[Imperatriz]]
+|-
+|[[Itinga do Maranhão]]
+|-
+|[[João Lisboa]]
+|-
+|[[Lajeado Novo]]
+|-
+|[[Montes Altos]]
+|-
+|[[Ribamar Fiquene]]
+|-
+|[[São Francisco do Brejão]]
+|-
+|[[São Pedro da Água Branca]]
+|-
+|[[Senador La Rocque]]
+|-
+|[[Vila Nova dos Martírios]]
+|-
+|rowspan=22|Pindaré
+|[[Altamira do Maranhão]]
+|-
+|[[Alto Alegre do Pindaré]]
+|-
+|[[Araguanã]]
+|-
+|[[Bom Jardim]]
+|-
+|[[Bom Jesus das Selvas]]
+|-
+|[[Brejo de Areia]]
+|-
+|[[Buriticupu]]
+|-
+|[[Governador Newton Bello]]
+|-
+|[[Lagoa Grande do Maranhão]]
+|-
+|[[Lago da Pedra]]
+|-
+|[[Marajá do Sena]]
+|-
+|[[Nova Olinda do Maranhão]]
+|-
+|[[Paulo Ramos, Maranhão|Paulo Ramos]]
+|-
+|[[Pindaré-Mirim]]
+|-
+|[[Presidente Médici (Maranhão)|Presidente Médici]]
+|-
+|[[Santa Inês]]
+|-
+|[[Santa Luzia (Maranhão)|Santa Luzia]]
+|-
+|[[Santa Luzia do Paruá]]
+|-
+|[[São João do Carú]]
+|-
+|[[Tufilândia]]
+|-
+|[[Vitorino Freire]]
+|-
+|[[Zé Doca]]
+|-
+|rowspan=19|Sul Maranhense
+|rowspan=8|Chapadas das Mangabeiras
+|[[Benedito Leite]]
+|-
+|[[Fortaleza dos Nogueiras]]
+|-
+|[[Loreto (Maranhão)|Loreto]]
+|-
+|[[Nova Colinas]]
+|-
+|[[Sambaíba]]
+|-
+|[[São Domingos do Azeitão]]
+|-
+|[[São Félix de Balsas]]
+|-
+|[[São Raimundo das Mangabeiras]]
+|-
+|rowspan=5|Gerais de Balsas
+|[[Alto Parnaíba]]
+|-
+|[[Balsas (Maranhão)|Balsas]]
+|-
+|[[Feira Nova do Maranhão]]
+|-
+|[[Riachão, Maranhão|Riachão]]
+|-
+|[[Tasso Fragoso]]
+|-
+|rowspan=6|Porto Franco
+|[[Campestre do Maranhão]]
+|-
+|[[Carolina (Maranhão)|Carolina]]
+|-
+|[[Estreito (Maranhão)|Estreito]]
+|-
+|[[Porto Franco]]
+|-
+|[[São João do Paraíso, Maranhão|São João do Paraíso]]
+|-
+|[[São Pedro dos Crentes]]
+|}
+
+===[[Paraíba|Paraíba (PB)]]===
+{|class="wikitable"
+!Mesoregion
+!Microregion
+!Municipality
+|-
+|rowspan=66|Agreste Paraibano
+|rowspan=8|Brejo Paraibano
+|[[Alagoa Grande]]
+|-
+|[[Alagoa Nova]]
+|-
+|[[Areia, Paraíba, Brazil|Areia]]
+|-
+|[[Bananeiras]]
+|-
+|[[Borborema, Paraíba|Borborema]]
+|-
+|[[Matinhas]]
+|-
+|[[Pilões, Paraíba|Pilões]]
+|-
+|[[Serraria]]
+|-
+|rowspan=8|Campina Grande
+|[[Boa Vista, Paraíba|Boa Vista]]
+|-
+|[[Campina Grande]]
+|-
+|[[Fagundes, Paraíba|Fagundes]]
+|-
+|[[Lagoa Seca]]
+|-
+|[[Massaranduba, Paraíba|Massaranduba]]
+|-
+|[[Puxinanã]]
+|-
+|[[Queimadas, Paraíba|Queimadas]]
+|-
+|[[Serra Redonda]]
+|-
+|rowspan=11|Curimatau Ocidental
+|[[Algodão de Jandaíra]]
+|-
+|[[Arara, Paraíba|Arara]]
+|-
+|[[Barra de Santa Rosa]]
+|-
+|[[Cuité]]
+|-
+|[[Damião (Brazil)|Damião]]
+|-
+|[[Nova Floresta, Paraíba|Nova Floresta]]
+|-
+|[[Olivedos, Brazil|Olivedos]]
+|-
+|[[Pocinhos, Paraíba|Pocinhos]]
+|-
+|[[Remígio]]
+|-
+|[[Soledade, Paraíba|Soledade]]
+|-
+|[[Sossêgo, Paraíba|Sossêgo]]
+|-
+|rowspan=7|Curimatau Oriental
+|[[Araruna, Paraíba|Araruna]]
+|-
+|[[Cacimba de Dentro]]
+|-
+|[[Tacima]]
+|-
+|[[Casserengue]]
+|-
+|[[Dona Inês]]
+|-
+|[[Riachão, Paraíba|Riachão]]
+|-
+|[[Solânea]]
+|-
+|rowspan=4|Esperanca
+|[[Areial]]
+|-
+|[[Esperança, Paraíba|Esperança]]
+|-
+|[[Montadas]]
+|-
+|[[São Sebastião de Lagoa de Roça]]
+|-
+|rowspan=14|Guarabira
+|[[Alagoinha, Paraíba|Alagoinha]]
+|-
+|[[Araçagi]]
+|-
+|[[Belém (Paraíba)|Belém]]
+|-
+|[[Caiçara]]
+|-
+|[[Cuitegi]]
+|-
+|[[Duas Estradas]]
+|-
+|[[Guarabira]]
+|-
+|[[Lagoa de Dentro]]
+|-
+|[[Logradouro]]
+|-
+|[[Mulungu, Paraíba|Mulungu]]
+|-
+|[[Pilõezinhos]]
+|-
+|[[Pirpirituba]]
+|-
+|[[Serra da Raiz]]
+|-
+|[[Sertãozinho, Paraíba|Sertãozinho]]
+|-
+|rowspan=9|Itabaiana
+|[[Caldas Brandão]]
+|-
+|[[Gurinhém]]
+|-
+|[[Ingá, Paraíba|Ingá]]
+|-
+|[[Itabaiana, Paraíba|Itabaiana]]
+|-
+|[[Itatuba]]
+|-
+|[[Juarez Távora]]
+|-
+|[[Mogeiro]]
+|-
+|[[Riachão do Bacamarte]]
+|-
+|[[Salgado de São Félix]]
+|-
+|rowspan=5|Umbuzeiro
+|[[Aroeiras, Paraíba|Aroeiras]]
+|-
+|[[Gado Bravo]]
+|-
+|[[Natuba]]
+|-
+|[[Santa Cecília, Paraíba|Santa Cecília]]
+|-
+|[[Umbuzeiro]]
+|-
+|rowspan=44|Borborema
+|rowspan=17|Cariri Ocidental
+|[[Amparo, Paraíba|Amparo]]
+|-
+|[[Assunção, Paraíba|Assunção]]
+|-
+|[[Camalaú]]
+|-
+|[[Congo, Paraíba|Congo]]
+|-
+|[[Coxixola]]
+|-
+|[[Livramento, Paraíba|Livramento]]
+|-
+|[[Monteiro]]
+|-
+|[[Ouro Velho]]
+|-
+|[[Parari, Paraíba|Parari]]
+|-
+|[[Prata, Paraíba|Prata]]
+|-
+|[[São João do Tigre]]
+|-
+|[[São José dos Cordeiros]]
+|-
+|[[São Sebastião do Umbuzeiro]]
+|-
+|[[Serra Branca, Paraíba|Serra Branca]]
+|-
+|[[Sumé]]
+|-
+|[[Taperoá]]
+|-
+|[[Zabelê]]
+|-
+|rowspan=12|Cariri Oriental
+|[[Alcantil]]
+|-
+|[[Barra de Santana]]
+|-
+|[[Barra de São Miguel, Paraíba|Barra de São Miguel]]
+|-
+|[[Boqueirão]]
+|-
+|[[Cabaceiras]]
+|-
+|[[Caraúbas]]
+|-
+|[[Caturité]]
+|-
+|[[Gurjão]]
+|-
+|[[Riacho de Santo Antônio]]
+|-
+|[[Santo André, Paraíba|Santo André]]
+|-
+|[[São Domingos do Cariri]]
+|-
+|[[São João do Cariri]]
+|-
+|rowspan=6|Serido Ocidental Paraibano
+|[[Junco do Seridó]]
+|-
+|[[Salgadinho, Paraíba|Salgadinho]]
+|-
+|[[Santa Luzia, Paraíba|Santa Luzia]]
+|-
+|[[São José do Sabugi]]
+|-
+|[[São Mamede (Paraíba)|São Mamede]]
+|-
+|[[Várzea, Paraíba|Várzea]]
+|-
+|rowspan=9|Serido Oriental Paraibano
+|[[Baraúna]]
+|-
+|[[Cubati]]
+|-
+|[[Frei Martinho]]
+|-
+|[[Juazeirinho]]
+|-
+|[[Nova Palmeira]]
+|-
+|[[Pedra Lavrada]]
+|-
+|[[Picuí]]
+|-
+|[[Seridó]]
+|-
+|[[Tenório]]
+|-
+|rowspan=30|Mata Paraibana
+|rowspan=6|João Pessoa
+|[[Bayeux, Brazil|Bayeux]]
+|-
+|[[Cabedelo]]
+|-
+|[[Conde, Paraíba|Conde]]
+|-
+|[[João Pessoa]] (State Capital)
+|-
+|[[Lucena, Brazil|Lucena]]
+|-
+|[[Santa Rita, Paraíba|Santa Rita]]
+|-
+|rowspan=11|Litoral Norte
+|[[Baía da Traição]]
+|-
+|[[Capim]]
+|-
+|[[Cuité de Mamanguape]]
+|-
+|[[Curral de Cima]]
+|-
+|[[Itapororoca]]
+|-
+|[[Jacaraú]]
+|-
+|[[Mamanguape]]
+|-
+|[[Marcação]]
+|-
+|[[Mataraca]]
+|-
+|[[Pedro Régis]]
+|-
+|[[Rio Tinto, Paraíba|Rio Tinto]]
+|-
+|rowspan=4|Litoral Sul
+|[[Alhandra]]
+|-
+|[[Caaporã]]
+|-
+|[[Pedras de Fogo]]
+|-
+|[[Pitimbu]]
+|-
+|rowspan=9|Sape
+|[[Cruz do Espírito Santo]]
+|-
+|[[Juripiranga]]
+|-
+|[[Mari, Brazil|Mari]]
+|-
+|[[Pilar, Paraíba|Pilar]]
+|-
+|[[Riachão do Poço]]
+|-
+|[[São José dos Ramos]]
+|-
+|[[São Miguel de Taipu]]
+|-
+|[[Sapé, Paraíba|Sapé]]
+|-
+|[[Sobrado, Paraíba|Sobrado]]
+|-
+|rowspan=83|Sertao Paraibano
+|rowspan=15|Cajazeiras
+|[[Bernardino Batista]]
+|-
+|[[Bom Jesus, Paraíba|Bom Jesus]]
+|-
+|[[Bonito de Santa Fé]]
+|-
+|[[Cachoeira dos Índios]]
+|-
+|[[Cajazeiras]]
+|-
+|[[Carrapateira]]
+|-
+|[[Monte Horebe]]
+|-
+|[[Poço Dantas]]
+|-
+|[[Poço de José de Moura]]
+|-
+|[[Santa Helena, Paraíba|Santa Helena]]
+|-
+|[[Santarém, Paraíba|Santarém]]
+|-
+|[[São João do Rio do Peixe]]
+|-
+|[[São José de Piranhas]]
+|-
+|[[Triunfo, Paraíba|Triunfo]]
+|-
+|[[Uiraúna]]
+|-
+|rowspan=11|Catole do Rocha
+|[[Belém do Brejo do Cruz]]
+|-
+|[[Bom Sucesso, Paraíba|Bom Sucesso]]
+|-
+|[[Brejo do Cruz]]
+|-
+|[[Brejo dos Santos]]
+|-
+|[[Catolé do Rocha]]
+|-
+|[[Jericó, Brazil|Jericó]]
+|-
+|[[Lagoa, Paraíba|Lagoa]]
+|-
+|[[Mato Grosso, Paraíba|Mato Grosso]]
+|-
+|[[Riacho dos Cavalos]]
+|-
+|[[São Bento, Paraíba|São Bento]]
+|-
+|[[São José do Brejo do Cruz]]
+|-
+|rowspan=11|Itaporanga
+|[[Boa Ventura, Paraíba|Boa Ventura]]
+|-
+|[[Conceição, Paraíba|Conceição]]
+|-
+|[[Curral Velho, Paraíba|Curral Velho]]
+|-
+|[[Diamante, Paraíba|Diamante]]
+|-
+|[[Ibiara]]
+|-
+|[[Itaporanga, Paraíba|Itaporanga]]
+|-
+|[[Pedra Branca, Paraíba|Pedra Branca]]
+|-
+|[[Santa Inês, Paraíba|Santa Inês]]
+|-
+|[[Santana de Mangueira]]
+|-
+|[[São José de Caiana]]
+|-
+|[[Serra Grande, Paraíba|Serra Grande]]
+|-
+|rowspan=9|Patos
+|[[Areia de Baraúnas]]
+|-
+|[[Cacimba de Areia]]
+|-
+|[[Mãe d'Água]]
+|-
+|[[Passagem, Paraíba|Passagem]]
+|-
+|[[Patos, Brazil|Patos]]
+|-
+|[[Quixabá, Paraíba|Quixabá]]
+|-
+|[[Santa Teresinha, Paraíba|Santa Teresinha]]
+|-
+|[[São José de Espinharas]]
+|-
+|[[São José do Bonfim]]
+|-
+|rowspan=9|Pianco
+|[[Aguiar, Paraíba|Aguiar]]
+|-
+|[[Catingueira]]
+|-
+|[[Coremas]]
+|-
+|[[Emas, Paraíba|Emas]]
+|-
+|[[Igaracy]]
+|-
+|[[Nova Olinda, Paraíba|Nova Olinda]]
+|-
+|[[Olho d'Água]]
+|-
+|[[Piancó]]
+|-
+|[[Santana dos Garrotes]]
+|-
+|rowspan=11|Serra do Teixeira
+|[[Água Branca, Paraíba|Água Branca]]
+|-
+|[[Cacimbas]]
+|-
+|[[Desterro]]
+|-
+|[[Imaculada]]
+|-
+|[[Juru, Paraíba|Juru]]
+|-
+|[[Manaíra]]
+|-
+|[[Maturéia]]
+|-
+|[[Princesa Isabel]]
+|-
+|[[São José de Princesa]]
+|-
+|[[Tavares, Paraíba|Tavares]]
+|-
+|[[Teixeira, Paraíba|Teixeira]]
+|-
+|rowspan=17|Sousa
+|[[Aparecida, Paraíba|Aparecida]]
+|-
+|[[Cajazeirinhas]]
+|-
+|[[Condado, Paraíba|Condado]]
+|-
+|[[Lastro]]
+|-
+|[[Malta, Brazil|Malta]]
+|-
+|[[Marizópolis]]
+|-
+|[[Nazarezinho]]
+|-
+|[[Paulista, Paraíba|Paulista]]
+|-
+|[[Pombal, Paraíba|Pombal]]
+|-
+|[[Santa Cruz, Paraíba|Santa Cruz]]
+|-
+|[[São Bentinho]]
+|-
+|[[São Domingos (Paraíba)|São Domingos]]
+|-
+|[[São Francisco, Paraíba|São Francisco]]
+|-
+|[[São José da Lagoa Tapada]]
+|-
+|[[Sousa, Paraíba|Sousa]]
+|-
+|[[Vieirópolis]]
+|-
+|[[Vista Serrana]]
+|}
+
+===[[Pernambuco (PE)]]===
+
+{|class="wikitable"
+!Mesoregion
+!Microregion
+!Municipality
+|-
+|rowspan=71|Agreste Pernambucano
+|rowspan=9|Alto Capibaribe
+|[[Casinhas]]
+|-
+|[[Frei Miguelinho]]
+|-
+|[[Santa Cruz do capibaribe]]
+|-
+|[[Santa Maria do Cambucá]]
+|-
+|[[Surubim]]
+|-
+|[[Taquaritinga do Norte]]
+|-
+|[[Toritama]]
+|-
+|[[Vertente do Lério]]
+|-
+|[[Vertentes]]
+|-
+|rowspan=11|Brejo Pernambucano
+|[[Agrestina]]
+|-
+|[[Altinho, Pernambuco|Altinho]]
+|-
+|[[Barra de Guabiraba]]
+|-
+|[[Bonito, Pernambuco|Bonito]]
+|-
+|[[Camocim de São Félix]]
+|-
+|[[Cupira, Pernambuco|Cupira]]
+|-
+|[[Ibirajuba]]
+|-
+|[[Lagoa dos Gatos]]
+|-
+|[[Panelas]]
+|-
+|[[Sairé]]
+|-
+|[[São Joaquim do Monte]]
+|-
+|rowspan=19|Garanhuns
+|[[Angelim]]
+|-
+|[[Bom Conselho]]
+|-
+|[[Brejão]]
+|-
+|[[Caetés, Pernambuco|Caetés]]
+|-
+|[[Calçado]]
+|-
+|[[Canhotinho]]
+|-
+|[[Correntes, Pernambuco|Correntes]]
+|-
+|[[Garanhuns]]
+|-
+|[[Iati]]
+|-
+|[[Jucati]]
+|-
+|[[Jupi]]
+|-
+|[[Jurema, Pernambuco|Jurema]]
+|-
+|[[Lagoa do Ouro]]
+|-
+|[[Lajedo, Pernambuco|Lajedo]]
+|-
+|[[Palmeirina]]
+|-
+|[[Paranatama]]
+|-
+|[[Saloá]]
+|-
+|[[São João, Pernambuco|São João]]
+|-
+|[[Terezinha]]
+|-
+|rowspan=10|Medio Capibaribe
+|[[Bom Jardim, Pernambuco|Bom Jardim]]
+|-
+|[[Cumaru]]
+|-
+|[[Feira Nova, Pernambuco|Feira Nova]]
+|-
+|[[João Alfredo]]
+|-
+|[[Limoeiro]]
+|-
+|[[Machados]]
+|-
+|[[Orobó]]
+|-
+|[[Passira]]
+|-
+|[[Salgadinho, Pernambuco|Salgadinho]]
+|-
+|[[São Vicente Ferrer, Pernambuco|São Vicente Ferrer]]
+|-
+|rowspan=6|Vale do Ipanema
+|[[Águas Belas]]
+|-
+|[[Buíque]]
+|-
+|[[Itaíba]]
+|-
+|[[Pedra, Pernambuco|Pedra]]
+|-
+|[[Tupanatinga]]
+|-
+|[[Venturosa]]
+|-
+|rowspan=16|Vale do Ipojuca
+|[[Alagoinha]]
+|-
+|[[Belo Jardim]]
+|-
+|[[Bezerros]]
+|-
+|[[Brejo da Madre de Deus]]
+|-
+|[[Cachoeirinha, Pernambuco|Cachoeirinha]]
+|-
+|[[Capoeiras]]
+|-
+|[[Caruaru]]
+|-
+|[[Gravatá]]
+|-
+|[[Jataúba]]
+|-
+|[[Pesqueira, Pernambuco|Pesqueira]]
+|-
+|[[Poção]]
+|-
+|[[Riacho das Almas]]
+|-
+|[[Sanharó]]
+|-
+|[[São Bento do Una]]
+|-
+|[[São Caitano]]
+|-
+|[[Tacaimbó]]
+|-
+|rowspan=43|Mata Pernambucana
+|rowspan=21|Mata Meridional Pernambucana
+|[[Água Preta]]
+|-
+|[[Amaraji]]
+|-
+|[[Barreiros, Pernambuco|Barreiros]]
+|-
+|[[Belém de Maria]]
+|-
+|[[Catende]]
+|-
+|[[Cortês]]
+|-
+|[[Escada, Pernambuco|Escada]]
+|-
+|[[Gameleira]]
+|-
+|[[Jaqueira]]
+|-
+|[[Joaquim Nabuco, Pernambuco|Joaquim Nabuco]]
+|-
+|[[Maraial]]
+|-
+|[[Palmares, Pernambuco|Palmares]]
+|-
+|[[Primavera, Pernambuco|Primavera]]
+|-
+|[[Quipapá]]
+|-
+|[[Ribeirão, Pernambuco|Ribeirão]]
+|-
+|[[Rio Formoso]]
+|-
+|[[São Benedito do Sul]]
+|-
+|[[São José da Coroa Grande]]
+|-
+|[[Sirinhaém]]
+|-
+|[[Tamandaré]]
+|-
+|[[Xexéu]]
+|-
+|rowspan=17|Mata Setentrional Pernambucana
+|[[Aliança]]
+|-
+|[[Buenos Aires, Pernambuco|Buenos Aires]]
+|-
+|[[Camutanga]]
+|-
+|[[Carpina]]
+|-
+|[[Condado, Pernambuco|Condado]]
+|-
+|[[Ferreiros, Pernambuco|Ferreiros]]
+|-
+|[[Goiana]]
+|-
+|[[Itambé, Pernambuco|Itambé]]
+|-
+|[[Itaquitinga]]
+|-
+|[[Lagoa do Carro]]
+|-
+|[[Lagoa de Itaenga]]
+|-
+|[[Macaparana]]
+|-
+|[[Nazaré da Mata]]
+|-
+|[[Paudalho]]
+|-
+|[[Timbaúba]]
+|-
+|[[Tracunhaém]]
+|-
+|[[Vicência]]
+|-
+|rowspan=5|Vitoria de Santo Antao
+|[[Chã de Alegria]]
+|-
+|[[Chã Grande]]
+|-
+|[[Glória do Goitá]]
+|-
+|[[Pombos]]
+|-
+|[[Vitória de Santo Antão]]
+|-
+|rowspan=15|Metropolitana de Recife
+|Fernando de Noronha
+|[[Fernando de Noronha]]
+|-
+|rowspan=4|Itamaraca
+|[[Araçoiaba]]
+|-
+|[[Igarassu]]
+|-
+|[[Ilha de Itamaracá]]
+|-
+|[[Itapissuma]]
+|-
+|rowspan=8|Recife
+|[[Abreu e Lima]]
+|-
+|[[Camaragibe]]
+|-
+|[[Jaboatão dos Guararapes]]
+|-
+|[[Moreno, Pernambuco|Moreno]]
+|-
+|[[Olinda]]
+|-
+|[[Paulista]]
+|-
+|[[Recife]] (State&nbsp;Capital)
+|-
+|[[São Lourenço da Mata]]
+|-
+|rowspan=2|Suape
+|[[Cabo de Santo Agostinho]]
+|-
+|[[Ipojuca]]
+|-
+|rowspan=15|Sao Francisco Pernambucano
+|rowspan=7|Itaparica
+|[[Belém do São Francisco]]
+|-
+|[[Carnaubeira da Penha]]
+|-
+|[[Floresta, Pernambuco|Floresta]]
+|-
+|[[Itacuruba]]
+|-
+|[[Jatobá, Pernambuco|Jatobá]]
+|-
+|[[Petrolandia|Petrolândia]]
+|-
+|[[Tacaratu]]
+|-
+|rowspan=8|Petrolina
+|[[Afrânio]]
+|-
+|[[Cabrobó]]
+|-
+|[[Dormentes]]
+|-
+|[[Lagoa Grande, Pernambuco|Lagoa Grande]]
+|-
+|[[Orocó]]
+|-
+|[[Petrolina]]
+|-
+|[[Santa Maria da Boa Vista]]
+|-
+|[[Terra Nova, Pernambuco|Terra Nova]]
+|-
+|rowspan=41|Sertao Pernambucano
+|rowspan=10|Araripina
+|[[Araripina]]
+|-
+|[[Bodocó]]
+|-
+|[[Exu, Pernambuco|Exu]]
+|-
+|[[Granito]]
+|-
+|[[Ipubi]]
+|-
+|[[Moreilândia]]
+|-
+|[[Ouricuri]]
+|-
+|[[Santa Cruz, Pernambuco|Santa Cruz]]
+|-
+|[[Santa Filomena, Pernambuco|Santa Filomena]]
+|-
+|[[Trindade, Pernambuco|Trindade]]
+|-
+|rowspan=17|Pajeu
+|[[Afogados da Ingazeira]]
+|-
+|[[Brejinho, Pernambuco|Brejinho]]
+|-
+|[[Calumbi]]
+|-
+|[[Carnaíba]]
+|-
+|[[Flores, Pernambuco|Flores]]
+|-
+|[[Iguaraci]]
+|-
+|[[Ingazeira]]
+|-
+|[[Itapetim]]
+|-
+|[[Quixaba]]
+|-
+|[[Santa Cruz da Baixa Verde]]
+|-
+|[[Santa Terezinha, Pernambuco|Santa Terezinha]]
+|-
+|[[São José do Egito]]
+|-
+|[[Serra Talhada]]
+|-
+|[[Solidão]]
+|-
+|[[Tabira, Pernambuco|Tabira]]
+|-
+|[[Triunfo, Pernambuco|Triunfo]]
+|-
+|[[Tuparetama]]
+|-
+|rowspan=7|Salgueiro
+|[[Cedro, Pernambuco|Cedro]]
+|-
+|[[Mirandiba]]
+|-
+|[[Parnamirim, Pernambuco|Parnamirim]]
+|-
+|[[Salgueiro]]
+|-
+|[[São José do Belmonte]]
+|-
+|[[Serrita]]
+|-
+|[[Verdejante]]
+|-
+|rowspan=7|Sertao do Moxoto
+|[[Arcoverde]]
+|-
+|[[Betânia, Pernambuco|Betânia]]
+|-
+|[[Custódia]]
+|-
+|[[Ibimirim]]
+|-
+|[[Inajá, Pernambuco|Inajá]]
+|-
+|[[Manari, Pernambuco|Manari]]
+|-
+|[[Sertânia]]
+|}
+
+===[[Piauí|Piauí (PI)]]===
+{|class="wikitable"
+!Mesoregion
+!Microregion
+!Municipality
+|-
+|rowspan=64|Centro-Norte Piauiense
+|rowspan=20|Campo Maior
+|[[Alto Longá]]
+|-
+|[[Assunção do Piauí]]
+|-
+|[[Boqueirão do Piauí]]
+|-
+|[[Buriti dos Montes]]
+|-
+|[[Campo Maior, Piauí|Campo Maior]]
+|-
+|[[Capitão de Campos]]
+|-
+|[[Castelo do Piauí]]
+|-
+|[[Cocal de Telha]]
+|-
+|[[Domingos Mourão]]
+|-
+|[[Jatobá do Piauí]]
+|-
+|[[Juazeiro do Piauí]]
+|-
+|[[Lagoa de São Francisco]]
+|-
+|[[Milton Brandão]]
+|-
+|[[Nossa Senhora de Nazaré]]
+|-
+|[[Novo Santo Antônio]]
+|-
+|[[Pau d'Arco do Piauí]]
+|-
+|[[Pedro II, Piauí|Pedro II]]
+|-
+|[[São João da Serra]]
+|-
+|[[São Miguel do Tapuio]]
+|-
+|[[Sigefredo Pacheco]]
+|-
+|rowspan=17|Medio Parnaiba Piauiense
+|[[Agricolândia]]
+|-
+|[[Água Branca, Piauí|Água Branca]]
+|-
+|[[Amarante, Piauí|Amarante]]
+|-
+|[[Angical do Piauí]]
+|-
+|[[Arraial]]
+|-
+|[[Barro Duro]]
+|-
+|[[Francisco Ayres]]
+|-
+|[[Hugo Napoleão]]
+|-
+|[[Jardim do Mulato]]
+|-
+|[[Lagoinha do Piauí]]
+|-
+|[[Olho d'Água do Piauí]]
+|-
+|[[Palmeirais]]
+|-
+|[[Passagem Franca do Piauí]]
+|-
+|[[Regeneração, Piauí|Regeneração]]
+|-
+|[[Santo Antônio dos Milagres]]
+|-
+|[[São Gonçalo do Piauí]]
+|-
+|[[São Pedro do Piauí]]
+|-
+|rowspan=13|Teresina
+|[[Altos, Piauí|Altos]]
+|-
+|[[Beneditinos]]
+|-
+|[[Coivaras]]
+|-
+|[[Curralinhos]]
+|-
+|[[Demerval Lobão]]
+|-
+|[[José de Freitas]]
+|-
+|[[Lagoa Alegre]]
+|-
+|[[Lagoa do Piauí]]
+|-
+|[[Miguel Leão]]
+|-
+|[[Monsenhor Gil]]
+|-
+|[[Teresina]] (State Capital)
+|-
+|[[União, Piauí|União]]
+|-
+|[[Nazária]]
+|-
+|rowspan=14|Valenca do Piaui
+|[[Aroazes]]
+|-
+|[[Barra d'Alcântara]]
+|-
+|[[Elesbão Veloso]]
+|-
+|[[Francinópolis]]
+|-
+|[[Inhuma, Piauí|Inhuma]]
+|-
+|[[Lagoa do Sítio]]
+|-
+|[[Novo Oriente do Piauí]]
+|-
+|[[Pimenteiras]]
+|-
+|[[Prata do Piauí]]
+|-
+|[[Santa Cruz dos Milagres]]
+|-
+|[[São Félix do Piauí]]
+|-
+|[[São Miguel da Baixa Grande]]
+|-
+|[[Valença do Piauí]]
+|-
+|[[Várzea Grande, Piauí|Várzea Grande]]
+|-
+|rowspan=32|Norte Piauiense
+|rowspan=18|Baixo Parnaiba Piauiense
+|[[Barras (Piauí)|Barras]]
+|-
+|[[Batalha, Brazil|Batalha]]
+|-
+|[[Boa Hora]]
+|-
+|[[Brasileira]]
+|-
+|[[Cabeceiras do Piauí]]
+|-
+|[[Campo Largo do Piauí]]
+|-
+|[[Esperantina]]
+|-
+|[[Joaquim Pires]]
+|-
+|[[Joca Marques]]
+|-
+|[[Luzilândia]]
+|-
+|[[Madeiro]]
+|-
+|[[Matias Olímpio]]
+|-
+|[[Miguel Alves]]
+|-
+|[[Morro do Chapéu do Piauí]]
+|-
+|[[Nossa Senhora dos Remédios (Piauí)|Nossa Senhora dos Remédios]]
+|-
+|[[Piripiri, Piauí|Piripiri]]
+|-
+|[[Porto, Piauí|Porto]]
+|-
+|[[São João do Arraial]]
+|-
+|rowspan=14|Litoral Piauiense
+|[[Bom Princípio do Piauí]]
+|-
+|[[Buriti dos Lopes]]
+|-
+|[[Cajueiro da Praia]]
+|-
+|[[Caraúbas do Piauí]]
+|-
+|[[Caxingó]]
+|-
+|[[Cocal, Piauí|Cocal]]
+|-
+|[[Cocal dos Alves]]
+|-
+|[[Ilha Grande, Piauí|Ilha Grande]]
+|-
+|[[Luís Correia, Piauí|Luís Correia]]
+|-
+|[[Murici dos Portelas]]
+|-
+|[[Parnaíba]]
+|-
+|[[Piracuruca]]
+|-
+|[[São João da Fronteira, Piauí|São João da Fronteira]]
+|-
+|[[São José do Divino (Piauí)|São José do Divino]]
+|-
+|rowspan=66|Sudeste Piauiense
+|rowspan=39|Alto Medio Caninde
+|[[Acauã]]
+|-
+|[[Bela Vista do Piauí]]
+|-
+|[[Belém do Piauí]]
+|-
+|[[Betânia do Piauí]]
+|-
+|[[Caldeirão Grande do Piauí]]
+|-
+|[[Campinas do Piauí]]
+|-
+|[[Campo Alegre do Fidalgo]]
+|-
+|[[Campo Grande do Piauí]]
+|-
+|[[Capitão Gervásio Oliveira]]
+|-
+|[[Caridade do Piauí]]
+|-
+|[[Conceição do Canindé]]
+|-
+|[[Curral Novo do Piauí]]
+|-
+|[[Floresta do Piauí]]
+|-
+|[[Francisco Macêdo]]
+|-
+|[[Fronteiras]]
+|-
+|[[Isaías Coelho]]
+|-
+|[[Itainópolis]]
+|-
+|[[Jacobina do Piauí]]
+|-
+|[[Jaicós]]
+|-
+|[[João Costa, Piauí|João Costa]]
+|-
+|[[Lagoa do Barro do Piauí]]
+|-
+|[[Marcolândia]]
+|-
+|[[Massapê do Piauí]]
+|-
+|[[Nova Santa Rita, Piauí|Nova Santa Rita]]
+|-
+|[[Padre Marcos]]
+|-
+|[[Paes Landim]]
+|-
+|[[Patos do Piauí]]
+|-
+|[[Paulistana]]
+|-
+|[[Pedro Laurentino]]
+|-
+|[[Queimada Nova]]
+|-
+|[[Ribeira do Piauí]]
+|-
+|[[Santo Inácio do Piauí]]
+|-
+|[[São Francisco de Assis do Piauí]]
+|-
+|[[São João do Piauí]]
+|-
+|[[Simões, Piauí|Simões]]
+|-
+|[[Simplício Mendes]]
+|-
+|[[Socorro do Piauí]]
+|-
+|[[Vera Mendes]]
+|-
+|[[Vila Nova do Piauí]]
+|-
+|rowspan=20|Picos
+|Aroeiras do Itaim
+|-
+|[[Bocaina (Piauí)|Bocaina]]
+|-
+|[[Cajazeiras do Piauí]]
+|-
+|[[Colônia do Piauí]]
+|-
+|[[Dom Expedito Lopes]]
+|-
+|[[Geminiano]]
+|-
+|[[Ipiranga do Piauí]]
+|-
+|[[Oeiras (Piauí)|Oeiras]]
+|-
+|[[Paquetá]]
+|-
+|[[Picos, Piauí|Picos]]
+|-
+|[[Santa Cruz do Piauí]]
+|-
+|[[Santa Rosa do Piauí]]
+|-
+|[[Santana do Piauí]]
+|-
+|[[São João da Canabrava]]
+|-
+|[[São João da Varjota]]
+|-
+|[[São José do Piauí]]
+|-
+|[[São Luís do Piauí]]
+|-
+|[[Sussuapara]]
+|-
+|[[Tanque do Piauí]]
+|-
+|[[Wall Ferraz]]
+|-
+|rowspan=7|Pio IX
+|[[Alagoinha do Piauí]]
+|-
+|[[Alegrete do Piauí]]
+|-
+|[[Francisco Santos, Piauí|Francisco Santos]]
+|-
+|[[Monsenhor Hipólito]]
+|-
+|[[Pio IX]]
+|-
+|[[Santo Antônio de Lisboa]]
+|-
+|[[São Julião (Piauí)|São Julião]]
+|-
+|rowspan=62|Sudoeste Piauiense
+|rowspan=11|Alto Medio Gurgueia
+|[[Alvorada do Gurguéia]]
+|-
+|[[Barreiras do Piauí]]
+|-
+|[[Bom Jesus, Piauí|Bom Jesus]]
+|-
+|[[Cristino Castro]]
+|-
+|[[Currais]]
+|-
+|[[Gilbués]]
+|-
+|[[Monte Alegre do Piauí]]
+|-
+|[[Palmeira do Piauí]]
+|-
+|[[Redenção do Gurguéia]]
+|-
+|[[Santa Luz]]
+|-
+|[[São Gonçalo do Gurguéia]]
+|-
+|rowspan=4|Alto Parnaiba Piauiense
+|[[Baixa Grande do Ribeiro]]
+|-
+|[[Ribeiro Gonçalves]]
+|-
+|[[Santa Filomena]]
+|-
+|[[Uruçuí]]
+|-
+|rowspan=9|Bertolinia
+|[[Antônio Almeida]]
+|-
+|[[Bertolínia]]
+|-
+|[[Colônia do Gurguéia]]
+|-
+|[[Eliseu Martins]]
+|-
+|[[Landri Sales]]
+|-
+|[[Manoel Emídio]]
+|-
+|[[Marcos Parente]]
+|-
+|[[Porto Alegre do Piauí]]
+|-
+|[[Sebastião Leal]]
+|-
+|rowspan=9|Chapadas do Extremo Sul Piauiense
+|[[Avelino Lopes]]
+|-
+|[[Corrente, Piauí|Corrente]]
+|-
+|[[Cristalândia do Piauí]]
+|-
+|[[Curimatá]]
+|-
+|[[Júlio Borges]]
+|-
+|[[Morro Cabeça no Tempo]]
+|-
+|[[Parnaguá]]
+|-
+|[[Riacho Frio]]
+|-
+|[[Sebastião Barros]]
+|-
+|rowspan=12|Floriano
+|[[Canavieira]]
+|-
+|[[Flores do Piauí]]
+|-
+|[[Floriano, Piauí|Floriano]]
+|-
+|[[Guadalupe (Piauí)|Guadalupe]]
+|-
+|[[Itaueira]]
+|-
+|[[Jerumenha]]
+|-
+|[[Nazaré do Piauí]]
+|-
+|[[Pavussu]]
+|-
+|[[Rio Grande do Piauí]]
+|-
+|[[São Francisco do Piauí]]
+|-
+|[[São José do Peixe]]
+|-
+|[[São Miguel do Fidalgo]]
+|-
+|rowspan=17|Sao Raimundo Nonato
+|[[Anísio de Abreu]]
+|-
+|[[Bonfim do Piauí]]
+|-
+|[[Brejo do Piauí]]
+|-
+|[[Canto do Buriti]]
+|-
+|[[Caracol (Piauí)|Caracol]]
+|-
+|[[Coronel José Dias]]
+|-
+|[[Dirceu Arcoverde]]
+|-
+|[[Dom Inocêncio]]
+|-
+|[[Fartura do Piauí]]
+|-
+|[[Guaribas]]
+|-
+|[[Jurema, Piauí|Jurema]]
+|-
+|[[Pajeú do Piauí]]
+|-
+|[[São Braz do Piauí]]
+|-
+|[[São Lourenço do Piauí]]
+|-
+|[[São Raimundo Nonato]]
+|-
+|[[Tamboril do Piauí]]
+|-
+|[[Várzea Branca]]
+|}
+
+===[[Rio Grande do Norte|Rio Grande do Norte (RN)]]===
+{|class="wikitable"
+!Mesoregion
+!Microregion
+!Municipality
+|-
+|rowspan=43|Agreste Potiguar
+|rowspan=22|Agreste Potiguar
+|[[Bom Jesus, Rio Grande do Norte|Bom Jesus]]
+|-
+|[[Brejinho, Rio Grande do Norte|Brejinho]]
+|-
+|[[Ielmo Marinho]]
+|-
+|[[Januário Cicco]]
+|-
+|[[Lagoa d'Anta]]
+|-
+|[[Lagoa de Pedras]]
+|-
+|[[Lagoa Salgada]]
+|-
+|[[Monte Alegre, Rio Grande do Norte|Monte Alegre]]
+|-
+|[[Nova Cruz, Rio Grande do Norte|Nova Cruz]]
+|-
+|[[Passa e Fica]]
+|-
+|[[Passagem, Rio Grande do Norte|Passagem]]
+|-
+|[[Presidente Juscelino]]
+|-
+|[[Riachuelo, Rio Grande do Norte|Riachuelo]]
+|-
+|[[Santa Maria, Rio Grande do Norte|Santa Maria]]
+|-
+|[[Santo Antônio, Rio Grande do Norte|Santo Antônio]]
+|-
+|[[São Paulo do Potengi]]
+|-
+|[[São Pedro, Rio Grande do Norte|São Pedro]]
+|-
+|[[Senador Elói de Souza]]
+|-
+|[[Serrinha, Rio Grande do Norte|Serrinha]]
+|-
+|[[Jundiá, Rio Grande do Norte|Jundiá]]
+|-
+|[[Várzea, Rio Grande do Norte|Várzea]]
+|-
+|[[Vera Cruz, Rio Grande do Norte|Vera Cruz]]
+|-
+|rowspan=5|Baixa Verde
+|[[Bento Fernandes]]
+|-
+|[[Jandaíra, Rio Grande do Norte|Jandaíra]]
+|-
+|[[João Câmara, Rio Grande do Norte|João Câmara]]
+|-
+|[[Parazinho]]
+|-
+|[[Poço Branco]]
+|-
+|rowspan=16|Borborema Potiguar
+|[[Barcelona, Rio Grande do Norte|Barcelona]]
+|-
+|[[Campo Redondo, Rio Grande do Norte|Campo Redondo]]
+|-
+|[[Coronel Ezequiel]]
+|-
+|[[Jaçanã, Rio Grande do Norte|Jaçanã]]
+|-
+|[[Japi]]
+|-
+|[[Lagoa de Velhos]]
+|-
+|[[Lajes Pintadas]]
+|-
+|[[Monte das Gameleiras]]
+|-
+|[[Ruy Barbosa, Rio Grande do Norte|Ruy Barbosa]]
+|-
+|[[Santa Cruz, Rio Grande do Norte|Santa Cruz]]
+|-
+|[[São Bento do Trairi]]
+|-
+|[[São José do Campestre]]
+|-
+|[[São Tomé, Rio Grande do Norte|São Tomé]]
+|-
+|[[Serra de São Bento]]
+|-
+|[[Sítio Novo, Rio Grande do Norte|Sítio Novo]]
+|-
+|[[Tangará, Rio Grande do Norte|Tangará]]
+|-
+|rowspan=37|Central Potiguar
+|rowspan=8|Angicos
+|[[Afonso Bezerra]]
+|-
+|[[Angicos]]
+|-
+|[[Caiçara do Rio do Vento]]
+|-
+|[[Fernando Pedroza]]
+|-
+|[[Jardim de Angicos]]
+|-
+|[[Lajes, Rio Grande do Norte|Lajes]]
+|-
+|[[Pedra Preta, Rio Grande do Norte|Pedra Preta]]
+|-
+|[[Pedro Avelino]]
+|-
+|rowspan=5|Macau
+|[[São Bento do Norte]]
+|-
+|[[Galinhos]]
+|-
+|[[Guamaré]]
+|-
+|[[Macau, Brazil|Macau]]
+|-
+|[[Caiçara do Norte]]
+|-
+|rowspan=7|Seridó Ocidental
+|[[Caicó]]
+|-
+|[[Ipueira]]
+|-
+|[[Jardim de Piranhas]]
+|-
+|[[São Fernando]]
+|-
+|[[São João do Sabugi]]
+|-
+|[[Serra Negra do Norte]]
+|-
+|[[Timbaúba dos Batistas]]
+|-
+|rowspan=10|Seridó Oriental
+|[[Acari, Rio Grande do Norte|Acari]]
+|-
+|[[Carnaúba dos Dantas]]
+|-
+|[[Cruzeta]]
+|-
+|[[Currais Novos]]
+|-
+|[[Equador, Rio Grande do Norte|Equador]]
+|-
+|[[Jardim do Seridó]]
+|-
+|[[Ouro Branco, Rio Grande do Norte|Ouro Branco]]
+|-
+|[[Parelhas]]
+|-
+|[[Santana do Seridó]]
+|-
+|[[São José do Seridó]]
+|-
+|rowspan=7|Serra de Santana
+|[[Bodó]]
+|-
+|[[Cerro Corá, Rio Grande do Norte|Cerro Corá]]
+|-
+|[[Florânia]]
+|-
+|[[Lagoa Nova]]
+|-
+|[[Santana do Matos]]
+|-
+|[[São Vicente, Rio Grande do Norte|São Vicente]]
+|-
+|[[Tenente Laurentino Cruz]]
+|-
+|rowspan=25|Leste Potiguar
+|rowspan=7|Litoral Nordeste
+|[[Maxaranguape]]
+|-
+|[[Pedra Grande, Rio Grande do Norte|Pedra Grande]]
+|-
+|[[Pureza, Rio Grande do Norte|Pureza]]
+|-
+|[[Rio do Fogo]]
+|-
+|[[São Miguel do Gostoso]]
+|-
+|[[Taipu (RN)|Taipu]]
+|-
+|[[Touros]]
+|-
+|rowspan=10|Litoral Sul
+|[[Arês, Brazil|Arês]]
+|-
+|[[Baía Formosa]]
+|-
+|[[Canguaretama]]
+|-
+|[[Espírito Santo, Rio Grande do Norte|Espírito Santo]]
+|-
+|[[Goianinha]]
+|-
+|[[Montanhas]]
+|-
+|[[Pedro Velho]]
+|-
+|[[Senador Georgino Avelino]]
+|-
+|[[Tibau do Sul]]
+|-
+|[[Vila Flor, Rio Grande do Norte|Vila Flor]]
+|-
+|rowspan=5|Macaíba
+|[[Ceará-Mirim]]
+|-
+|[[Macaíba]]
+|-
+|[[Nísia Floresta, Rio Grande do Norte|Nísia Floresta]]
+|-
+|[[São Gonçalo do Amarante, Rio Grande do Norte|São Gonçalo do Amarante]]
+|-
+|[[São José de Mipibu]]
+|-
+|rowspan=3|Natal
+|[[Extremoz, Brazil|Extremoz]]
+|-
+|[[Natal, Rio Grande do Norte|Natal]] (State Capital)
+|-
+|[[Parnamirim, Rio Grande do Norte|Parnamirim]]
+|-
+|rowspan=62|Oeste Potiguar
+|rowspan=4|Chapada do Apodi
+|[[Apodi]]
+|-
+|[[Caraúbas, Rio Grande do Norte|Caraúbas]]
+|-
+|[[Felipe Guerra]]
+|-
+|[[Governador Dix-Sept Rosado]]
+|-
+|rowspan=6|Medio Oeste
+|[[Augusto Severo]]
+|-
+|[[Janduís]]
+|-
+|[[Messias Targino]]
+|-
+|[[Paraú]]
+|-
+|[[Triunfo Potiguar]]
+|-
+|[[Upanema]]
+|-
+|rowspan=6|Mossoró
+|[[Areia Branca, Rio Grande do Norte|Areia Branca]]
+|-
+|[[Baraúna]]
+|-
+|[[Grossos]]
+|-
+|[[Mossoró]]
+|-
+|[[Serra do Mel]]
+|-
+|[[Tibau]]
+|-
+|rowspan=17|Pau dos Ferros
+|[[Alexandria, Brazil|Alexandria]]
+|-
+|[[Francisco Dantas]]
+|-
+|[[Itaú, Rio Grande do Norte|Itaú]]
+|-
+|[[José da Penha]]
+|-
+|[[Marcelino Vieira]]
+|-
+|[[Paraná, Rio Grande do Norte|Paraná]]
+|-
+|[[Pau dos Ferros]]
+|-
+|[[Pilões, Rio Grande do Norte|Pilões]]
+|-
+|[[Portalegre, Brazil|Portalegre]]
+|-
+|[[Rafael Fernandes]]
+|-
+|[[Riacho da Cruz]]
+|-
+|[[Rodolfo Fernandes]]
+|-
+|[[São Francisco do Oeste]]
+|-
+|[[Severiano Melo]]
+|-
+|[[Taboleiro Grande]]
+|-
+|[[Tenente Ananias]]
+|-
+|[[Viçosa, Rio Grande do Norte|Viçosa]]
+|-
+|rowspan=9|Serra de São Miguel
+|[[Água Nova]]
+|-
+|[[Coronel João Pessoa]]
+|-
+|[[Doutor Severiano]]
+|-
+|[[Encanto, Rio Grande do Norte|Encanto]]
+|-
+|[[Luís Gomes]]
+|-
+|[[Major Sales]]
+|-
+|[[Riacho de Santana, Rio Grande do Norte|Riacho de Santana]]
+|-
+|[[São Miguel, Rio Grande do Norte|São Miguel]]
+|-
+|[[Venha-Ver]]
+|-
+|rowspan=11|Umarizal
+|[[Almino Afonso]]
+|-
+|[[Antônio Martins]]
+|-
+|[[Frutuoso Gomes]]
+|-
+|[[João Dias]]
+|-
+|[[Lucrécia]]
+|-
+|[[Martins, Rio Grande do Norte|Martins]]
+|-
+|[[Olho-d'Água do Borges]]
+|-
+|[[Patu]]
+|-
+|[[Rafael Godeiro]]
+|-
+|[[Serrinha dos Pintos]]
+|-
+|[[Umarizal]]
+|-
+|rowspan=9|Vale do Açu
+|[[Açu]]
+|-
+|[[Alto do Rodrigues]]
+|-
+|[[Carnaubais]]
+|-
+|[[Ipanguaçu]]
+|-
+|[[Itajá, Rio Grande do Norte|Itajá]]
+|-
+|[[Jucurutu]]
+|-
+|[[Pendências]]
+|-
+|[[Porto do Mangue]]
+|-
+|[[São Rafael, Rio Grande do Norte|São Rafael]]
+|}
+
+===[[Sergipe|Sergipe (SE)]]===
+{|class=wikitable
+!Mesoregion
+!Microregion
+!Municipality
+|-
+|rowspan=18|Agreste Sergipano
+|rowspan=7|Agreste de Itabaiana
+|[[Areia Branca (Sergipe)|Areia Branca]]
+|-
+|[[Campo do Brito]]
+|-
+|[[Itabaiana]]
+|-
+|[[Macambira]]
+|-
+|[[Malhador]]
+|-
+|[[Moita Bonita]]
+|-
+|[[São Domingos, Sergipe|São Domingos]]
+|-
+|rowspan=2|Agreste de Lagarto
+|[[Lagarto, Sergipe|Lagarto]]
+|-
+|[[Riachão do Dantas]]
+|-
+|rowspan=6|Nossa Senhora das Dores
+|[[Aquidabã]]
+|-
+|[[Cumbe]]
+|-
+|[[Malhada dos Bois]]
+|-
+|[[Muribeca]]
+|-
+|[[Nossa Senhora das Dores, Sergipe|Nossa Senhora das Dores]]
+|-
+|[[São Miguel do Aleixo]]
+|-
+|rowspan=3|Tobias Barreto
+|[[Poço Verde]]
+|-
+|[[Simão Dias]]
+|-
+|[[Tobias Barreto, Sergipe|Tobias Barreto]]
+|-
+|rowspan=42|Leste Sergipano
+|rowspan=4|Aracaju
+|[[Aracaju]] (State Capital)
+|-
+|[[Barra dos Coqueiros]]
+|-
+|[[Nossa Senhora do Socorro]]
+|-
+|[[São Cristóvão]]
+|-
+|rowspan=7|Baixo Cotinguiba
+|[[Carmópolis]]
+|-
+|[[General Maynard]]
+|-
+|[[Laranjeiras, Sergipe|Laranjeiras]]
+|-
+|[[Maruim]]
+|-
+|[[Riachuelo, Sergipe|Riachuelo]]
+|-
+|[[Rosário do Catete]]
+|-
+|[[Santo Amaro das Brotas]]
+|-
+|rowspan=8|Boquim
+|[[Arauá]]
+|-
+|[[Boquim]]
+|-
+|[[Cristinápolis]]
+|-
+|[[Itabaianinha]]
+|-
+|[[Pedrinhas]]
+|-
+|[[Salgado]]
+|-
+|[[Tomar do Geru]]
+|-
+|[[Umbaúba]]
+|-
+|rowspan=4|Cotinguiba
+|[[Capela, Sergipe|Capela]]
+|-
+|[[Divina Pastora]]
+|-
+|[[Santa Rosa de Lima, Sergipe|Santa Rosa de Lima]]
+|-
+|[[Siriri]]
+|-
+|rowspan=4|Estancia
+|[[Estância]]
+|-
+|[[Indiaroba]]
+|-
+|[[Itaporanga d'Ajuda]]
+|-
+|[[Santa Luzia do Itanhy]]
+|-
+|rowspan=5|Japaratuba
+|[[Japaratuba]]
+|-
+|[[Japoatã]]
+|-
+|[[Pacatuba]]
+|-
+|[[Pirambu]]
+|-
+|[[São Francisco, Sergipe|São Francisco]]
+|-
+|rowspan=10|Propria
+|[[Amparo de São Francisco]]
+|-
+|[[Brejo Grande]]
+|-
+|[[Canhoba]]
+|-
+|[[Cedro de São João]]
+|-
+|[[Ilha das Flores]]
+|-
+|[[Neópolis]]
+|-
+|[[Nossa Senhora de Lourdes, Sergipe|Nossa Senhora de Lourdes]]
+|-
+|[[Propriá]]
+|-
+|[[Santana do São Francisco]]
+|-
+|[[Telha]]
+|-
+|rowspan=15|Sertao Sergipano
+|rowspan=6|Carira
+|[[Carira]]
+|-
+|[[Frei Paulo]]
+|-
+|[[Nossa Senhora Aparecida, Sergipe|Nossa Senhora Aparecida]]
+|-
+|[[Pedra Mole]]
+|-
+|[[Pinhão, Sergipe|Pinhão]]
+|-
+|[[Ribeirópolis]]
+|-
+|rowspan=9|Sergipana do Sertao do Sao Francisco
+|[[Canindé de São Francisco]]
+|-
+|[[Feira Nova, Sergipe|Feira Nova]]
+|-
+|[[Gararu]]
+|-
+|[[Gracho Cardoso]]
+|-
+|[[Itabi]]
+|-
+|[[Monte Alegre de Sergipe]]
+|-
+|[[Nossa Senhora da Glória, Sergipe|Nossa Senhora da Glória]]
+|-
+|[[Poço Redondo]]
+|-
+|[[Porto da Folha]]
+|}
+
+==[[Central-West Region, Brazil|Central-Western Brazil]]==
+===[[Goiás|Goiás (GO)]]===
+{|class="wikitable"
+!Mesoregion
+!Microregion
+!Municipality
+|-
+|rowspan=82|Centro Goiano
+|rowspan=20|Anapolis
+|[[Anápolis]]
+|-
+|[[Araçu]]
+|-
+|[[Brazabrantes]]
+|-
+|[[Campo Limpo de Goiás]]
+|-
+|[[Caturaí]]
+|-
+|[[Damolândia]]
+|-
+|[[Heitoraí]]
+|-
+|[[Inhumas]]
+|-
+|[[Itaberaí]]
+|-
+|[[Itaguari]]
+|-
+|[[Itaguaru]]
+|-
+|[[Itauçu]]
+|-
+|[[Jaraguá, Goiás|Jaraguá]]
+|-
+|[[Jesúpolis]]
+|-
+|[[Nova Veneza, Goiás|Nova Veneza]]
+|-
+|[[Ouro Verde de Goiás]]
+|-
+|[[Petrolina de Goiás]]
+|-
+|[[Santa Rosa de Goiás]]
+|-
+|[[São Francisco de Goiás]]
+|-
+|[[Taquaral de Goiás]]
+|-
+|rowspan=13|Anicuns
+|[[Adelândia]]
+|-
+|[[Americano do Brasil]]
+|-
+|[[Anicuns]]
+|-
+|[[Aurilândia]]
+|-
+|[[Avelinópolis]]
+|-
+|[[Buriti de Goiás]]
+|-
+|[[Firminópolis]]
+|-
+|[[Mossâmedes]]
+|-
+|[[Nazário]]
+|-
+|[[Sanclerlândia]]
+|-
+|[[Santa Bárbara de Goiás]]
+|-
+|[[São Luís de Montes Belos]]
+|-
+|[[Turvânia]]
+|-
+|rowspan=22|Ceres
+|[[Barro Alto]]
+|-
+|[[Carmo do Rio Verde]]
+|-
+|[[Ceres, Goiás|Ceres]]
+|-
+|[[Goianésia]]
+|-
+|[[Guaraíta]]
+|-
+|[[Guarinos]]
+|-
+|[[Hidrolina]]
+|-
+|[[Ipiranga de Goiás]]
+|-
+|[[Itapaci]]
+|-
+|[[Itapuranga]]
+|-
+|[[Morro Agudo de Goiás]]
+|-
+|[[Nova América]]
+|-
+|[[Nova Glória]]
+|-
+|[[Pilar de Goiás]]
+|-
+|[[Rialma]]
+|-
+|[[Rianápolis]]
+|-
+|[[Rubiataba]]
+|-
+|[[Santa Isabel, Goiás|Santa Isabel]]
+|-
+|[[Santa Rita do Novo Destino]]
+|-
+|[[São Luíz do Norte]]
+|-
+|[[São Patrício]]
+|-
+|[[Uruana]]
+|-
+|rowspan=17|Goiania
+|[[Abadia de Goiás]]
+|-
+|[[Aparecida de Goiânia]]
+|-
+|[[Aragoiânia]]
+|-
+|[[Bela Vista de Goiás]]
+|-
+|[[Bonfinópolis]]
+|-
+|[[Caldazinha]]
+|-
+|[[Goianápolis]]
+|-
+|[[Goiânia]] (State Capital)
+|-
+|[[Goianira]]
+|-
+|[[Guapó]]
+|-
+|[[Hidrolândia]]
+|-
+|[[Leopoldo de Bulhões]]
+|-
+|[[Nerópolis]]
+|-
+|[[Santo Antônio de Goiás]]
+|-
+|[[Senador Canedo]]
+|-
+|[[Terezópolis de Goiás]]
+|-
+|[[Trindade, Goiás|Trindade]]
+|-
+|rowspan=10|Ipora
+|[[Amorinópolis]]
+|-
+|[[Cachoeira de Goiás]]
+|-
+|[[Córrego do Ouro]]
+|-
+|[[Fazenda Nova]]
+|-
+|[[Iporá]]
+|-
+|[[Israelândia]]
+|-
+|[[Ivolândia]]
+|-
+|[[Jaupaci]]
+|-
+|[[Moiporá]]
+|-
+|[[Novo Brasil]]
+|-
+|rowspan=32|Leste Goiano
+|rowspan=20|Entorno de Brasília
+|[[Abadiânia]]
+|-
+|[[Água Fria de Goiás]]
+|-
+|[[Águas Lindas de Goiás]]
+|-
+|[[Alexânia]]
+|-
+|[[Cabeceiras]]
+|-
+|[[Cidade Ocidental]]
+|-
+|[[Cocalzinho de Goiás]]
+|-
+|[[Corumbá de Goiás]]
+|-
+|[[Cristalina]]
+|-
+|[[Formosa, Goiás|Formosa]]
+|-
+|[[Luziânia]]
+|-
+|[[Mimoso de Goiás]]
+|-
+|[[Novo Gama]]
+|-
+|[[Padre Bernardo]]
+|-
+|[[Pirenópolis]]
+|-
+|[[Planaltina]]
+|-
+|[[Santo Antônio do Descoberto]]
+|-
+|[[Valparaíso de Goiás]]
+|-
+|[[Vila Boa, Goiás|Vila Boa]]
+|-
+|[[Vila Propício]]
+|-
+|rowspan=12|Vao do Parana
+|[[Alvorada do Norte]]
+|-
+|[[Buritinópolis]]
+|-
+|[[Damianópolis]]
+|-
+|[[Divinópolis de Goiás]]
+|-
+|[[Flores de Goiás]]
+|-
+|[[Guarani de Goiás]]
+|-
+|[[Iaciara]]
+|-
+|[[Mambaí]]
+|-
+|[[Posse, Goiás|Posse]]
+|-
+|[[São Domingos, Goiás|São Domingos]]
+|-
+|[[Simolândia]]
+|-
+|[[Sítio d'Abadia]]
+|-
+|rowspan=23|Noroeste Goiano
+|rowspan=7|Aragarcas
+|[[Aragarças]]
+|-
+|[[Arenópolis]]
+|-
+|[[Baliza]]
+|-
+|[[Bom Jardim de Goiás]]
+|-
+|[[Diorama, Goiás|Diorama]]
+|-
+|[[Montes Claros de Goiás]]
+|-
+|[[Piranhas, Goiás|Piranhas]]
+|-
+|rowspan=9|Rio Vermelho
+|[[Araguapaz]]
+|-
+|[[Aruanã]]
+|-
+|[[Britânia]]
+|-
+|[[Faina, Goiás|Faina]]
+|-
+|[[Goiás, Goiás|Goiás]]
+|-
+|[[Itapirapuã]]
+|-
+|[[Jussara]]
+|-
+|[[Matrinchã]]
+|-
+|[[Santa Fé de Goiás]]
+|-
+|rowspan=7|Sao Miguel do Araguaia
+|[[Crixás]]
+|-
+|[[Mozarlândia]]
+|-
+|[[Mundo Novo]]
+|-
+|[[Nova Crixás]]
+|-
+|[[Novo Planalto]]
+|-
+|[[São Miguel do Araguaia]]
+|-
+|[[Uirapuru]]
+|-
+|rowspan=27|Norte Goiano
+|rowspan=8|Chapada dos Veadeiros
+|[[Alto Paraíso de Goiás]]
+|-
+|[[Campos Belos]]
+|-
+|[[Cavalcante]]
+|-
+|[[Colinas do Sul]]
+|-
+|[[Monte Alegre de Goiás]]
+|-
+|[[Nova Roma, Goiás|Nova Roma]]
+|-
+|[[São João d'Aliança]]
+|-
+|[[Teresina de Goiás]]
+|-
+|rowspan=19|Porangatu
+|[[Alto Horizonte]]
+|-
+|[[Amaralina]]
+|-
+|[[Bonópolis]]
+|-
+|[[Campinaçu]]
+|-
+|[[Campinorte]]
+|-
+|[[Campos Verdes]]
+|-
+|[[Estrela do Norte, Goiás|Estrela do Norte]]
+|-
+|[[Formoso]]
+|-
+|[[Mara Rosa]]
+|-
+|[[Minaçu]]
+|-
+|[[Montividiu do Norte]]
+|-
+|[[Mutunópolis]]
+|-
+|[[Niquelândia]]
+|-
+|[[Nova Iguaçu de Goiás]]
+|-
+|[[Porangatu]]
+|-
+|[[Santa Tereza de Goiás]]
+|-
+|[[Santa Terezinha de Goiás]]
+|-
+|[[Trombas]]
+|-
+|[[Uruaçu]]
+|-
+|rowspan=82|Sul Goiano
+|rowspan=11|Catalao
+|[[Anhanguera, Goiás|Anhanguera]]
+|-
+|[[Campo Alegre de Goiás]]
+|-
+|[[Catalão]]
+|-
+|[[Corumbaíba]]
+|-
+|[[Cumari]]
+|-
+|[[Davinópolis]]
+|-
+|[[Goiandira]]
+|-
+|[[Ipameri]]
+|-
+|[[Nova Aurora, Goiás|Nova Aurora]]
+|-
+|[[Ouvidor]]
+|-
+|[[Três Ranchos]]
+|-
+|rowspan=21|Meia Ponte
+|[[Água Limpa]]
+|-
+|[[Aloândia]]
+|-
+|[[Bom Jesus de Goiás]]
+|-
+|[[Buriti Alegre]]
+|-
+|[[Cachoeira Dourada]]
+|-
+|[[Caldas Novas]]
+|-
+|[[Cromínia]]
+|-
+|[[Goiatuba]]
+|-
+|[[Inaciolândia]]
+|-
+|[[Itumbiara]]
+|-
+|[[Joviânia]]
+|-
+|[[Mairipotaba]]
+|-
+|[[Marzagão]]
+|-
+|[[Morrinhos, Goiás|Morrinhos]]
+|-
+|[[Panamá, Goiás|Panamá]]
+|-
+|[[Piracanjuba]]
+|-
+|[[Pontalina]]
+|-
+|[[Porteirão]]
+|-
+|[[Professor Jamil]]
+|-
+|[[Rio Quente]]
+|-
+|[[Vicentinópolis]]
+|-
+|rowspan=10|Pires do Rio
+|[[Cristianópolis]]
+|-
+|[[Gameleira de Goiás]]
+|-
+|[[Orizona]]
+|-
+|[[Palmelo]]
+|-
+|[[Pires do Rio]]
+|-
+|[[Santa Cruz de Goiás]]
+|-
+|[[São Miguel do Passa Quatro]]
+|-
+|[[Silvânia]]
+|-
+|[[Urutaí]]
+|-
+|[[Vianópolis]]
+|-
+|rowspan=9|Quirinopolis
+|[[Cachoeira Alta]]
+|-
+|[[Caçu]]
+|-
+|[[Gouvelândia]]
+|-
+|[[Itajá]]
+|-
+|[[Itarumã]]
+|-
+|[[Lagoa Santa, Goiás|Lagoa Santa]]
+|-
+|[[Paranaiguara]]
+|-
+|[[Quirinópolis]]
+|-
+|[[São Simão, Goiás|São Simão]]
+|-
+|rowspan=18|Sudoeste de Goias
+|[[Aparecida do Rio Doce]]
+|-
+|[[Aporé]]
+|-
+|[[Caiapônia]]
+|-
+|[[Castelândia]]
+|-
+|[[Chapadão do Céu]]
+|-
+|[[Doverlândia]]
+|-
+|[[Jataí]]
+|-
+|[[Maurilândia]]
+|-
+|[[Mineiros]]
+|-
+|[[Montividiu]]
+|-
+|[[Palestina de Goiás]]
+|-
+|[[Perolândia]]
+|-
+|[[Portelândia]]
+|-
+|[[Rio Verde, Goiás|Rio Verde]]
+|-
+|[[Santa Helena de Goiás]]
+|-
+|[[Santa Rita do Araguaia]]
+|-
+|[[Santo Antônio da Barra]]
+|-
+|[[Serranópolis]]
+|-
+|rowspan=13|Vale do Rio dos Bois
+|[[Acreúna]]
+|-
+|[[Campestre de Goiás]]
+|-
+|[[Cezarina]]
+|-
+|[[Edealina]]
+|-
+|[[Edéia]]
+|-
+|[[Indiara]]
+|-
+|[[Jandaia]]
+|-
+|[[Palmeiras de Goiás]]
+|-
+|[[Palminópolis]]
+|-
+|[[Paraúna]]
+|-
+|[[São João da Paraúna]]
+|-
+|[[Turvelândia]]
+|-
+|[[Varjão]]
+|}
+
+===[[Mato Grosso|Mato Grosso (MT)]]===
+{|class="wikitable"
+!Mesoregion
+!Microregion
+!Municipality
+|-
+|rowspan=17|Centro-Sul Mato-Grossense
+|rowspan=4|Alto Pantanal
+|[[Barão de Melgaço]]
+|-
+|[[Cáceres, Mato Grosso|Cáceres]]
+|-
+|[[Curvelândia]]
+|-
+|[[Poconé]]
+|-
+|rowspan=5|Alto Paraguai
+|[[Alto Paraguai]]
+|-
+|[[Arenápolis]]
+|-
+|[[Nortelândia]]
+|-
+|[[Nova Marilândia]]
+|-
+|[[Santo Afonso]]
+|-
+|rowspan=5|Cuiaba
+|[[Chapada dos Guimarães]]
+|-
+|[[Cuiabá]] (State Capital)
+|-
+|[[Nossa Senhora do Livramento, Mato Grosso|Nossa Senhora do Livramento]]
+|-
+|[[Santo Antônio do Leverger]]
+|-
+|[[Várzea Grande (Mato Grosso)|Várzea Grande]]
+|-
+|rowspan=3|Rosario Oeste
+|[[Acorizal]]
+|-
+|[[Jangada]]
+|-
+|[[Rosário Oeste]]
+|-
+|rowspan=25|Nordeste Mato-Grossense
+|rowspan=8|Canarana
+|[[Água Boa, Mato Grosso|Água Boa]]
+|-
+|[[Campinápolis]]
+|-
+|[[Canarana]]
+|-
+|[[Nova Nazaré]]
+|-
+|[[Nova Xavantina]]
+|-
+|[[Novo São Joaquim]]
+|-
+|[[Querência]]
+|-
+|[[Santo Antônio do Leste]]
+|-
+|rowspan=3|Medio Araguaia
+|[[Araguaiana]]
+|-
+|[[Barra do Garças]]
+|-
+|[[Cocalinho]]
+|-
+|rowspan=14|Norte Araguaia
+|[[Alto Boa Vista]]
+|-
+|[[Bom Jesus do Araguaia]]
+|-
+|[[Canabrava do Norte]]
+|-
+|[[Confresa]]
+|-
+|[[Luciára]]
+|-
+|[[Novo Santo Antônio]]
+|-
+|[[Porto Alegre do Norte]]
+|-
+|[[Ribeirão Cascalheira]]
+|-
+|[[Santa Cruz do Xingu]]
+|-
+|[[Santa Terezinha]]
+|-
+|[[São Félix do Araguaia]]
+|-
+|[[São José do Xingu]]
+|-
+|[[Serra Nova Dourada]]
+|-
+|[[Vila Rica (Mato Grosso)|Vila Rica]]
+|-
+|rowspan=55|Norte Mato-Grossense
+|rowspan=6|Alta Floresta
+|[[Alta Floresta]]
+|-
+|[[Apiacás]]
+|-
+|[[Carlinda]]
+|-
+|[[Nova Bandeirantes]]
+|-
+|[[Nova Monte Verde]]
+|-
+|[[Paranaíta]]
+|-
+|rowspan=9|Alto Teles Pires
+|Ipiranga do Norte
+|-
+|Itanhangá
+|-
+|[[Lucas do Rio Verde]]
+|-
+|[[Nobres]]
+|-
+|[[Nova Mutum]]
+|-
+|[[Nova Ubiratã]]
+|-
+|[[Santa Rita do Trivelato]]
+|-
+|[[Sorriso]]
+|-
+|[[Tapurah]]
+|-
+|rowspan=6|Arinos
+|[[Juara]]
+|-
+|[[Nova Maringá]]
+|-
+|[[Novo Horizonte do Norte]]
+|-
+|[[Porto dos Gaúchos]]
+|-
+|[[São José do Rio Claro]]
+|-
+|[[Tabaporã]]
+|-
+|rowspan=8|Aripuana
+|[[Aripuanã]]
+|-
+|[[Brasnorte]]
+|-
+|Castanheira
+|-
+|[[Colniza]]
+|-
+|[[Cotriguaçu]]
+|-
+|[[Juína]]
+|-
+|[[Juruena]]
+|-
+|[[Rondolândia]]
+|-
+|rowspan=8|Colider
+|[[Colíder]]
+|-
+|[[Guarantã do Norte]]
+|-
+|[[Matupá]]
+|-
+|[[Nova Canaã do Norte]]
+|-
+|[[Nova Guarita]]
+|-
+|[[Novo Mundo]]
+|-
+|[[Peixoto de Azevedo]]
+|-
+|[[Terra Nova do Norte]]
+|-
+|rowspan=4|Paranatinga
+|[[Gaúcha do Norte]]
+|-
+|[[Nova Brasilândia]]
+|-
+|[[Paranatinga]]
+|-
+|[[Planalto da Serra]]
+|-
+|rowspan=5|Parecis
+|[[Comodoro]]
+|-
+|[[Campo Novo do Parecis]]
+|-
+|[[Campos de Júlio]]
+|-
+|[[Diamantino]]
+|-
+|[[Sapezal]]
+|-
+|rowspan=9|Sinop
+|[[Cláudia]]
+|-
+|[[Feliz Natal]]
+|-
+|[[Itaúba]]
+|-
+|[[Marcelândia]]
+|-
+|[[Nova Santa Helena]]
+|-
+|[[Santa Carmem]]
+|-
+|[[Sinop, Brazil|Sinop]]
+|-
+|[[União do Sul]]
+|-
+|[[Vera (Mato Grosso)|Vera]]
+|-
+|rowspan=22|Sudeste Mato-Grossense
+|rowspan=3|Alto Araguaia
+|[[Alto Araguaia]]
+|-
+|[[Alto Garças]]
+|-
+|[[Alto Taquari]]
+|-
+|rowspan=2|Primavera do Leste
+|[[Campo Verde]]
+|-
+|[[Primavera do Leste]]
+|-
+|rowspan=8|Rondonópolis
+|[[Dom Aquino]]
+|-
+|[[Itiquira]]
+|-
+|[[Jaciara]]
+|-
+|[[Juscimeira]]
+|-
+|[[Pedra Preta]]
+|-
+|[[Rondonópolis]]
+|-
+|[[São José do Povo]]
+|-
+|[[São Pedro da Cipa]]
+|-
+|rowspan=9|Tesouro
+|[[Araguainha]]
+|-
+|[[General Carneiro]]
+|-
+|[[Guiratinga]]
+|-
+|[[Pontal do Araguaia]]
+|-
+|[[Ponte Branca]]
+|-
+|[[Poxoréo]]
+|-
+|[[Ribeirãozinho]]
+|-
+|[[Tesouro]]
+|-
+|[[Torixoréu]]
+|-
+|rowspan=22|Sudoeste Mato-Grossense
+|rowspan=5|Alto Guapore
+|[[Conquista d'Oeste]]
+|-
+|[[Nova Lacerda]]
+|-
+|[[Pontes e Lacerda]]
+|-
+|[[Vale de São Domingos]]
+|-
+|[[Vila Bela da Santíssima Trindade]]
+|-
+|rowspan=12|Jauru
+|[[Araputanga]]
+|-
+|[[Figueirópolis d'Oeste]]
+|-
+|[[Glória d'Oeste]]
+|-
+|[[Indiavaí]]
+|-
+|[[Jauru]]
+|-
+|[[Lambari d'Oeste]]
+|-
+|[[Mirassol d'Oeste]]
+|-
+|[[Porto Esperidião]]
+|-
+|[[Reserva do Cabaçal]]
+|-
+|[[Rio Branco (Mato Grosso)|Rio Branco]]
+|-
+|[[Salto do Céu]]
+|-
+|[[São José dos Quatro Marcos]]
+|-
+|rowspan=5|Tangara da Serra
+|[[Barra do Bugres]]
+|-
+|[[Denise (Brazil)|Denise]]
+|-
+|[[Nova Olímpia, Mato Grosso|Nova Olímpia]]
+|-
+|[[Porto Estrela]]
+|-
+|[[Tangará da Serra]]
+|}
+
+===[[Mato Grosso do Sul|Mato Grosso do Sul (MS)]]===
+{|class="wikitable"
+!Mesoregion
+!Microregion
+!Municipality
+|-
+|rowspan=16|Centro Norte de Mato Grosso do Sul
+|rowspan=8|Alto Taquari
+|[[Alcinópolis]]
+|-
+|[[Camapuã]]
+|-
+|[[Figueirão]]
+|-
+|[[Coxim]]
+|-
+|[[Pedro Gomes]]
+|-
+|[[Rio Verde de Mato Grosso]]
+|-
+|[[São Gabriel do Oeste]]
+|-
+|[[Sonora, Mato Grosso do Sul|Sonora]]
+|-
+|rowspan=8|Campo Grande
+|[[Bandeirantes, Mato Grosso do Sul|Bandeirantes]]
+|-
+|[[Campo Grande]] (State Capital)
+|-
+|[[Corguinho]]
+|-
+|[[Jaraguari]]
+|-
+|[[Rio Negro, Mato Grosso do Sul|Rio Negro]]
+|-
+|[[Rochedo]]
+|-
+|[[Sidrolândia]]
+|-
+|[[Terenos]]
+|-
+|rowspan=17|Leste de Mato Grosso do Sul
+|rowspan=3|Cassilandia
+|[[Cassilândia]]
+|-
+|[[Chapadão do Sul]]
+|-
+|[[Costa Rica, Mato Grosso do Sul|Costa Rica]]
+|-
+|rowspan=5|Nova Andradina
+|[[Anaurilândia]]
+|-
+|[[Bataguassu]]
+|-
+|[[Bataiporã|Batayporã]]
+|-
+|[[Nova Andradina]]
+|-
+|[[Taquarussu, Mato Grosso do Sul|Taquarussu]]
+|-
+|rowspan=4|Paranaiba
+|[[Aparecida do Taboado]]
+|-
+|[[Inocência]]
+|-
+|[[Paranaíba]]
+|-
+|[[Selvíria]]
+|-
+|rowspan=5|Tres Lagoas
+|[[Água Clara]]
+|-
+|[[Brasilândia]]
+|-
+|[[Ribas do Rio Pardo]]
+|-
+|[[Santa Rita do Pardo]]
+|-
+|[[Três Lagoas]]
+|-
+|rowspan=7|Pantanal Sul Mato-Grossense
+|rowspan=4|Aquidauana
+|[[Anastácio]]
+|-
+|[[Aquidauana]]
+|-
+|[[Dois Irmãos do Buriti]]
+|-
+|[[Miranda, Mato Grosso do Sul|Miranda]]
+|-
+|rowspan=3|Baixo Pantanal
+|[[Corumbá]]
+|-
+|[[Ladário]]
+|-
+|[[Porto Murtinho]]
+|-
+|rowspan=39|Sudoeste de Mato Grosso do Sul
+|-
+|rowspan=7|Bodoquena
+|[[Bela Vista, Mato Grosso do Sul|Bela Vista]]
+|-
+|[[Bodoquena]]
+|-
+|[[Bonito, Mato Grosso do Sul|Bonito]]
+|-
+|[[Caracol, Mato Grosso do Sul|Caracol]]
+|-
+|[[Guia Lopes da Laguna]]
+|-
+|[[Jardim, Mato Grosso do Sul|Jardim]]
+|-
+|[[Nioaque]]
+|-
+|rowspan=15|Dourados
+|[[Amambai]]
+|-
+|[[Antônio João]]
+|-
+|[[Aral Moreira]]
+|-
+|[[Caarapó]]
+|-
+|[[Douradina]]
+|-
+|[[Dourados]]
+|-
+|[[Fátima do Sul]]
+|-
+|[[Itaporã]]
+|-
+|[[Juti]]
+|-
+|[[Laguna Carapã]]
+|-
+|[[Maracaju]]
+|-
+|[[Nova Alvorada do Sul]]
+|-
+|[[Ponta Porã]]
+|-
+|[[Rio Brilhante]]
+|-
+|[[Vicentina]]
+|-
+|rowspan=16|Iguatemi
+|[[Angélica, Mato Grosso do Sul|Angélica]]
+|-
+|[[Coronel Sapucaia]]
+|-
+|[[Deodápolis]]
+|-
+|[[Eldorado, Mato Grosso do Sul|Eldorado]]
+|-
+|[[Glória de Dourados]]
+|-
+|[[Iguatemi]]
+|-
+|[[Itaquiraí]]
+|-
+|[[Ivinhema]]
+|-
+|[[Japorã]]
+|-
+|[[Jateí]]
+|-
+|[[Mundo Novo, Mato Grosso do Sul|Mundo Novo]]
+|-
+|[[Naviraí]]
+|-
+|[[Novo Horizonte do Sul]]
+|-
+|[[Paranhos (Mato Grosso do Sul)|Paranhos]]
+|-
+|[[Sete Quedas]]
+|-
+|[[Tacuru]]
+|}
+
+===[[Brazilian Federal District|Distrito Federal do Brasília (DF)]]===
+{|class="wikitable"
+!Mesoregion
+!Microregion
+!Municipality
+|-
+|Distrito Federal
+|Brasília
+|[[Brasília]]
+|}
+
+==[[Southeast Region, Brazil|South Eastern Brazil]]==
+===[[Espírito Santo|Espírito Santo (ES)]]===
+{|class="wikitable"
+!Mesoregion
+!Microregion
+!Municipality
+|-
+|rowspan=24|Central Espirito-Santense
+|rowspan=7|Afonso Claudio
+|[[Afonso Claudio|Afonso Cláudio]]
+|-
+|[[Brejetuba, Espírito Santo|Brejetuba]]
+|-
+|[[Conceição do Castelo, Espírito Santo|Conceição do Castelo]]
+|-
+|[[Domingos Martins]]
+|-
+|[[Laranja da Terra, Espírito Santo|Laranja da Terra]]
+|-
+|[[Marechal Floriano]]
+|-
+|[[Venda Nova do Imigrante]]
+|-
+|rowspan=6|Guarapari
+|[[Alfredo Chaves]]
+|-
+|[[Anchieta, Espírito Santo|Anchieta]]
+|-
+|[[Guarapari]]
+|-
+|[[Iconha, Espírito Santo|Iconha]]
+|-
+|[[Piúma, Espírito Santo|Piúma]]
+|-
+|[[Rio Novo do Sul, Espírito Santo|Rio Novo do Sul]]
+|-
+|rowspan=6|Santa Teresa
+|[[Itaguaçu, Espírito Santo|Itaguaçu]]
+|-
+|[[Itarana, Espírito Santo|Itarana]]
+|-
+|[[Santa Leopoldina, Espírito Santo|Santa Leopoldina]]
+|-
+|[[Santa Maria de Jetibá, Espírito Santo|Santa Maria de Jetibá]]
+|-
+|[[Santa Teresa, Espírito Santo|Santa Teresa]]
+|-
+|[[São Roque do Canaã, Espírito Santo|São Roque do Canaã]]
+|-
+|rowspan=5|Vitória
+|[[Cariacica]]
+|-
+|[[Serra, Espírito Santo|Serra]]
+|-
+|[[Viana, Espírito Santo|Viana]]
+|-
+|[[Vila Velha]]
+|-
+|[[Vitória, Brazil|Vitória]] (State Capital)
+|-
+|rowspan=15|Litoral Norte Espirito-Santense
+|rowspan=7|Linhares
+|[[Aracruz, Espírito Santo|Aracruz]]
+|-
+|[[Fundão, Espírito Santo|Fundão]]
+|-
+|[[Ibiraçu, Espírito Santo|Ibiraçu]]
+|-
+|[[João Neiva, Espírito Santo|João Neiva]]
+|-
+|[[Linhares]]
+|-
+|[[Rio Bananal, Espírito Santo|Rio Bananal]]
+|-
+|[[Sooretama, Espírito Santo|Sooretama]]
+|-
+|rowspan=4|Montanha
+|[[Montanha, Espírito Santo|Montanha]]
+|-
+|[[Mucurici, Espírito Santo|Mucurici]]
+|-
+|[[Pinheiros, Espírito Santo|Pinheiros]]
+|-
+|[[Ponto Belo, Espírito Santo|Ponto Belo]]
+|-
+|rowspan=4|Sao Mateus
+|[[Conceição da Barra, Espírito Santo|Conceição da Barra]]
+|-
+|[[Jaguaré, Espírito Santo|Jaguaré]]
+|-
+|[[Pedro Canário, Espírito Santo|Pedro Canário]]
+|-
+|[[São Mateus, Espírito Santo|São Mateus]]
+|-
+|rowspan=17|Noroeste Espirito-Santense
+|rowspan=4|Barra de Sao Francisco
+|[[Água Doce do Norte, Espírito Santo|Água Doce do Norte]]
+|-
+|[[Barra de São Francisco, Espírito Santo|Barra de São Francisco]]
+|-
+|[[Ecoporanga, Espírito Santo|Ecoporanga]]
+|-
+|[[Mantenópolis, Espírito Santo|Mantenópolis]]
+|-
+|rowspan=7|Colatina
+|[[Alto Rio Novo, Espírito Santo|Alto Rio Novo]]
+|-
+|[[Baixo Guandu, Espírito Santo|Baixo Guandu]]
+|-
+|[[Colatina]]
+|-
+|[[Governador Lindenberg, Espírito Santo|Governador Lindenberg]]
+|-
+|[[Marilândia, Espírito Santo|Marilândia]]
+|-
+|[[Pancas, Espírito Santo|Pancas]]
+|-
+|[[São Domingos do Norte, Espírito Santo|São Domingos do Norte]]
+|-
+|rowspan=6|Nova Venecia
+|[[Águia Branca, Espírito Santo|Águia Branca]]
+|-
+|[[Boa Esperança, Espírito Santo|Boa Esperança]]
+|-
+|[[Nova Venécia, Espírito Santo|Nova Venécia]]
+|-
+|[[São Gabriel da Palha, Espírito Santo|São Gabriel da Palha]]
+|-
+|[[Vila Pavão, Espírito Santo|Vila Pavão]]
+|-
+|[[Vila Valério, Espírito Santo|Vila Valério]]
+|-
+|rowspan=22|Sul Espirito-Santense
+|rowspan=9|Alegre
+|[[Alegre, Espírito Santo|Alegre]]
+|-
+|[[Divino de São Lourenço, Espírito Santo|Divino de São Lourenço]]
+|-
+|[[Dores do Rio Preto, Espírito Santo|Dores do Rio Preto]]
+|-
+|[[Guaçuí, Espírito Santo|Guaçuí]]
+|-
+|[[Ibatiba, Espírito Santo|Ibatiba]]
+|-
+|[[Ibitirama, Espírito Santo|Ibitirama]]
+|-
+|[[Irupi, Espírito Santo|Irupi]]
+|-
+|[[Iúna, Espírito Santo|Iúna]]
+|-
+|[[Muniz Freire, Espírito Santo|Muniz Freire]]
+|-
+|rowspan=10|Cachoeiro de Itapemirim
+|[[Apiacá, Espírito Santo|Apiacá]]
+|-
+|[[Atilio Vivaqua|Atilio Vivacqua]]
+|-
+|[[Bom Jesus do Norte, Espírito Santo|Bom Jesus do Norte]]
+|-
+|[[Cachoeiro de Itapemirim]]
+|-
+|[[Castelo, Espírito Santo|Castelo]]
+|-
+|[[Jerônimo Monteiro, Espírito Santo|Jerônimo Monteiro]]
+|-
+|[[Mimoso do Sul, Espírito Santo|Mimoso do Sul]]
+|-
+|[[Muqui, Espírito Santo|Muqui]]
+|-
+|[[São José do Calçado, Espírito Santo|São José do Calçado]]
+|-
+|[[Vargem Alta, Espírito Santo|Vargem Alta]]
+|-
+|rowspan=3|Itapemirim
+|[[Itapemirim, Espírito Santo|Itapemirim]]
+|-
+|[[Marataízes, Espírito Santo|Marataízes]]
+|-
+|[[Presidente Kennedy, Espírito Santo|Presidente Kennedy]]
+|}
+
+===[[Minas Gerais|Minas Gerais (MG)]]===
+{|class="wikitable"
+!Mesoregion
+!Microregion
+!Municipality
+|-
+|rowspan=36|Campo das Vertentes
+|rowspan=12|Barbacena
+|[[Alfredo Vasconcelos]]
+|-
+|[[Antônio Carlos, Minas Gerais|Antônio Carlos]]
+|-
+|[[Barbacena]]
+|-
+|[[Barroso, Minas Gerais|Barroso]]
+|-
+|[[Capela Nova]]
+|-
+|[[Caranaíba]]
+|-
+|[[Carandaí]]
+|-
+|[[Desterro do Melo]]
+|-
+|[[Ibertioga]]
+|-
+|[[Ressaquinha]]
+|-
+|[[Santa Bárbara do Tugúrio]]
+|-
+|[[Senhora dos Remédios]]
+|-
+|rowspan=9|Lavras
+|[[Carrancas, Minas Gerais|Carrancas]]
+|-
+|[[Ijaci]]
+|-
+|[[Ingaí]]
+|-
+|[[Itumirim]]
+|-
+|[[Itutinga]]
+|-
+|[[Lavras]]
+|-
+|[[Luminárias]]
+|-
+|[[Nepomuceno]]
+|-
+|[[Ribeirão Vermelho]]
+|-
+|rowspan=15|São João del Rei
+|[[Conceição da Barra de Minas]]
+|-
+|[[Coronel Xavier Chaves]]
+|-
+|[[Dores de Campos]]
+|-
+|[[Lagoa Dourada]]
+|-
+|[[Madre de Deus de Minas]]
+|-
+|[[Nazareno]]
+|-
+|[[Piedade do Rio Grande]]
+|-
+|[[Prados]]
+|-
+|[[Resende Costa]]
+|-
+|[[Ritápolis]]
+|-
+|[[Santa Cruz de Minas]]
+|-
+|[[Santana do Garambéu]]
+|-
+|[[São João del Rei]]
+|-
+|[[São Tiago]]
+|-
+|[[Tiradentes, Minas Gerais|Tiradentes]]
+|-
+|rowspan=30|Central Mineira
+|rowspan=12|Bom Despacho
+|[[Araújos]]
+|-
+|[[Bom Despacho, Minas Gerais|Bom Despacho]]
+|-
+|[[Dores do Indaiá]]
+|-
+|[[Estrela do Indaiá]]
+|-
+|[[Japaraíba]]
+|-
+|[[Lagoa da Prata]]
+|-
+|[[Leandro Ferreira]]
+|-
+|[[Luz, Minas Gerais|Luz]]
+|-
+|[[Martinho Campos]]
+|-
+|[[Moema]]
+|-
+|[[Quartel Geral]]
+|-
+|[[Serra da Saudade]]
+|-
+|rowspan=11|Curvelo
+|[[Augusto de Lima, Minas Gerais|Augusto de Lima]]
+|-
+|[[Buenópolis]]
+|-
+|[[Corinto, Minas Gerais|Corinto]]
+|-
+|[[Curvelo]]
+|-
+|[[Felixlândia]]
+|-
+|[[Inimutaba]]
+|-
+|[[Joaquim Felício]]
+|-
+|[[Monjolos]]
+|-
+|[[Morro da Garça]]
+|-
+|[[Presidente Juscelino]]
+|-
+|[[Santo Hipólito]]
+|-
+|rowspan=7|Três Marias
+|[[Abaeté]]
+|-
+|[[Biquinhas]]
+|-
+|[[Cedro do Abaeté]]
+|-
+|[[Morada Nova de Minas]]
+|-
+|[[Paineiras]]
+|-
+|[[Pompéu]]
+|-
+|[[Três Marias]]
+|-
+|rowspan=51|Jequitinhonha
+|rowspan=16|Almenara
+|[[Almenara, Minas Gerais|Almenara]]
+|-
+|[[Bandeira, Minas Gerais|Bandeira]]
+|-
+|[[Divisópolis]]
+|-
+|[[Felisburgo]]
+|-
+|[[Jacinto, Minas Gerais|Jacinto]]
+|-
+|[[Jequitinhonha]]
+|-
+|[[Joaíma]]
+|-
+|[[Jordânia]]
+|-
+|[[Mata Verde]]
+|-
+|[[Monte Formoso]]
+|-
+|[[Palmópolis]]
+|-
+|[[Rio do Prado]]
+|-
+|[[Rubim]]
+|-
+|[[Salto da Divisa]]
+|-
+|[[Santa Maria do Salto]]
+|-
+|[[Santo Antônio do Jacinto]]
+|-
+|rowspan=8|Araçuaí
+|[[Araçuaí]]
+|-
+|[[Caraí]]
+|-
+|[[Coronel Murta]]
+|-
+|[[Itinga]]
+|-
+|[[Novo Cruzeiro]]
+|-
+|[[Padre Paraíso]]
+|-
+|[[Ponto dos Volantes]]
+|-
+|[[Virgem da Lapa]]
+|-
+|rowspan=14|Capelinha
+|[[Angelândia]]
+|-
+|[[Aricanduva, Minas Gerais|Aricanduva]]
+|-
+|[[Berilo]]
+|-
+|[[Capelinha]]
+|-
+|[[Carbonita]]
+|-
+|[[Chapada do Norte]]
+|-
+|[[Francisco Badaró]]
+|-
+|[[Itamarandiba]]
+|-
+|[[Jenipapo de Minas]]
+|-
+|[[José Gonçalves de Minas]]
+|-
+|[[Leme do Prado]]
+|-
+|[[Minas Novas]]
+|-
+|[[Turmalina, Minas Gerais|Turmalina]]
+|-
+|[[Veredinha]]
+|-
+|rowspan=8|Diamantina
+|[[Couto de Magalhaes de Minas]]
+|-
+|[[Datas]]
+|-
+|[[Diamantina, Brazil|Diamantina]]
+|-
+|[[Felício dos Santos]]
+|-
+|[[Gouveia, Minas Gerais|Gouveia]]
+|-
+|[[Presidente Kubitschek]]
+|-
+|[[São Gonçalo do Rio Preto]]
+|-
+|[[Senador Modestino Gonçalves]]
+|-
+|rowspan=5|Pedra Azul
+|[[Cachoeira de Pajeú]]
+|-
+|[[Comercinho]]
+|-
+|[[Itaobim]]
+|-
+|[[Medina, Minas Gerais|Medina]]
+|-
+|[[Pedra Azul]]
+|-
+|rowspan=105|Metropolitana de Belo Horizonte
+|rowspan=24|Belo Horizonte
+|[[Belo Horizonte]] (State Capital)
+|-
+|[[Betim]]
+|-
+|[[Brumadinho]]
+|-
+|[[Caeté]]
+|-
+|[[Confins]]
+|-
+|[[Contagem]]
+|-
+|[[Esmeraldas, Brazil|Esmeraldas]]
+|-
+|[[Ibirité]]
+|-
+|[[Igarapé]]
+|-
+|[[Juatuba]]
+|-
+|[[Lagoa Santa]]
+|-
+|[[Mário Campos]]
+|-
+|[[Mateus Leme]]
+|-
+|[[Nova Lima]]
+|-
+|[[Pedro Leopoldo]]
+|-
+|[[Raposos]]
+|-
+|[[Ribeirão das Neves]]
+|-
+|[[Rio Acima]]
+|-
+|[[Sabará]]
+|-
+|[[Santa Luzia, Minas Gerais|Santa Luzia]]
+|-
+|[[São Joaquim de Bicas]]
+|-
+|[[São José da Lapa]]
+|-
+|[[Sarzedo, Minas Gerais|Sarzedo]]
+|-
+|[[Vespasiano]]
+|-
+|rowspan=13|Conceição do Mato Dentro
+|[[Alvorada de Minas]]
+|-
+|[[Conceição do Mato Dentro]]
+|-
+|[[Congonhas do Norte]]
+|-
+|[[Dom Joaquim]]
+|-
+|[[Itambé do Mato Dentro]]
+|-
+|[[Morro do Pilar]]
+|-
+|[[Passabém]]
+|-
+|[[Rio Vermelho]]
+|-
+|[[Santo Antônio do Itambé]]
+|-
+|[[Santo Antônio do Rio Abaixo]]
+|-
+|[[São Sebastião do Rio Preto]]
+|-
+|[[Serra Azul de Minas]]
+|-
+|[[Serro]]
+|-
+|rowspan=12|Conselheiro Lafaiete
+|[[Casa Grande, Minas Gerais|Casa Grande]]
+|-
+|[[Catas Altas da Noruega]]
+|-
+|[[Congonhas]]
+|-
+|[[Conselheiro Lafaiete]]
+|-
+|[[Cristiano Otoni]]
+|-
+|[[Desterro de Entre Rios]]
+|-
+|[[Entre Rios de Minas]]
+|-
+|[[Itaverava]]
+|-
+|[[Ouro Branco]]
+|-
+|[[Queluzito]]
+|-
+|[[Santana dos Montes]]
+|-
+|[[São Brás do Suaçuí]]
+|-
+|rowspan=18|Itabira
+|[[Alvinópolis]]
+|-
+|[[Barão de Cocais]]
+|-
+|[[Bela Vista de Minas]]
+|-
+|[[Bom Jesus do Amparo]]
+|-
+|[[Catas Altas]]
+|-
+|[[Dionísio]]
+|-
+|[[Ferros]]
+|-
+|[[Itabira]]
+|-
+|[[João Monlevade]]
+|-
+|[[Nova Era]]
+|-
+|[[Nova União, Minas Gerais|Nova União]]
+|-
+|[[Rio Piracicaba]]
+|-
+|[[Santa Bárbara, Minas Gerais|Santa Bárbara]]
+|-
+|[[Santa Maria de Itabira]]
+|-
+|[[São Domingos do Prata]]
+|-
+|[[São Gonçalo do Rio Abaixo]]
+|-
+|[[São José do Goiabal]]
+|-
+|[[Taquaraçu de Minas]]
+|-
+|rowspan=9|Itaguara
+|[[Belo Vale]]
+|-
+|[[Bonfim, Minas Gerais|Bonfim]]
+|-
+|[[Crucilândia]]
+|-
+|[[Itaguara]]
+|-
+|[[Itatiaiuçu]]
+|-
+|[[Jeceaba]]
+|-
+|[[Moeda]]
+|-
+|[[Piedade dos Gerais]]
+|-
+|[[Rio Manso]]
+|-
+|rowspan=4|Ouro Preto
+|[[Diogo de Vasconcelos]]
+|-
+|[[Itabirito]]
+|-
+|[[Mariana, Minas Gerais|Mariana]]
+|-
+|[[Ouro Preto]]
+|-
+|rowspan=5|Pará de Minas
+|[[Florestal]]
+|-
+|[[Onça de Pitangui]]
+|-
+|[[Pará de Minas]]
+|-
+|[[Pitangui]]
+|-
+|[[São José da Varginha]]
+|-
+|rowspan=20|Sete Lagoas
+|[[Araçaí]]
+|-
+|[[Baldim]]
+|-
+|[[Cachoeira da Prata]]
+|-
+|[[Caetanópolis]]
+|-
+|[[Capim Branco]]
+|-
+|[[Cordisburgo]]
+|-
+|[[Fortuna de Minas]]
+|-
+|[[Funilândia]]
+|-
+|[[Inhaúma]]
+|-
+|[[Jaboticatubas]]
+|-
+|[[Jequitibá]]
+|-
+|[[Maravilhas]]
+|-
+|[[Matozinhos]]
+|-
+|[[Papagaios]]
+|-
+|[[Paraopeba]]
+|-
+|[[Pequi, Minas Gerais|Pequi]]
+|-
+|[[Prudente de Morais, Minas Gerais|Prudente de Morais]]
+|-
+|[[Santana de Pirapama]]
+|-
+|[[Santana do Riacho]]
+|-
+|[[Sete Lagoas]]
+|-
+|rowspan=19|Noroeste de Minas
+|rowspan=10|Paracatu
+|[[Brasilândia de Minas]]
+|-
+|[[Guarda-Mor]]
+|-
+|[[João Pinheiro, Minas Gerais|João Pinheiro]]
+|-
+|[[Lagamar]]
+|-
+|[[Lagoa Grande, Minas Gerais|Lagoa Grande]]
+|-
+|[[Paracatu, Minas Gerais|Paracatu]]
+|-
+|[[Presidente Olegário]]
+|-
+|[[São Gonçalo do Abaeté]]
+|-
+|[[Varjão de Minas]]
+|-
+|[[Vazante]]
+|-
+|rowspan=9|Unaí
+|[[Arinos]]
+|-
+|[[Bonfinópolis de Minas]]
+|-
+|[[Buritis]]
+|-
+|[[Cabeceira Grande]]
+|-
+|[[Dom Bosco]]
+|-
+|[[Formoso, Minas Gerais|Formoso]]
+|-
+|[[Natalândia]]
+|-
+|[[Unaí]]
+|-
+|[[Uruana de Minas]]
+|-
+|rowspan=89|Norte de Minas
+|rowspan=5|Bocaiúva
+|[[Bocaiúva]]
+|-
+|[[Engenheiro Navarro]]
+|-
+|[[Francisco Dumont]]
+|-
+|[[Guaraciama]]
+|-
+|[[Olhos-d'Água]]
+|-
+|rowspan=6|Grão Mogol
+|[[Botumirim]]
+|-
+|[[Cristália]]
+|-
+|[[Grão Mogol]]
+|-
+|[[Itacambira]]
+|-
+|[[Josenópolis]]
+|-
+|[[Padre Carvalho]]
+|-
+|rowspan=13|Janaúba
+|[[Catuti]]
+|-
+|[[Espinosa, Minas Gerais|Espinosa]]
+|-
+|[[Gameleiras]]
+|-
+|[[Jaíba]]
+|-
+|[[Janaúba]]
+|-
+|[[Mamonas]]
+|-
+|[[Mato Verde]]
+|-
+|[[Monte Azul]]
+|-
+|[[Nova Porteirinha]]
+|-
+|[[Pai Pedro]]
+|-
+|[[Porteirinha]]
+|-
+|[[Riacho dos Machados]]
+|-
+|[[Serranópolis de Minas]]
+|-
+|rowspan=16|Januária
+|[[Bonito de Minas]]
+|-
+|[[Chapada Gaúcha]]
+|-
+|[[Cônego Marinho]]
+|-
+|[[Icaraí de Minas]]
+|-
+|[[Itacarambi]]
+|-
+|[[Januária]]
+|-
+|[[Juvenília]]
+|-
+|[[Manga, Minas Gerais|Manga]]
+|-
+|[[Matias Cardoso]]
+|-
+|[[Miravânia]]
+|-
+|[[Montalvânia]]
+|-
+|[[Pedras de Maria da Cruz]]
+|-
+|[[Pintópolis]]
+|-
+|[[São Francisco, Minas Gerais|São Francisco]]
+|-
+|[[São João das Missões]]
+|-
+|[[Urucuia]]
+|-
+|rowspan=22|Montes Claros
+|[[Brasília de Minas]]
+|-
+|[[Campo Azul, Minas Gerais|Campo Azul]]
+|-
+|[[Capitão Enéas]]
+|-
+|[[Claro dos Poções]]
+|-
+|[[Coração de Jesus]]
+|-
+|[[Francisco Sá, Minas Gerais|Francisco Sá]]
+|-
+|[[Glaucilândia]]
+|-
+|[[Ibiracatu]]
+|-
+|[[Japonvar]]
+|-
+|[[Juramento]]
+|-
+|[[Lontra, Minas Gerais|Lontra]]
+|-
+|[[Luislândia]]
+|-
+|[[Mirabela]]
+|-
+|[[Montes Claros]]
+|-
+|[[Patis, Minas Gerais|Patis]]
+|-
+|[[Ponto Chique]]
+|-
+|[[São João da Lagoa]]
+|-
+|[[São João da Ponte]]
+|-
+|[[São João do Pacuí]]
+|-
+|[[Ubaí]]
+|-
+|[[Varzelândia]]
+|-
+|[[Verdelândia]]
+|-
+|rowspan=10|Pirapora
+|[[Buritizeiro]]
+|-
+|[[Ibiaí]]
+|-
+|[[Jequitaí]]
+|-
+|[[Lagoa dos Patos, Minas Gerais|Lagoa dos Patos]]
+|-
+|[[Lassance]]
+|-
+|[[Pirapora]]
+|-
+|[[Riachinho]]
+|-
+|[[Santa Fé de Minas]]
+|-
+|[[São Romão]]
+|-
+|[[Várzea da Palma]]
+|-
+|rowspan=17|Salinas
+|[[Águas Vermelhas]]
+|-
+|[[Berizal]]
+|-
+|[[Curral de Dentro]]
+|-
+|[[Divisa Alegre]]
+|-
+|[[Fruta de Leite]]
+|-
+|[[Indaiabira]]
+|-
+|[[Montezuma, Minas Gerais|Montezuma]]
+|-
+|[[Ninheira]]
+|-
+|[[Novorizonte]]
+|-
+|[[Rio Pardo de Minas]]
+|-
+|[[Rubelita]]
+|-
+|[[Salinas, Minas Gerais|Salinas]]
+|-
+|[[Santa Cruz de Salinas]]
+|-
+|[[Santo Antônio do Retiro]]
+|-
+|[[São João do Paraíso]]
+|-
+|[[Taiobeiras]]
+|-
+|[[Vargem Grande do Rio Pardo]]
+|-
+|rowspan=44|Oeste de Minas
+|rowspan=7|Campo Belo
+|[[Aguanil]]
+|-
+|[[Campo Belo]]
+|-
+|[[Cana Verde]]
+|-
+|[[Candeias]]
+|-
+|[[Cristais]]
+|-
+|[[Perdões, Minas Gerais|Perdões]]
+|-
+|[[Santana do Jacaré]]
+|-
+|rowspan=11|Divinópolis
+|[[Carmo do Cajuru]]
+|-
+|[[Cláudio, Minas Gerais|Cláudio]]
+|-
+|[[Conceição do Pará]]
+|-
+|[[Divinópolis]]
+|-
+|[[Igaratinga]]
+|-
+|[[Itaúna]]
+|-
+|[[Nova Serrana]]
+|-
+|[[Perdigão, Minas Gerais|Perdigão]]
+|-
+|[[Santo Antônio do Monte]]
+|-
+|[[São Gonçalo do Pará]]
+|-
+|[[São Sebastião do Oeste]]
+|-
+|rowspan=8|Formiga
+|[[Arcos, Minas Gerais|Arcos]]
+|-
+|[[Camacho, Minas Gerais|Camacho]]
+|-
+|[[Córrego Fundo]]
+|-
+|[[Formiga]]
+|-
+|[[Itapecerica]]
+|-
+|[[Pains, Minas Gerais|Pains]]
+|-
+|[[Pedra do Indaiá]]
+|-
+|[[Pimenta, Minas Gerais|Pimenta]]
+|-
+|rowspan=9|Oliveira
+|[[Bom Sucesso, Minas Gerais|Bom Sucesso]]
+|-
+|[[Carmo da Mata]]
+|-
+|[[Carmópolis de Minas]]
+|-
+|[[Ibituruna]]
+|-
+|[[Oliveira, Minas Gerais|Oliveira]]
+|-
+|[[Passa Tempo]]
+|-
+|[[Piracema]]
+|-
+|[[Santo Antônio do Amparo]]
+|-
+|[[São Francisco de Paula, Minas Gerais|São Francisco de Paula]]
+|-
+|rowspan=9|Piui
+|[[Bambuí]]
+|-
+|[[Córrego Danta]]
+|-
+|[[Doresópolis]]
+|-
+|[[Iguatama]]
+|-
+|[[Medeiros, Minas Gerais|Medeiros]]
+|-
+|[[Piumhi]]
+|-
+|[[São Roque de Minas]]
+|-
+|[[Tapiraí, Minas Gerais|Tapiraí]]
+|-
+|[[Vargem Bonita]]
+|-
+|rowspan=146|Sul/​Sudoeste de Minas
+|rowspan=12|Alfenas
+|[[Alfenas]]
+|-
+|[[Alterosa]]
+|-
+|[[Areado]]
+|-
+|[[Carmo do Rio Claro]]
+|-
+|[[Carvalhópolis]]
+|-
+|[[Conceição da Aparecida]]
+|-
+|[[Divisa Nova]]
+|-
+|[[Fama, Minas Gerais|Fama]]
+|-
+|[[Machado, Minas Gerais|Machado]]
+|-
+|[[Paraguaçu]]
+|-
+|[[Poço Fundo]]
+|-
+|[[Serrania]]
+|-
+|rowspan=13|Andrelândia
+|[[Aiuruoca]]
+|-
+|[[Andrelândia]]
+|-
+|[[Arantina]]
+|-
+|[[Bocaina de Minas]]
+|-
+|[[Bom Jardim de Minas]]
+|-
+|[[Carvalhos, Minas Gerais|Carvalhos]]
+|-
+|[[Cruzília]]
+|-
+|[[Liberdade, Minas Gerais|Liberdade]]
+|-
+|[[Minduri]]
+|-
+|[[Passa-Vinte]]
+|-
+|[[São Vicente de Minas]]
+|-
+|[[Seritinga]]
+|-
+|[[Serranos]]
+|-
+|rowspan=13|Itajubá
+|[[Brasópolis]]
+|-
+|[[Consolação (Minas Gerais)|Consolação]]
+|-
+|[[Cristina, Minas Gerais|Cristina]]
+|-
+|[[Delfim Moreira, Minas Gerais|Delfim Moreira]]
+|-
+|[[Dom Viçoso]]
+|-
+|[[Itajubá]]
+|-
+|[[Maria da Fé]]
+|-
+|[[Marmelópolis]]
+|-
+|[[Paraisópolis]]
+|-
+|[[Piranguçu]]
+|-
+|[[Piranguinho]]
+|-
+|[[Virgínia]]
+|-
+|[[Wenceslau Braz, Minas Gerais|Wenceslau Braz]]
+|-
+|rowspan=14|Passos
+|[[Alpinópolis]]
+|-
+|[[Bom Jesus da Penha]]
+|-
+|[[Capetinga]]
+|-
+|[[Capitólio]]
+|-
+|[[Cássia, Minas Gerais|Cássia]]
+|-
+|[[Claraval]]
+|-
+|[[Delfinópolis]]
+|-
+|[[Fortaleza de Minas]]
+|-
+|[[Ibiraci]]
+|-
+|[[Itaú de Minas]]
+|-
+|[[Passos, Minas Gerais|Passos]]
+|-
+|[[Pratápolis]]
+|-
+|[[São João Batista do Glória]]
+|-
+|[[São José da Barra]]
+|-
+|rowspan=13|Poços de Caldas
+|[[Albertina, Minas Gerais|Albertina]]
+|-
+|[[Andradas]]
+|-
+|[[Bandeira do Sul]]
+|-
+|[[Botelhos]]
+|-
+|[[Caldas, Minas Gerais|Caldas]]
+|-
+|[[Campestre]]
+|-
+|[[Ibitiúra de Minas]]
+|-
+|[[Inconfidentes]]
+|-
+|[[Jacutinga, Minas Gerais|Jacutinga]]
+|-
+|[[Monte Sião]]
+|-
+|[[Ouro Fino]]
+|-
+|[[Poços de Caldas]]
+|-
+|[[Santa Rita de Caldas]]
+|-
+|rowspan=20|Pouso Alegre
+|[[Bom Repouso]]
+|-
+|[[Borda da Mata]]
+|-
+|[[Bueno Brandão]]
+|-
+|[[Camanducaia]]
+|-
+|[[Cambuí]]
+|-
+|[[Congonhal]]
+|-
+|[[Córrego do Bom Jesus]]
+|-
+|[[Espírito Santo do Dourado]]
+|-
+|[[Estiva]]
+|-
+|[[Extrema, Minas Gerais|Extrema]]
+|-
+|[[Gonçalves, Minas Gerais|Gonçalves]]
+|-
+|[[Ipuiúna]]
+|-
+|[[Itapeva, Minas Gerais|Itapeva]]
+|-
+|[[Munhoz]]
+|-
+|[[Pouso Alegre]]
+|-
+|[[Sapucaí-Mirim]]
+|-
+|[[Senador Amaral]]
+|-
+|[[Senador José Bento]]
+|-
+|[[Tocos do Moji]]
+|-
+|[[Toledo, Minas Gerais|Toledo]]
+|-
+|rowspan=15|Santa Rita do Sapucaí
+|[[Cachoeira de Minas]]
+|-
+|[[Careaçu]]
+|-
+|[[Conceição das Pedras]]
+|-
+|[[Conceição dos Ouros]]
+|-
+|[[Cordislândia]]
+|-
+|[[Heliodora]]
+|-
+|[[Natércia]]
+|-
+|[[Pedralva (Minas Gerais)|Pedralva]]
+|-
+|[[Santa Rita do Sapucaí]]
+|-
+|[[São Gonçalo do Sapucaí]]
+|-
+|[[São João da Mata]]
+|-
+|[[São José do Alegre]]
+|-
+|[[São Sebastião da Bela Vista]]
+|-
+|[[Silvianópolis]]
+|-
+|[[Turvolândia]]
+|-
+|rowspan=16|São Lourenco
+|[[Alagoa, Minas Gerais|Alagoa]]
+|-
+|[[Baependi]]
+|-
+|[[Cambuquira]]
+|-
+|[[Carmo de Minas]]
+|-
+|[[Caxambu]]
+|-
+|[[Conceição do Rio Verde]]
+|-
+|[[Itamonte]]
+|-
+|[[Itanhandu]]
+|-
+|[[Jesuânia]]
+|-
+|[[Lambari, Minas Gerais|Lambari]]
+|-
+|[[Olímpio Noronha]]
+|-
+|[[Passa Quatro]]
+|-
+|[[Pouso Alto]]
+|-
+|[[São Lourenço, Minas Gerais|São Lourenço]]
+|-
+|[[São Sebastião do Rio Verde]]
+|-
+|[[Soledade de Minas]]
+|-
+|rowspan=14|São Sebastiao do Paraíso
+|[[Arceburgo]]
+|-
+|[[Cabo Verde, Minas Gerais|Cabo Verde]]
+|-
+|[[Guaranesia]]
+|-
+|[[Guaxupé]]
+|-
+|[[Itamogi]]
+|-
+|[[Jacuí]]
+|-
+|[[Juruaia]]
+|-
+|[[Monte Belo]]
+|-
+|[[Monte Santo de Minas]]
+|-
+|[[Muzambinho]]
+|-
+|[[Nova Resende]]
+|-
+|[[São Pedro da União]]
+|-
+|[[São Sebastião do Paraíso]]
+|-
+|[[São Tomás de Aquino]]
+|-
+|rowspan=16|Varginha
+|[[Boa Esperança, Minas Gerais|Boa Esperança]]
+|-
+|[[Campanha]]
+|-
+|[[Campo do Meio]]
+|-
+|[[Campos Gerais]]
+|-
+|[[Carmo da Cachoeira]]
+|-
+|[[Coqueiral]]
+|-
+|[[Elói Mendes]]
+|-
+|[[Guapé]]
+|-
+|[[Ilicínea]]
+|-
+|[[Monsenhor Paulo]]
+|-
+|[[Santana da Vargem]]
+|-
+|[[São Bento Abade]]
+|-
+|[[São Thomé das Letras]]
+|-
+|[[Três Corações]]
+|-
+|[[Três Pontas]]
+|-
+|[[Varginha]]
+|-
+|rowspan=67|Triângulo Mineiro/​Alto Paranáiba
+|rowspan=10|Araxá
+|[[Araxá]]
+|-
+|[[Campos Altos]]
+|-
+|[[Ibiá]]
+|-
+|[[Nova Ponte]]
+|-
+|[[Pedrinópolis]]
+|-
+|[[Perdizes, Minas Gerais|Perdizes]]
+|-
+|[[Pratinha]]
+|-
+|[[Sacramento, Minas Gerais|Sacramento]]
+|-
+|[[Santa Juliana]]
+|-
+|[[Tapira]]
+|-
+|rowspan=12|Frutal
+|[[Campina Verde]]
+|-
+|[[Carneirinho]]
+|-
+|[[Comendador Gomes]]
+|-
+|[[Fronteira, Minas Gerais|Fronteira]]
+|-
+|[[Frutal]]
+|-
+|[[Itapagipe]]
+|-
+|[[Iturama]]
+|-
+|[[Limeira do Oeste]]
+|-
+|[[Pirajuba]]
+|-
+|[[Planura]]
+|-
+|[[São Francisco de Sales]]
+|-
+|[[União de Minas]]
+|-
+|rowspan=6|Ituiutaba
+|[[Cachoeira Dourada]]
+|-
+|[[Capinópolis]]
+|-
+|[[Gurinhatã]]
+|-
+|[[Ipiaçu]]
+|-
+|[[Ituiutaba]]
+|-
+|[[Santa Vitória, Minas Gerais|Santa Vitória]]
+|-
+|rowspan=11|Patos de Minas
+|[[Arapuá]]
+|-
+|[[Carmo do Paranaíba]]
+|-
+|[[Guimarânia]]
+|-
+|[[Lagoa Formosa]]
+|-
+|[[Matutina]]
+|-
+|[[Patos de Minas]]
+|-
+|[[Rio Paranaíba]]
+|-
+|[[Santa Rosa da Serra]]
+|-
+|[[Major Porto]]
+|-
+|[[São Gotardo]]
+|-
+|[[Tiros]]
+|-
+|rowspan=11|Patrocínio
+|[[Abadia dos Dourados]]
+|-
+|[[Coromandel, Minas Gerais|Coromandel]]
+|-
+|[[Cruzeiro da Fortaleza]]
+|-
+|[[Douradoquara]]
+|-
+|[[Estrela do Sul]]
+|-
+|[[Grupiara]]
+|-
+|[[Iraí de Minas]]
+|-
+|[[Monte Carmelo]]
+|-
+|[[Patrocínio]]
+|-
+|[[Romaria]]
+|-
+|[[Serra do Salitre]]
+|-
+|rowspan=7|Uberaba
+|[[Água Comprida]]
+|-
+|[[Campo Florido]]
+|-
+|[[Conceição das Alagoas]]
+|-
+|[[Conquista, Minas Gerais|Conquista]]
+|-
+|[[Delta, Minas Gerais|Delta]]
+|-
+|[[Uberaba]]
+|-
+|[[Veríssimo]]
+|-
+|rowspan=10|Uberlândia
+|[[Araguari]]
+|-
+|[[Araporã]]
+|-
+|[[Canápolis]]
+|-
+|[[Cascalho Rico]]
+|-
+|[[Centralina, Minas Gerais|Centralina]]
+|-
+|[[Indianópolis]]
+|-
+|[[Monte Alegre de Minas]]
+|-
+|[[Prata (Minas Gerais)|Prata]]
+|-
+|[[Tupaciguara]]
+|-
+|[[Uberlândia]]
+|-
+|rowspan=23|Vale do Mucuri
+|rowspan=10|Nanuque
+|[[Águas Formosas]]
+|-
+|[[Bertópolis]]
+|-
+|[[Carlos Chagas, Minas Gerais|Carlos Chagas]]
+|-
+|[[Crisólita]]
+|-
+|[[Fronteira dos Vales]]
+|-
+|[[Machacalis]]
+|-
+|[[Nanuque]]
+|-
+|[[Santa Helena de Minas]]
+|-
+|[[Serra dos Aimorés]]
+|-
+|[[Umburatiba]]
+|-
+|rowspan=13|Teófilo Otoni
+|[[Ataléia]]
+|-
+|[[Catuji]]
+|-
+|[[Franciscópolis]]
+|-
+|[[Frei Gaspar]]
+|-
+|[[Itaipé]]
+|-
+|[[Ladainha, Minas Gerais|Ladainha]]
+|-
+|[[Malacacheta]]
+|-
+|[[Novo Oriente de Minas]]
+|-
+|[[Ouro Verde de Minas]]
+|-
+|[[Pavão, Minas Gerais|Pavão]]
+|-
+|[[Poté]]
+|-
+|[[Setubinha]]
+|-
+|[[Teófilo Otoni]]
+|-
+|rowspan=102|Vale do Rio Doce
+|rowspan=13|Aimorés
+|[[Aimorés]]
+|-
+|[[Alvarenga, Minas Gerais|Alvarenga]]
+|-
+|[[Conceição de Ipanema]]
+|-
+|[[Conselheiro Pena]]
+|-
+|[[Cuparaque]]
+|-
+|[[Goiabeira]]
+|-
+|[[Ipanema, Minas Gerais|Ipanema]]
+|-
+|[[Itueta]]
+|-
+|[[Mutum, Minas Gerais|Mutum]]
+|-
+|[[Pocrane]]
+|-
+|[[Resplendor]]
+|-
+|[[Santa Rita do Itueto]]
+|-
+|[[Taparuba]]
+|-
+|rowspan=20|Caratinga
+|[[Bom Jesus do Galho]]
+|-
+|[[Bugre]]
+|-
+|[[Caratinga]]
+|-
+|[[Córrego Novo]]
+|-
+|[[Dom Cavati]]
+|-
+|[[Entre Folhas]]
+|-
+|[[Iapu]]
+|-
+|[[Imbé de Minas]]
+|-
+|[[Inhapim]]
+|-
+|[[Ipaba]]
+|-
+|[[Piedade de Caratinga]]
+|-
+|[[Pingo-d'Água]]
+|-
+|[[Santa Bárbara do Leste]]
+|-
+|[[Santa Rita de Minas]]
+|-
+|[[São Domingos das Dores]]
+|-
+|[[São João do Oriente]]
+|-
+|[[São Sebastião do Anta]]
+|-
+|[[Tarumirim]]
+|-
+|[[Ubaporanga]]
+|-
+|[[Vargem Alegre]]
+|-
+|rowspan=25|Governador Valadares
+|[[Alpercata]]
+|-
+|[[Campanário, Minas Gerais|Campanário]]
+|-
+|[[Capitão Andrade]]
+|-
+|[[Coroaci]]
+|-
+|[[Divino das Laranjeiras]]
+|-
+|[[Engenheiro Caldas]]
+|-
+|[[Fernandes Tourinho]]
+|-
+|[[Frei Inocêncio]]
+|-
+|[[Galiléia]]
+|-
+|[[Governador Valadares]]
+|-
+|[[Itambacuri]]
+|-
+|[[Itanhomi]]
+|-
+|[[Jampruca]]
+|-
+|[[Marilac]]
+|-
+|[[Mathias Lobato]]
+|-
+|[[Nacip Raydan]]
+|-
+|[[Nova Módica]]
+|-
+|[[Pescador]]
+|-
+|[[São Geraldo da Piedade]]
+|-
+|[[São Geraldo do Baixio]]
+|-
+|[[São José da Safira]]
+|-
+|[[São José do Divino, Minas Gerais|São José do Divino]]
+|-
+|[[Sobrália]]
+|-
+|[[Tumiritinga]]
+|-
+|[[Virgolândia]]
+|-
+|rowspan=15|Guanhães
+|[[Braúnas]]
+|-
+|[[Carmésia]]
+|-
+|[[Coluna, Minas Gerais|Coluna]]
+|-
+|[[Divinolândia de Minas]]
+|-
+|[[Dores de Guanhães]]
+|-
+|[[Gonzaga, Minas Gerais|Gonzaga]]
+|-
+|[[Guanhães]]
+|-
+|[[Materlândia]]
+|-
+|[[Paulistas, Minas Gerais|Paulistas]]
+|-
+|[[Sabinópolis]]
+|-
+|[[Santa Efigênia de Minas]]
+|-
+|[[São João Evangelista]]
+|-
+|[[Sardoá]]
+|-
+|[[Senhora do Porto]]
+|-
+|[[Virginópolis]]
+|-
+|rowspan=13|Ipatinga
+|[[Açucena]]
+|-
+|[[Antônio Dias]]
+|-
+|[[Belo Oriente]]
+|-
+|[[Coronel Fabriciano]]
+|-
+|[[Ipatinga]]
+|-
+|[[Jaguaraçu]]
+|-
+|[[Joanésia]]
+|-
+|[[Marliéria]]
+|-
+|[[Mesquita]]
+|-
+|[[Naque]]
+|-
+|[[Periquito]]
+|-
+|[[Santana do Paraíso]]
+|-
+|[[Timóteo]]
+|-
+|rowspan=7|Mantena
+|[[Central de Minas]]
+|-
+|[[Itabirinha]]
+|-
+|[[Mantena]]
+|-
+|[[Mendes Pimentel]]
+|-
+|[[Nova Belém]]
+|-
+|[[São Félix de Minas]]
+|-
+|[[São João do Manteninha]]
+|-
+|rowspan=9|Peçanha
+|[[Água Boa, Minas Gerais|Água Boa]]
+|-
+|[[Cantagalo, Minas Gerais|Cantagalo]]
+|-
+|[[Frei Lagonegro]]
+|-
+|[[José Raydan]]
+|-
+|[[Peçanha]]
+|-
+|[[Santa Maria do Suaçuí]]
+|-
+|[[São José do Jacuri]]
+|-
+|[[São Pedro do Suaçuí]]
+|-
+|[[São Sebastião do Maranhão]]
+|-
+|rowspan=142|Zona da Mata
+|rowspan=14|Cataguases
+|[[Além Paraíba]]
+|-
+|[[Argirita]]
+|-
+|[[Cataguases]]
+|-
+|[[Dona Eusébia]]
+|-
+|[[Estrela Dalva]]
+|-
+|[[Itamarati de Minas]]
+|-
+|[[Laranjal, Minas Gerais|Laranjal]]
+|-
+|[[Leopoldina, Minas Gerais|Leopoldina]]
+|-
+|[[Palma, Minas Gerais|Palma]]
+|-
+|[[Pirapetinga]]
+|-
+|[[Recreio]]
+|-
+|[[Santana de Cataguases]]
+|-
+|[[Santo Antônio do Aventureiro]]
+|-
+|[[Volta Grande]]
+|-
+|rowspan=33|Juiz de Fora
+|[[Aracitaba]]
+|-
+|[[Belmiro Braga]]
+|-
+|[[Bias Fortes]]
+|-
+|[[Bicas]]
+|-
+|[[Chácara]]
+|-
+|[[Chiador]]
+|-
+|[[Coronel Pacheco]]
+|-
+|[[Descoberto]]
+|-
+|[[Ewbank da Câmara]]
+|-
+|[[Goianá]]
+|-
+|[[Guarará]]
+|-
+|[[Juiz de Fora]]
+|-
+|[[Lima Duarte, Minas Gerais|Lima Duarte]]
+|-
+|[[Mar de Espanha]]
+|-
+|[[Maripá de Minas]]
+|-
+|[[Matias Barbosa]]
+|-
+|[[Olaria]]
+|-
+|[[Oliveira Fortes]]
+|-
+|[[Paiva, Minas Gerais|Paiva]]
+|-
+|[[Pedro Teixeira, Minas Gerais|Pedro Teixeira]]
+|-
+|[[Pequeri]]
+|-
+|[[Piau]]
+|-
+|[[Rio Novo, Minas Gerais|Rio Novo]]
+|-
+|[[Rio Preto, Minas Gerais|Rio Preto]]
+|-
+|[[Rochedo de Minas]]
+|-
+|[[Santa Bárbara do Monte Verde]]
+|-
+|[[Santa Rita de Ibitipoca]]
+|-
+|[[Santa Rita de Jacutinga]]
+|-
+|[[Santana do Deserto]]
+|-
+|[[Santos Dumont, Minas Gerais|Santos Dumont]]
+|-
+|[[São João Nepomuceno]]
+|-
+|[[Senador Cortes]]
+|-
+|[[Simão Pereira]]
+|-
+|rowspan=20|Manhuaçu
+|[[Abre Campo]]
+|-
+|[[Alto Caparaó]]
+|-
+|[[Alto Jequitibá]]
+|-
+|[[Caparaó]]
+|-
+|[[Caputira]]
+|-
+|[[Chalé]]
+|-
+|[[Durandé]]
+|-
+|[[Lajinha]]
+|-
+|[[Luisburgo]]
+|-
+|[[Manhuaçu]]
+|-
+|[[Manhumirim]]
+|-
+|[[Martins Soares]]
+|-
+|[[Matipó]]
+|-
+|[[Pedra Bonita]]
+|-
+|[[Reduto]]
+|-
+|[[Santa Margarida, Minas Gerais|Santa Margarida]]
+|-
+|[[Santana do Manhuaçu]]
+|-
+|[[São João do Manhuaçu]]
+|-
+|[[São José do Mantimento]]
+|-
+|[[Simonésia]]
+|-
+|rowspan=20|Muriaé
+|[[Antônio Prado de Minas]]
+|-
+|[[Barão de Monte Alto]]
+|-
+|[[Caiana]]
+|-
+|[[Carangola]]
+|-
+|[[Divino, Minas Gerais|Divino]]
+|-
+|[[Espera Feliz]]
+|-
+|[[Eugenópolis]]
+|-
+|[[Faria Lemos]]
+|-
+|[[Fervedouro]]
+|-
+|[[Miradouro]]
+|-
+|[[Miraí]]
+|-
+|[[Muriaé]]
+|-
+|[[Orizânia]]
+|-
+|[[Patrocínio do Muriaé]]
+|-
+|[[Pedra Dourada]]
+|-
+|[[Rosário da Limeira]]
+|-
+|[[São Francisco do Glória]]
+|-
+|[[São Sebastião da Vargem Alegre]]
+|-
+|[[Tombos]]
+|-
+|[[Vieiras]]
+|-
+|rowspan=18|Ponte Nova
+|[[Acaiaca]]
+|-
+|[[Barra Longa]]
+|-
+|[[Dom Silvério]]
+|-
+|[[Guaraciaba, Minas Gerais|Guaraciaba]]
+|-
+|[[Jequeri]]
+|-
+|[[Oratórios]]
+|-
+|[[Piedade de Ponte Nova]]
+|-
+|[[Ponte Nova]]
+|-
+|[[Raul Soares]]
+|-
+|[[Rio Casca]]
+|-
+|[[Rio Doce, Minas Gerais|Rio Doce]]
+|-
+|[[Santa Cruz do Escalvado]]
+|-
+|[[Santo Antônio do Grama]]
+|-
+|[[São Pedro dos Ferros]]
+|-
+|[[Sem-Peixe]]
+|-
+|[[Sericita]]
+|-
+|[[Urucânia]]
+|-
+|[[Vermelho Novo]]
+|-
+|rowspan=17|Ubá
+|[[Astolfo Dutra]]
+|-
+|[[Divinésia]]
+|-
+|[[Dores do Turvo]]
+|-
+|[[Guarani, Minas Gerais|Guarani]]
+|-
+|[[Guidoval]]
+|-
+|[[Guiricema]]
+|-
+|[[Mercês (Minas Gerais)|Mercês]]
+|-
+|[[Piraúba]]
+|-
+|[[Rio Pomba]]
+|-
+|[[Rodeiro, Minas Gerais|Rodeiro]]
+|-
+|[[São Geraldo]]
+|-
+|[[Senador Firmino]]
+|-
+|[[Silveirânia]]
+|-
+|[[Tabuleiro]]
+|-
+|[[Tocantins, Minas Gerais|Tocantins]]
+|-
+|[[Ubá]]
+|-
+|[[Visconde do Rio Branco]]
+|-
+|rowspan=20|Viçosa
+|[[Alto Rio Doce]]
+|-
+|[[Amparo do Serra]]
+|-
+|[[Araponga]]
+|-
+|[[Brás Pires]]
+|-
+|[[Cajuri]]
+|-
+|[[Canaã]]
+|-
+|[[Cipotânea]]
+|-
+|[[Coimbra, Minas Gerais|Coimbra]]
+|-
+|[[Ervália]]
+|-
+|[[Lamim]]
+|-
+|[[Paula Cândido]]
+|-
+|[[Pedra do Anta]]
+|-
+|[[Piranga, Minas Gerais|Piranga]]
+|-
+|[[Porto Firme]]
+|-
+|[[Presidente Bernardes, Minas Gerais|Presidente Bernardes]]
+|-
+|[[Rio Espera]]
+|-
+|[[São Miguel do Anta]]
+|-
+|[[Senhora de Oliveira]]
+|-
+|[[Teixeiras]]
+|-
+|[[Viçosa, Minas Gerais|Viçosa]]
+|}
+
+===[[Rio de Janeiro (state)|Rio de Janeiro (RJ)]]===
+{|class="wikitable"
+!Mesoregion
+!Microregion
+!Municipality
+|-
+|rowspan=10|Baixadas
+|rowspan=3|Bacia de Sao Joao
+|[[Casimiro de Abreu, Rio de Janeiro|Casimiro de Abreu]]
+|-
+|[[Rio das Ostras]]
+|-
+|[[Silva Jardim]]
+|-
+|rowspan=7|Lagos
+|[[Araruama]]
+|-
+|[[Armação dos Búzios]]
+|-
+|[[Arraial do Cabo]]
+|-
+|[[Cabo Frio]]
+|-
+|[[Iguaba Grande]]
+|-
+|[[São Pedro da Aldeia]]
+|-
+|[[Saquarema]]
+|-
+|rowspan=16|Centro Fluminense
+|rowspan=4|Cantagalo-Cordeiro
+|[[Cantagalo, Rio de Janeiro|Cantagalo]]
+|-
+|[[Carmo, Brazil|Carmo]]
+|-
+|[[Cordeiro, Rio de Janeiro|Cordeiro]]
+|-
+|[[Macuco, Rio de Janeiro|Macuco]]
+|-
+|rowspan=4|Nova Friburgo
+|[[Bom Jardim]]
+|-
+|[[Duas Barras]]
+|-
+|[[Nova Friburgo]]
+|-
+|[[Sumidouro]]
+|-
+|rowspan=3|Santa Maria Madalena
+|[[Santa Maria Madalena, Rio de Janeiro|Santa Maria Madalena]]
+|-
+|[[São Sebastião do Alto]]
+|-
+|[[Trajano de Moraes]]
+|-
+|rowspan=5|Tres Rios
+|[[Areal, Rio de Janeiro|Areal]]
+|-
+|[[Comendador Levy Gasparian]]
+|-
+|[[Paraíba do Sul, Rio de Janeiro|Paraíba do Sul]]
+|-
+|[[Sapucaia]]
+|-
+|[[Três Rios]]
+|-
+|rowspan=30|Metropolitana do Rio de Janeiro
+|rowspan=3|Itaguai
+|[[Itaguaí]]
+|-
+|[[Mangaratiba]]
+|-
+|[[Seropédica]]
+|-
+|rowspan=2|Macacu-Caceribu
+|[[Cachoeiras de Macacu]]
+|-
+|[[Rio Bonito, Rio de Janeiro|Rio Bonito]]
+|-
+|rowspan=16|Rio de Janeiro
+|[[Belford Roxo]]
+|-
+|[[Duque de Caxias]]
+|-
+|[[Guapimirim]]
+|-
+|[[Itaboraí]]
+|-
+|[[Japeri]]
+|-
+|[[Magé]]
+|-
+|[[Maricá, Rio de Janeiro|Maricá]]
+|-
+|[[Nilópolis]]
+|-
+|[[Niterói]]
+|-
+|[[Mesquita]]
+|-
+|[[Nova Iguaçu]]
+|-
+|[[Queimados]]
+|-
+|[[Rio de Janeiro]] (State Capital)
+|-
+|[[São Gonçalo, Rio de Janeiro|São Gonçalo]]
+|-
+|[[São João de Meriti]]
+|-
+|[[Tanguá]]
+|-
+|rowspan=3|Serrana
+|[[Petrópolis]]
+|-
+|[[São José do Vale do Rio Preto]]
+|-
+|[[Teresópolis]]
+|-
+|rowspan=6|Vassouras
+|[[Engenheiro Paulo de Frontin]]
+|-
+|[[Mendes, Rio de Janeiro|Mendes]]
+|-
+|[[Miguel Pereira]]
+|-
+|[[Paracambi]]
+|-
+|[[Paty do Alferes]]
+|-
+|[[Vassouras]]
+|-
+|rowspan=13|Noroeste Fluminense
+|rowspan=7|Itaperuna
+|[[Bom Jesus do Itabapoana]]
+|-
+|[[Italva]]
+|-
+|[[Itaperuna]]
+|-
+|[[Laje do Muriaé]]
+|-
+|[[Natividade, Rio de Janeiro|Natividade]]
+|-
+|[[Porciúncula]]
+|-
+|[[Varre-Sai]]
+|-
+|rowspan=6|Santo Antonio de Padua
+|[[Aperibé]]
+|-
+|[[Cambuci]]
+|-
+|[[Itaocara]]
+|-
+|[[Miracema]]
+|-
+|[[Santo Antônio de Pádua]]
+|-
+|[[São José de Ubá]]
+|-
+|rowspan=9|Norte Fluminense
+|rowspan=5|Campos dos Goytacazes
+|[[Campos dos Goytacazes]]
+|-
+|[[Cardoso Moreira]]
+|-
+|[[São Fidélis]]
+|-
+|[[São Francisco de Itabapoana]]
+|-
+|[[São João da Barra]]
+|-
+|rowspan=4|Macae
+|[[Carapebus]]
+|-
+|[[Conceição de Macabu]]
+|-
+|[[Macaé]]
+|-
+|[[Quissamã]]
+|-
+|rowspan=14|Sul Fluminense
+|rowspan=2|Baia da Ilha Grande
+|[[Angra dos Reis]]
+|-
+|[[Paraty]]
+|-
+|rowspan=3|Barra do Pirai
+|[[Barra do Piraí]]
+|-
+|[[Rio das Flores]]
+|-
+|[[Valença, Rio de Janeiro|Valença]]
+|-
+|rowspan=9|Vale do Paraiba Fluminense
+|[[Barra Mansa]]
+|-
+|[[Itatiaia]]
+|-
+|[[Pinheiral]]
+|-
+|[[Piraí]]
+|-
+|[[Porto Real]]
+|-
+|[[Quatis]]
+|-
+|[[Resende, Rio de Janeiro|Resende]]
+|-
+|[[Rio Claro, Rio de Janeiro|Rio Claro]]
+|-
+|[[Volta Redonda]]
+|}
+
+===[[São Paulo (state)|São Paulo (SP)]]===
+{|class="wikitable"
+!Mesoregion
+!Microregion
+!Municipality
+|-
+|rowspan=36|Aracatuba
+|rowspan=11|Andradina
+|[[Andradina]]
+|-
+|[[Castilho]]
+|-
+|[[Guaraçaí]]
+|-
+|[[Ilha Solteira]]
+|-
+|[[Itapura]]
+|-
+|[[Mirandópolis]]
+|-
+|[[Murutinga do Sul]]
+|-
+|[[Nova Independência]]
+|-
+|[[Pereira Barreto]]
+|-
+|[[Sud Mennucci, São Paulo|Sud Mennucci]]
+|-
+|[[Suzanápolis]]
+|-
+|rowspan=7|Aracatuba
+|[[Araçatuba]]
+|-
+|[[Bento de Abreu]]
+|-
+|[[Guararapes]]
+|-
+|[[Lavínia]]
+|-
+|[[Rubiácea]]
+|-
+|[[Santo Antônio do Aracanguá]]
+|-
+|[[Valparaíso, São Paulo|Valparaíso]]
+|-
+|rowspan=18|Birigui
+|[[Alto Alegre (SP)|Alto Alegre]]
+|-
+|[[Avanhandava]]
+|-
+|[[Barbosa, São Paulo|Barbosa]]
+|-
+|[[Bilac]]
+|-
+|[[Birigüi|Birigui]]
+|-
+|[[Braúna]]
+|-
+|[[Brejo Alegre]]
+|-
+|[[Buritama]]
+|-
+|[[Clementina, São Paulo|Clementina]]
+|-
+|[[Coroados]]
+|-
+|[[Gabriel Monteiro]]
+|-
+|[[Glicério]]
+|-
+|[[Lourdes, São Paulo|Lourdes]]
+|-
+|[[Luiziânia]]
+|-
+|[[Penápolis]]
+|-
+|[[Piacatu]]
+|-
+|[[Santópolis do Aguapeí]]
+|-
+|[[Turiúba]]
+|-
+|rowspan=21|Araraquara
+|rowspan=15|Araraquara
+|[[Américo Brasiliense]]
+|-
+|[[Araraquara]]
+|-
+|[[Boa Esperança do Sul]]
+|-
+|[[Borborema]]
+|-
+|[[Dobrada]]
+|-
+|[[Gavião Peixoto]]
+|-
+|[[Ibitinga]]
+|-
+|[[Itápolis]]
+|-
+|[[Matão]]
+|-
+|[[Motuca]]
+|-
+|[[Nova Europa]]
+|-
+|[[Rincão]]
+|-
+|[[Santa Lúcia, São Paulo|Santa Lúcia]]
+|-
+|[[Tabatinga, São Paulo|Tabatinga]]
+|-
+|[[Trabiju]]
+|-
+|rowspan=6|Sao Carlos
+|[[Analândia]]
+|-
+|[[Descalvado]]
+|-
+|[[Dourado, São Paulo|Dourado]]
+|-
+|[[Ibaté]]
+|-
+|[[Ribeirão Bonito]]
+|-
+|[[São Carlos]]
+|-
+|rowspan=35|Assis
+|rowspan=17|Assis
+|[[Assis]]
+|-
+|[[Borá]]
+|-
+|[[Campos Novos Paulista]]
+|-
+|[[Cândido Mota]]
+|-
+|[[Cruzália]]
+|-
+|[[Florínia]]
+|-
+|[[Ibirarema]]
+|-
+|[[Iepê]]
+|-
+|[[Lutécia]]
+|-
+|[[Maracaí]]
+|-
+|[[Nantes, São Paulo|Nantes]]
+|-
+|[[Palmital]]
+|-
+|[[Paraguaçu Paulista]]
+|-
+|[[Pedrinhas Paulista]]
+|-
+|[[Platina]]
+|-
+|[[Quatá]]
+|-
+|[[Tarumã]]
+|-
+|rowspan=18|Ourinhos
+|[[Bernardino de Campos]]
+|-
+|[[Canitar]]
+|-
+|[[Chavantes]]
+|-
+|[[Espírito Santo do Turvo]]
+|-
+|[[Fartura]]
+|-
+|[[Ipaussu]]
+|-
+|[[Manduri]]
+|-
+|[[Óleo]]
+|-
+|[[Ourinhos]]
+|-
+|[[Piraju]]
+|-
+|[[Ribeirão do Sul]]
+|-
+|[[Salto Grande, Brazil|Salto Grande]]
+|-
+|[[Santa Cruz do Rio Pardo]]
+|-
+|[[São Pedro do Turvo]]
+|-
+|[[Sarutaiá]]
+|-
+|[[Taguaí]]
+|-
+|[[Tejupá]]
+|-
+|[[Timburi]]
+|-
+|rowspan=56|Bauru
+|rowspan=8|Avare
+|[[Águas de Santa Bárbara]]
+|-
+|[[Arandu]]
+|-
+|[[Avaré, São Paulo|Avaré]]
+|-
+|[[Cerqueira César]]
+|-
+|[[Iaras]]
+|-
+|[[Itaí]]
+|-
+|[[Itatinga]]
+|-
+|[[Paranapanema]]
+|-
+|rowspan=21|Bauru
+|[[Agudos]]
+|-
+|[[Arealva]]
+|-
+|[[Areiópolis]]
+|-
+|[[Avaí]]
+|-
+|[[Balbinos]]
+|-
+|[[Bauru]]
+|-
+|[[Borebi]]
+|-
+|[[Cabrália Paulista]]
+|-
+|[[Duartina]]
+|-
+|[[Guarantã]]
+|-
+|[[Iacanga]]
+|-
+|[[Lençóis Paulista]]
+|-
+|[[Lucianópolis]]
+|-
+|[[Paulistânia]]
+|-
+|[[Pirajuí]]
+|-
+|[[Piratininga]]
+|-
+|[[Pongaí]]
+|-
+|[[Presidente Alves]]
+|-
+|[[Reginópolis]]
+|-
+|[[Ubirajara]]
+|-
+|[[Uru, São Paulo|Uru]]
+|-
+|rowspan=7|Botucatu
+|[[Anhembi]]
+|-
+|[[Bofete]]
+|-
+|[[Botucatu]]
+|-
+|[[Conchas]]
+|-
+|[[Pardinho]]
+|-
+|[[Pratânia]]
+|-
+|[[São Manuel]]
+|-
+|rowspan=12|Jau
+|[[Bariri]]
+|-
+|[[Barra Bonita, São Paulo|Barra Bonita]]
+|-
+|[[Bocaina]]
+|-
+|[[Boracéia]]
+|-
+|[[Dois Córregos]]
+|-
+|[[Igaraçu do Tietê]]
+|-
+|[[Itaju]]
+|-
+|[[Itapuí]]
+|-
+|[[Jaú]]
+|-
+|[[Macatuba]]
+|-
+|[[Mineiros do Tietê]]
+|-
+|[[Pederneiras]]
+|-
+|rowspan=8|Lins
+|[[Cafelândia]]
+|-
+|[[Getulina]]
+|-
+|[[Guaiçara]]
+|-
+|[[Guaimbê]]
+|-
+|[[Júlio Mesquita]]
+|-
+|[[Lins, São Paulo|Lins]]
+|-
+|[[Promissão]]
+|-
+|[[Sabino]]
+|-
+|rowspan=49|Campinas
+|rowspan=8|Amparo
+|[[Águas de Lindóia]]
+|-
+|[[Amparo, São Paulo|Amparo]]
+|-
+|[[Lindóia]]
+|-
+|[[Monte Alegre do Sul]]
+|-
+|[[Pedra Bela]]
+|-
+|[[Pinhalzinho]]
+|-
+|[[Serra Negra]]
+|-
+|[[Socorro, São Paulo|Socorro]]
+|-
+|rowspan=16|Campinas
+|[[Americana, São Paulo|Americana]]
+|-
+|[[Campinas]]
+|-
+|[[Cosmópolis]]
+|-
+|[[Elias Fausto]]
+|-
+|[[Holambra]]
+|-
+|[[Hortolândia]]
+|-
+|[[Indaiatuba]]
+|-
+|[[Jaguariúna]]
+|-
+|[[Monte Mor]]
+|-
+|[[Nova Odessa]]
+|-
+|[[Paulínia]]
+|-
+|[[Pedreira, São Paulo|Pedreira]]
+|-
+|[[Santa Bárbara d'Oeste]]
+|-
+|[[Sumaré]]
+|-
+|[[Valinhos]]
+|-
+|[[Vinhedo]]
+|-
+|rowspan=7|Moji Mirim
+|[[Artur Nogueira]]
+|-
+|[[Engenheiro Coelho]]
+|-
+|[[Estiva Gerbi]]
+|-
+|[[Itapira]]
+|-
+|[[Mogi Guaçu]]
+|-
+|[[Moji Mirim]]
+|-
+|[[Santo Antônio de Posse]]
+|-
+|rowspan=4|Pirassununga
+|[[Aguaí]]
+|-
+|[[Pirassununga]]
+|-
+|[[Porto Ferreira]]
+|-
+|[[Santa Cruz das Palmeiras]]
+|-
+|rowspan=14|Sao Joao da Boa Vista
+|[[Águas da Prata]]
+|-
+|[[Caconde]]
+|-
+|[[Casa Branca]]
+|-
+|[[Divinolândia]]
+|-
+|[[Espírito Santo do Pinhal]]
+|-
+|[[Itobi]]
+|-
+|[[Mococa]]
+|-
+|[[Santo Antônio do Jardim]]
+|-
+|[[São João da Boa Vista]]
+|-
+|[[São José do Rio Pardo]]
+|-
+|[[São Sebastião da Grama]]
+|-
+|[[Tambaú]]
+|-
+|[[Tapiratiba]]
+|-
+|[[Vargem Grande do Sul]]
+|-
+|rowspan=36|Itapetininga
+|rowspan=10|Capao Bonito
+|[[Apiaí]]
+|-
+|[[Barra do Chapéu]]
+|-
+|[[Capão Bonito]]
+|-
+|[[Guapiara]]
+|-
+|[[Iporanga]]
+|-
+|[[Itaóca]]
+|-
+|[[Itapirapuã Paulista]]
+|-
+|[[Ribeira, São Paulo|Ribeira]]
+|-
+|[[Ribeirão Branco]]
+|-
+|[[Ribeirão Grande]]
+|-
+|rowspan=5|Itapetininga
+|[[Alambari]]
+|-
+|[[Angatuba]]
+|-
+|[[Campina do Monte Alegre]]
+|-
+|[[Guareí]]
+|-
+|[[Itapetininga]]
+|-
+|rowspan=12|Itapeva
+|[[Barão de Antonina]]
+|-
+|[[Bom Sucesso de Itararé]]
+|-
+|[[Buri, São Paulo|Buri]]
+|-
+|[[Coronel Macedo]]
+|-
+|[[Itaberá]]
+|-
+|[[Itapeva, São Paulo|Itapeva]]
+|-
+|[[Itaporanga, São Paulo|Itaporanga]]
+|-
+|[[Itararé]]
+|-
+|[[Nova Campina]]
+|-
+|[[Riversul]]
+|-
+|[[Taquarituba]]
+|-
+|[[Taquarivaí]]
+|-
+|rowspan=9|Tatui
+|[[Boituva]]
+|-
+|[[Cerquilho]]
+|-
+|[[Cesário Lange]]
+|-
+|[[Laranjal Paulista]]
+|-
+|[[Pereiras]]
+|-
+|[[Porangaba]]
+|-
+|[[Quadra, São Paulo|Quadra]]
+|-
+|[[Tatuí]]
+|-
+|[[Torre de Pedra]]
+|-
+|rowspan=17|Litoral Sul Paulista
+|rowspan=5|Itanhaem
+|[[Itanhaém]]
+|-
+|[[Itariri]]
+|-
+|[[Mongaguá]]
+|-
+|[[Pedro de Toledo]]
+|-
+|[[Peruíbe]]
+|-
+|rowspan=12|Registro
+|[[Barra do Turvo]]
+|-
+|[[Cajati]]
+|-
+|[[Cananéia]]
+|-
+|[[Eldorado, São Paulo|Eldorado]]
+|-
+|[[Iguape]]
+|-
+|[[Ilha Comprida]]
+|-
+|[[Jacupiranga]]
+|-
+|[[Juquiá]]
+|-
+|[[Miracatu]]
+|-
+|[[Pariquera-Açu]]
+|-
+|[[Registro]]
+|-
+|[[Sete Barras]]
+|-
+|rowspan=36|Macro Metropolitana Paulista
+|rowspan=11|Bragança Paulista
+|[[Atibaia]]
+|-
+|[[Bom Jesus dos Perdões]]
+|-
+|[[Bragança Paulista]]
+|-
+|[[Itatiba]]
+|-
+|[[Jarinu]]
+|-
+|[[Joanópolis]]
+|-
+|[[Morungaba]]
+|-
+|[[Nazaré Paulista]]
+|-
+|[[Piracaia]]
+|-
+|[[Tuiuti]]
+|-
+|[[Vargem]]
+|-
+|rowspan=5|Jundiaí
+|[[Campo Limpo Paulista]]
+|-
+|[[Itupeva]]
+|-
+|[[Jundiaí]]
+|-
+|[[Louveira]]
+|-
+|[[Várzea Paulista]]
+|-
+|rowspan=5|Piedade
+|[[Ibiúna]]
+|-
+|[[Piedade, São Paulo|Piedade]]
+|-
+|[[Pilar do Sul]]
+|-
+|[[São Miguel Arcanjo, São Paulo|São Miguel Arcanjo]]
+|-
+|[[Tapiraí]]
+|-
+|rowspan=15|Sorocaba
+|[[Alumínio]]
+|-
+|[[Araçariguama]]
+|-
+|[[Araçoiaba da Serra]]
+|-
+|[[Cabreúva]]
+|-
+|[[Capela do Alto]]
+|-
+|[[Iperó]]
+|-
+|[[Itu]]
+|-
+|[[Mairinque]]
+|-
+|[[Porto Feliz]]
+|-
+|[[Salto, São Paulo|Salto]]
+|-
+|[[Salto de Pirapora]]
+|-
+|[[São Roque, São Paulo|São Roque]]
+|-
+|[[Sarapuí]]
+|-
+|[[Sorocaba]]
+|-
+|[[Votorantim]]
+|-
+|rowspan=20|Marilia
+|rowspan=13|Marilia
+|[[Álvaro de Carvalho]]
+|-
+|[[Alvinlândia]]
+|-
+|[[Echaporã]]
+|-
+|[[Fernão]]
+|-
+|[[Gália]]
+|-
+|[[Garça]]
+|-
+|[[Lupércio]]
+|-
+|[[Marília]]
+|-
+|[[Ocauçu]]
+|-
+|[[Oriente, São Paulo|Oriente]]
+|-
+|[[Oscar Bressane]]
+|-
+|[[Pompéia]]
+|-
+|[[Vera Cruz, São Paulo|Vera Cruz]]
+|-
+|rowspan=7|Tupa
+|[[Arco-Íris]]
+|-
+|[[Bastos]]
+|-
+|[[Herculândia]]
+|-
+|[[Iacri]]
+|-
+|[[Queiroz]]
+|-
+|[[Quintana Municipality|Quintana]]
+|-
+|[[Tupã, São Paulo|Tupã]]
+|-
+|rowspan=45|Metropolitana de São Paulo
+|rowspan=4|Franco da Rocha
+|[[Caieiras]]
+|-
+|[[Francisco Morato]]
+|-
+|[[Franco da Rocha]]
+|-
+|[[Mairiporã]]
+|-
+|rowspan=3|Guarulhos
+|[[Arujá]]
+|-
+|[[Guarulhos]]
+|-
+|[[Santa Isabel, São Paulo|Santa Isabel]]
+|-
+|rowspan=8|Itapecerica da Serra
+|[[Cotia]]
+|-
+|[[Embu]]
+|-
+|[[Embu-Guaçu]]
+|-
+|[[Itapecerica da Serra]]
+|-
+|[[Juquitiba]]
+|-
+|[[São Lourenço da Serra]]
+|-
+|[[Taboão da Serra]]
+|-
+|[[Vargem Grande Paulista]]
+|-
+|rowspan=8|Moji das Cruzes
+|[[Biritiba-Mirim]]
+|-
+|[[Ferraz de Vasconcelos]]
+|-
+|[[Guararema]]
+|-
+|[[Itaquaquecetuba]]
+|-
+|[[Mogi das Cruzes]]
+|-
+|[[Poá]]
+|-
+|[[Salesópolis]]
+|-
+|[[Suzano]]
+|-
+|rowspan=8|Osasco
+|[[Barueri]]
+|-
+|[[Cajamar]]
+|-
+|[[Carapicuíba]]
+|-
+|[[Itapevi]]
+|-
+|[[Jandira]]
+|-
+|[[Osasco]]
+|-
+|[[Pirapora do Bom Jesus]]
+|-
+|[[Santana de Parnaíba]]
+|-
+|rowspan=6|Santos
+|[[Bertioga]]
+|-
+|[[Cubatão]]
+|-
+|[[Guarujá]]
+|-
+|[[Praia Grande]]
+|-
+|[[Santos (São Paulo)|Santos]]
+|-
+|[[São Vicente, São Paulo|São Vicente]]
+|-
+|rowspan=8|São Paulo
+|[[Diadema, São Paulo|Diadema]]
+|-
+|[[Mauá]]
+|-
+|[[Ribeirão Pires]]
+|-
+|[[Rio Grande da Serra]]
+|-
+|[[Santo André, São Paulo|Santo André]]
+|-
+|[[São Bernardo do Campo]]
+|-
+|[[São Caetano do Sul]]
+|-
+|[[São Paulo]] (State Capital)
+|-
+|rowspan=26|Piracicaba
+|rowspan=8|Limeira
+|[[Araras]]
+|-
+|[[Conchal]]
+|-
+|[[Cordeirópolis]]
+|-
+|[[Iracemápolis]]
+|-
+|[[Leme]]
+|-
+|[[Limeira]]
+|-
+|[[Santa Cruz da Conceição]]
+|-
+|[[Santa Gertrudes]]
+|-
+|rowspan=12|Piracicaba
+|[[Águas de São Pedro]]
+|-
+|[[Capivari]]
+|-
+|[[Charqueada]]
+|-
+|[[Jumirim]]
+|-
+|[[Mombuca]]
+|-
+|[[Piracicaba]]
+|-
+|[[Rafard]]
+|-
+|[[Rio das Pedras]]
+|-
+|[[Saltinho, São Paulo|Saltinho]]
+|-
+|[[Santa Maria da Serra]]
+|-
+|[[São Pedro, São Paulo|São Pedro]]
+|-
+|[[Tietê, São Paulo|Tietê]]
+|-
+|rowspan=6|Rio Claro
+|[[Brotas]]
+|-
+|[[Corumbataí]]
+|-
+|[[Ipeúna]]
+|-
+|[[Itirapina]]
+|-
+|[[Rio Claro, São Paulo|Rio Claro]]
+|-
+|[[Torrinha]]
+|-
+|rowspan=54|Presidente Prudente
+|rowspan=14|Adamantina
+|[[Adamantina]]
+|-
+|[[Flora Rica]]
+|-
+|[[Flórida Paulista]]
+|-
+|[[Inúbia Paulista]]
+|-
+|[[Irapuru]]
+|-
+|[[Lucélia]]
+|-
+|[[Mariápolis]]
+|-
+|[[Osvaldo Cruz]]
+|-
+|[[Pacaembu]]
+|-
+|[[Parapuã]]
+|-
+|[[Pracinha]]
+|-
+|[[Rinópolis]]
+|-
+|[[Sagres, São Paulo|Sagres]]
+|-
+|[[Salmourão]]
+|-
+|rowspan=10|Dracena
+|[[Dracena]]
+|-
+|[[Junqueirópolis]]
+|-
+|[[Monte Castelo, São Paulo|Monte Castelo]]
+|-
+|[[Nova Guataporanga]]
+|-
+|[[Ouro Verde]]
+|-
+|[[Panorama, São Paulo|Panorama]]
+|-
+|[[Paulicéia]]
+|-
+|[[Santa Mercedes]]
+|-
+|[[São João do Pau d'Alho]]
+|-
+|[[Tupi Paulista]]
+|-
+|rowspan=30|Presidente Prudente
+|[[Alfredo Marcondes]]
+|-
+|[[Álvares Machado]]
+|-
+|[[Anhumas]]
+|-
+|[[Caiabu]]
+|-
+|[[Caiuá]]
+|-
+|[[Emilianópolis]]
+|-
+|[[Estrela do Norte, São Paulo|Estrela do Norte]]
+|-
+|[[Euclides da Cunha Paulista]]
+|-
+|[[Indiana, São Paulo|Indiana]]
+|-
+|[[João Ramalho]]
+|-
+|[[Marabá Paulista]]
+|-
+|[[Martinópolis]]
+|-
+|[[Mirante do Paranapanema]]
+|-
+|[[Narandiba]]
+|-
+|[[Piquerobi]]
+|-
+|[[Pirapozinho]]
+|-
+|[[Presidente Bernardes, São Paulo|Presidente Bernardes]]
+|-
+|[[Presidente Epitácio]]
+|-
+|[[Presidente Prudente]]
+|-
+|[[Presidente Venceslau]]
+|-
+|[[Rancharia]]
+|-
+|[[Regente Feijó]]
+|-
+|[[Ribeirão dos Índios]]
+|-
+|[[Rosana, São Paulo|Rosana]]
+|-
+|[[Sandovalina]]
+|-
+|[[Santo Anastácio]]
+|-
+|[[Santo Expedito]]
+|-
+|[[Taciba]]
+|-
+|[[Tarabai, São Paulo|Tarabai]]
+|-
+|[[Teodoro Sampaio, São Paulo|Teodoro Sampaio]]
+|-
+|rowspan=66|Riberao Preto
+|rowspan=3|Barretos
+|[[Barretos]]
+|-
+|[[Colina, Brazil|Colina]]
+|-
+|[[Colômbia]]
+|-
+|rowspan=6|Batatais
+|[[Altinópolis]]
+|-
+|[[Batatais]]
+|-
+|[[Cajuru]]
+|-
+|[[Cássia dos Coqueiros]]
+|-
+|[[Santa Cruz da Esperança]]
+|-
+|[[Santo Antônio da Alegria]]
+|-
+|rowspan=10|Franca
+|[[Cristais Paulista]]
+|-
+|[[Franca]]
+|-
+|[[Itirapuã]]
+|-
+|[[Jeriquara]]
+|-
+|[[Patrocínio Paulista]]
+|-
+|[[Pedregulho]]
+|-
+|[[Restinga, São Paulo|Restinga]]
+|-
+|[[Ribeirão Corrente]]
+|-
+|[[Rifaina]]
+|-
+|[[São José da Bela Vista]]
+|-
+|rowspan=5|Ituverava
+|[[Aramina]]
+|-
+|[[Buritizal]]
+|-
+|[[Guará]]
+|-
+|[[Igarapava]]
+|-
+|[[Ituverava]]
+|-
+|rowspan=17|Jaboticabal
+|[[Bebedouro]]
+|-
+|[[Cândido Rodrigues]]
+|-
+|[[Fernando Prestes]]
+|-
+|[[Guariba]]
+|-
+|[[Jaboticabal]]
+|-
+|[[Monte Alto, São Paulo|Monte Alto]]
+|-
+|[[Monte Azul Paulista]]
+|-
+|[[Pirangi]]
+|-
+|[[Pitangueiras, São Paulo|Pitangueiras]]
+|-
+|[[Santa Ernestina]]
+|-
+|[[Taiaçu]]
+|-
+|[[Taiúva]]
+|-
+|[[Taquaral]]
+|-
+|[[Taquaritinga]]
+|-
+|[[Terra Roxa]]
+|-
+|[[Viradouro]]
+|-
+|[[Vista Alegre do Alto]]
+|-
+|rowspan=16|Riberao Preto
+|[[Barrinha]]
+|-
+|[[Brodowski, São Paulo|Brodowski]]
+|-
+|[[Cravinhos]]
+|-
+|[[Dumont, São Paulo|Dumont]]
+|-
+|[[Guatapará]]
+|-
+|[[Jardinópolis]]
+|-
+|[[Luís Antônio]]
+|-
+|[[Pontal]]
+|-
+|[[Pradópolis]]
+|-
+|[[Ribeirão Preto]]
+|-
+|[[Santa Rita do Passa Quatro]]
+|-
+|[[Santa Rosa de Viterbo, São Paulo|Santa Rosa de Viterbo]]
+|-
+|[[São Simão, São Paulo|São Simão]]
+|-
+|[[Serra Azul]]
+|-
+|[[Serrana, São Paulo|Serrana]]
+|-
+|[[Sertãozinho]]
+|-
+|rowspan=9|Sao Joaquim da Barra
+|[[Guaíra, São Paulo|Guaíra]]
+|-
+|[[Ipuã]]
+|-
+|[[Jaborandi, São Paulo|Jaborandi]]
+|-
+|[[Miguelópolis]]
+|-
+|[[Morro Agudo]]
+|-
+|[[Nuporanga]]
+|-
+|[[Orlândia]]
+|-
+|[[Sales Oliveira]]
+|-
+|[[São Joaquim da Barra]]
+|-
+|rowspan=109|Sao Jose do Rio Preto
+|rowspan=9|Auriflama
+|[[Auriflama]]
+|-
+|[[Floreal]]
+|-
+|[[Gastão Vidigal]]
+|-
+|[[General Salgado]]
+|-
+|[[Guzolândia]]
+|-
+|[[Magda]]
+|-
+|[[Nova Castilho]]
+|-
+|[[Nova Luzitânia]]
+|-
+|[[São João de Iracema]]
+|-
+|rowspan=13|Catanduva
+|[[Ariranha]]
+|-
+|[[Cajobi]]
+|-
+|[[Catanduva]]
+|-
+|[[Catiguá]]
+|-
+|[[Elisiário]]
+|-
+|[[Embaúba]]
+|-
+|[[Novais, São Paulo|Novais]]
+|-
+|[[Palmares Paulista]]
+|-
+|[[Paraíso, São Paulo|Paraíso]]
+|-
+|[[Pindorama]]
+|-
+|[[Santa Adélia]]
+|-
+|[[Severínia]]
+|-
+|[[Tabapuã]]
+|-
+|rowspan=11|Fernandopolis
+|[[Estrela d'Oeste]]
+|-
+|[[Fernandópolis]]
+|-
+|[[Guarani d'Oeste]]
+|-
+|[[Indiaporã]]
+|-
+|[[Macedônia]]
+|-
+|[[Meridiano]]
+|-
+|[[Mira Estrela]]
+|-
+|[[Ouroeste]]
+|-
+|[[Pedranópolis]]
+|-
+|[[São João das Duas Pontes]]
+|-
+|[[Turmalina]]
+|-
+|rowspan=23|Jales
+|[[Aparecida d'Oeste]]
+|-
+|[[Aspásia]]
+|-
+|[[Dirce Reis]]
+|-
+|[[Dolcinópolis]]
+|-
+|[[Jales]]
+|-
+|[[Marinópolis]]
+|-
+|[[Mesópolis]]
+|-
+|[[Nova Canaã Paulista]]
+|-
+|[[Palmeira d'Oeste]]
+|-
+|[[Paranapuã]]
+|-
+|[[Pontalinda]]
+|-
+|[[Populina]]
+|-
+|[[Rubinéia]]
+|-
+|[[Santa Albertina]]
+|-
+|[[Santa Clara d'Oeste]]
+|-
+|[[Santa Fé do Sul]]
+|-
+|[[Santa Rita d'Oeste]]
+|-
+|[[Santa Salete]]
+|-
+|[[Santana da Ponte Pensa]]
+|-
+|[[São Francisco, São Paulo|São Francisco]]
+|-
+|[[Três Fronteiras]]
+|-
+|[[Urânia]]
+|-
+|[[Vitória Brasil]]
+|-
+|rowspan=9|Nhandeara
+|[[Macaubal]]
+|-
+|[[Monções]]
+|-
+|[[Monte Aprazível]]
+|-
+|[[Neves Paulista]]
+|-
+|[[Nhandeara]]
+|-
+|[[Nipoã]]
+|-
+|[[Poloni]]
+|-
+|[[Sebastianópolis do Sul]]
+|-
+|[[União Paulista]]
+|-
+|rowspan=6|Novo Horizonte
+|[[Irapuã]]
+|-
+|[[Itajobi]]
+|-
+|[[Marapoama]]
+|-
+|[[Novo Horizonte, São Paulo|Novo Horizonte]]
+|-
+|[[Sales, São Paulo|Sales]]
+|-
+|[[Urupês]]
+|-
+|rowspan=29|Sao Jose do Rio Preto
+|[[Adolfo]]
+|-
+|[[Altair, São Paulo|Altair]]
+|-
+|[[Bady Bassitt]]
+|-
+|[[Bálsamo]]
+|-
+|[[Cedral]]
+|-
+|[[Guapiaçu]]
+|-
+|[[Guaraci]]
+|-
+|[[Ibirá]]
+|-
+|[[Icém]]
+|-
+|[[Ipiguá]]
+|-
+|[[Jaci, São Paulo|Jaci]]
+|-
+|[[José Bonifácio, São Paulo|José Bonifácio]]
+|-
+|[[Mendonça, São Paulo|Mendonça]]
+|-
+|[[Mirassol]]
+|-
+|[[Mirassolândia]]
+|-
+|[[Nova Aliança]]
+|-
+|[[Nova Granada]]
+|-
+|[[Olímpia]]
+|-
+|[[Onda Verde]]
+|-
+|[[Orindiúva]]
+|-
+|[[Palestina, São Paulo|Palestina]]
+|-
+|[[Paulo de Faria]]
+|-
+|[[Planalto, São Paulo|Planalto]]
+|-
+|[[Potirendaba]]
+|-
+|[[São José do Rio Preto]]
+|-
+|[[Tanabi]]
+|-
+|[[Ubarana]]
+|-
+|[[Uchoa]]
+|-
+|[[Zacarias, São Paulo|Zacarias]]
+|-
+|rowspan=9|Votuporanga
+|[[Álvares Florence]]
+|-
+|[[Américo de Campos]]
+|-
+|[[Cardoso (São Paulo)|Cardoso]]
+|-
+|[[Cosmorama, São Paulo|Cosmorama]]
+|-
+|[[Parisi, São Paulo|Parisi]]
+|-
+|[[Pontes Gestal]]
+|-
+|[[Riolândia]]
+|-
+|[[Valentim Gentil]]
+|-
+|[[Votuporanga]]
+|-
+|rowspan=39|Vale do Paraiba Paulista
+|rowspan=5|Bananal
+|[[Arapeí]]
+|-
+|[[Areias, São Paulo|Areias]]
+|-
+|[[Bananal, São Paulo|Bananal]]
+|-
+|[[São José do Barreiro]]
+|-
+|[[Silveiras]]
+|-
+|rowspan=4|Campos do Jordao
+|[[Campos do Jordão]]
+|-
+|[[Monteiro Lobato, São Paulo|Monteiro Lobato]]
+|-
+|[[Santo Antônio do Pinhal]]
+|-
+|[[São Bento do Sapucaí]]
+|-
+|rowspan=4|Caraguatatuba
+|[[Caraguatatuba]]
+|-
+|[[Ilhabela, São Paulo|Ilhabela]]
+|-
+|[[São Sebastião, São Paulo|São Sebastião]]
+|-
+|[[Ubatuba]]
+|-
+|rowspan=11|Guaratingueta
+|[[Aparecida]]
+|-
+|[[Cachoeira Paulista]]
+|-
+|[[Canas, São Paulo|Canas]]
+|-
+|[[Cruzeiro, São Paulo|Cruzeiro]]
+|-
+|[[Guaratinguetá]]
+|-
+|[[Lavrinhas]]
+|-
+|[[Lorena, São Paulo|Lorena]]
+|-
+|[[Piquete]]
+|-
+|[[Potim]]
+|-
+|[[Queluz, São Paulo|Queluz]]
+|-
+|[[Roseira]]
+|-
+|rowspan=7|Paraibuna/Paraitinga
+|[[Cunha, São Paulo|Cunha]]
+|-
+|[[Jambeiro]]
+|-
+|[[Lagoinha]]
+|-
+|[[Natividade da Serra]]
+|-
+|[[Paraibuna]]
+|-
+|[[Redenção da Serra]]
+|-
+|[[São Luíz do Paraitinga|São Luís do Paraitinga]]
+|-
+|rowspan=8|Sao Jose dos Campos
+|[[Caçapava]]
+|-
+|[[Igaratá]]
+|-
+|[[Jacareí]]
+|-
+|[[Pindamonhangaba]]
+|-
+|[[Santa Branca]]
+|-
+|[[São José dos Campos]]
+|-
+|[[Taubaté]]
+|-
+|[[Tremembé]]
+|}
+
+==[[Southern Region, Brazil|Southern Brazil]]==
+===[[Paraná (state)|Paraná (PR)]]===
+{|class="wikitable"
+!Mesoregion
+!Microregion
+!Municipality
+|-
+|rowspan=25|Centro Ocidental Paranaense
+|rowspan=14|Campo Mourao
+|[[Araruna, Paraná|Araruna]]
+|-
+|[[Barbosa Ferraz, Paraná|Barbosa Ferraz]]
+|-
+|[[Campo Mourão]]
+|-
+|[[Corumbataí do Sul]]
+|-
+|[[Engenheiro Beltrão]]
+|-
+|[[Farol]]
+|-
+|[[Fênix]]
+|-
+|[[Iretama]]
+|-
+|[[Luiziana]]
+|-
+|[[Mamborê]]
+|-
+|[[Peabiru]]
+|-
+|[[Quinta do Sol]]
+|-
+|[[Roncador, Brazil|Roncador]]
+|-
+|[[Terra Boa, Paraná|Terra Boa]]
+|-
+|rowspan=11|Goioere
+|[[Altamira do Paraná]]
+|-
+|[[Boa Esperança, Paraná|Boa Esperança]]
+|-
+|[[Campina da Lagoa]]
+|-
+|[[Goioerê]]
+|-
+|[[Janiópolis]]
+|-
+|[[Juranda, Paraná|Juranda]]
+|-
+|[[Moreira Sales]]
+|-
+|[[Nova Cantù]]
+|-
+|[[Quarto Centenário]]
+|-
+|[[Rancho Alegre d'Oeste]]
+|-
+|[[Ubiratã]]
+|-
+|rowspan=14|Centro Oriental Paranaense
+|rowspan=4|Jaguariaiva
+|[[Arapoti]]
+|-
+|[[Jaguariaíva]]
+|-
+|[[Piraí do Sul]]
+|-
+|[[Sengés]]
+|-
+|rowspan=4|Ponta Grossa
+|[[Carambeí]]
+|-
+|[[Castro, Paraná|Castro]]
+|-
+|[[Palmeira, Paraná|Palmeira]]
+|-
+|[[Ponta Grossa]]
+|-
+|rowspan=6|Telemaco Borba
+|[[Imbaú]]
+|-
+|[[Ortigueira, Paraná|Ortigueira]]
+|-
+|[[Reserva, Paraná|Reserva]]
+|-
+|[[Telêmaco Borba]]
+|-
+|[[Tibagi]]
+|-
+|[[Ventania]]
+|-
+|rowspan=29|Centro-Sul Paranaense
+|rowspan=18|Guarapuava
+|[[Campina do Simão]]
+|-
+|[[Candói]]
+|-
+|[[Cantagalo, Paraná|Cantagalo]]
+|-
+|[[Espigão Alto do Iguaçu]]
+|-
+|[[Foz do Jordão]]
+|-
+|[[Goioxim]]
+|-
+|[[Guarapuava]]
+|-
+|[[Inácio Martins]]
+|-
+|[[Laranjeiras do Sul]]
+|-
+|[[Marquinho, Paraná|Marquinho]]
+|-
+|[[Nova Laranjeiras]]
+|-
+|[[Pinhão, Paraná|Pinhão]]
+|-
+|[[Porto Barreiro]]
+|-
+|[[Quedas do Iguaçu]]
+|-
+|[[Reserva do Iguaçu]]
+|-
+|[[Rio Bonito do Iguaçu]]
+|-
+|[[Turvo]]
+|-
+|[[Virmond]]
+|-
+|rowspan=5|Palmas
+|[[Clevelândia]]
+|-
+|[[Coronel Domingos Soares]]
+|-
+|[[Honório Serpa]]
+|-
+|[[Mangueirinha]]
+|-
+|[[Palmas, Paraná|Palmas]]
+|-
+|rowspan=6|Pitanga
+|[[Boa Ventura de São Roque]]
+|-
+|[[Laranjal, Paraná|Laranjal]]
+|-
+|[[Mato Rico]]
+|-
+|[[Palmital, Paraná|Palmital]]
+|-
+|[[Pitanga, Paraná|Pitanga]]
+|-
+|[[Santa Maria do Oeste]]
+|-
+|rowspan=37|Metropolitana de Curitiba
+|rowspan=3|Cerro Azul
+|[[Adrianópolis]]
+|-
+|[[Cerro Azul, Paraná|Cerro Azul]]
+|-
+|[[Doutor Ulysses]]
+|-
+|rowspan=19|Curitiba
+|[[Almirante Tamandaré]]
+|-
+|[[Araucária]]
+|-
+|[[Balsa Nova]]
+|-
+|[[Bocaiúva do Sul]]
+|-
+|[[Campina Grande do Sul, Paraná|Campina Grande do Sul]]
+|-
+|[[Campo Largo]]
+|-
+|[[Campo Magro]]
+|-
+|[[Colombo, Paraná|Colombo]]
+|-
+|[[Contenda]]
+|-
+|[[Curitiba]] (State Capital)
+|-
+|[[Fazenda Rio Grande]]
+|-
+|[[Itaperuçu]]
+|-
+|[[Mandirituba]]
+|-
+|[[Pinhais]]
+|-
+|[[Piraquara]]
+|-
+|[[Quatro Barras]]
+|-
+|[[Rio Branco do Sul]]
+|-
+|[[São José dos Pinhais]]
+|-
+|[[Tunas do Paraná]]
+|-
+|rowspan=2|Lapa
+|[[Lapa, Paraná|Lapa]]
+|-
+|[[Porto Amazonas]]
+|-
+|rowspan=7|Paranaguá
+|[[Antonina (Brazil)|Antonina]]
+|-
+|[[Guaraqueçaba]]
+|-
+|[[Guaratuba]]
+|-
+|[[Matinhos]]
+|-
+|[[Morretes]]
+|-
+|[[Paranaguá]]
+|-
+|[[Pontal do Paraná]]
+|-
+|rowspan=6|Rio Negro
+|[[Agudos do Sul]]
+|-
+|[[Campo do Tenente]]
+|-
+|[[Piên]]
+|-
+|[[Quitandinha]]
+|-
+|[[Rio Negro, Paraná|Rio Negro]]
+|-
+|[[Tijucas do Sul]]
+|-
+|rowspan=61|Noroeste Paranaense
+|rowspan=11|Cianorte
+|[[Cianorte]]
+|-
+|[[Cidade Gaúcha]]
+|-
+|[[Guaporema]]
+|-
+|[[Indianópolis]]
+|-
+|[[Japurá, Paraná|Japurá]]
+|-
+|[[Jussara, Paraná|Jussara]]
+|-
+|[[Marechal Cândido Rondon|Rondon]]
+|-
+|[[São Manoel do Paraná]]
+|-
+|[[São Tomé, Paraná|São Tomé]]
+|-
+|[[Tapejara, Paraná|Tapejara]]
+|-
+|[[Tuneiras do Oeste]]
+|-
+|rowspan=29|Paranavai
+|[[Alto Paraná(city)|Alto Paraná]]
+|-
+|[[Amaporã]]
+|-
+|[[Cruzeiro do Sul, Paraná|Cruzeiro do Sul]]
+|-
+|[[Diamante do Norte]]
+|-
+|[[Guairaçá]]
+|-
+|[[Inajá]]
+|-
+|[[Itaúna do Sul]]
+|-
+|[[Jardim Olinda]]
+|-
+|[[Loanda, Paraná|Loanda]]
+|-
+|[[Marilena]]
+|-
+|[[Mirador, Paraná|Mirador]]
+|-
+|[[Nova Aliança do Ivaí]]
+|-
+|[[Nova Londrina]]
+|-
+|[[Paraíso do Norte]]
+|-
+|[[Paranacity]]
+|-
+|[[Paranapoema]]
+|-
+|[[Paranavaí]]
+|-
+|[[Planaltina do Paraná]]
+|-
+|[[Porto Rico, Paraná|Porto Rico]]
+|-
+|[[Querência do Norte]]
+|-
+|[[Santa Cruz de Monte Castelo]]
+|-
+|[[Santa Isabel do Ivaí]]
+|-
+|[[Santa Mônica]]
+|-
+|[[Santo Antônio do Caiuá]]
+|-
+|[[São Carlos do Ivaí]]
+|-
+|[[São João do Caiuá]]
+|-
+|[[São Pedro do Paraná]]
+|-
+|[[Tamboara]]
+|-
+|[[Terra Rica]]
+|-
+|rowspan=21|Umuarama
+|[[Alto Paraíso, Paraná|Alto Paraíso]]
+|-
+|[[Alto Piquiri]]
+|-
+|[[Altônia]]
+|-
+|[[Brasilândia do Sul]]
+|-
+|[[Cafezal do Sul]]
+|-
+|[[Cruzeiro do Oeste]]
+|-
+|[[Douradina]]
+|-
+|[[Esperança Nova]]
+|-
+|[[Francisco Alves]]
+|-
+|[[Icaraíma]]
+|-
+|[[Iporã]]
+|-
+|[[Ivaté]]
+|-
+|[[Maria Helena]]
+|-
+|[[Mariluz]]
+|-
+|[[Nova Olímpia, Paraná|Nova Olímpia]]
+|-
+|[[Perobal]]
+|-
+|[[Pérola]]
+|-
+|[[São Jorge do Patrocínio]]
+|-
+|[[Tapira]]
+|-
+|[[Umuarama]]
+|-
+|[[Xambrê]]
+|-
+|rowspan=79|Norte Central Paranaense
+|rowspan=9|Apucarana
+|[[Apucarana]]
+|-
+|[[Arapongas]]
+|-
+|[[Califórnia]]
+|-
+|[[Cambira]]
+|-
+|[[Jandaia do Sul]]
+|-
+|[[Marilândia do Sul]]
+|-
+|[[Mauá da Serra]]
+|-
+|[[Novo Itacolomi]]
+|-
+|[[Sabáudia]]
+|-
+|rowspan=22|Astorga
+|[[Ângulo]]
+|-
+|[[Astorga (Brazil)|Astorga]]
+|-
+|[[Atalaia, Paraná|Atalaia]]
+|-
+|[[Cafeara]]
+|-
+|[[Centenário do Sul]]
+|-
+|[[Colorado, Paraná|Colorado]]
+|-
+|[[Flórida, Paraná|Flórida]]
+|-
+|[[Guaraci, Paraná|Guaraci]]
+|-
+|[[Iguaraçu]]
+|-
+|[[Itaguajé]]
+|-
+|[[Jaguapitã]]
+|-
+|[[Lobato, Paraná|Lobato]]
+|-
+|[[Lupionópolis]]
+|-
+|[[Mandaguaçu]]
+|-
+|[[Munhoz de Melo]]
+|-
+|[[Nossa Senhora das Graças]]
+|-
+|[[Nova Esperança, Paraná|Nova Esperança]]
+|-
+|[[Presidente Castelo Branco]]
+|-
+|[[Santa Fé, Paraná|Santa Fé]]
+|-
+|[[Santa Inês]]
+|-
+|[[Santo Inácio]]
+|-
+|[[Uniflor]]
+|-
+|rowspan=7|Faxinal
+|[[Bom Sucesso, Paraná|Bom Sucesso]]
+|-
+|[[Borrazópolis]]
+|-
+|[[Cruzmaltina]]
+|-
+|[[Faxinal]]
+|-
+|[[Kaloré]]
+|-
+|[[Marumbi]]
+|-
+|[[Rio Bom]]
+|-
+|rowspan=7|Florai
+|[[Doutor Camargo]]
+|-
+|[[Floraí]]
+|-
+|[[Floresta, Paraná|Floresta]]
+|-
+|[[Itambé]]
+|-
+|[[Ivatuba]]
+|-
+|[[Ourizona]]
+|-
+|[[São Jorge do Ivaí]]
+|-
+|rowspan=15|Ivaipora
+|[[Arapuã]]
+|-
+|[[Ariranha do Ivaí]]
+|-
+|[[Cândido de Abreu]]
+|-
+|[[Godoy Moreira]]
+|-
+|[[Grandes Rios]]
+|-
+|[[Ivaiporã]]
+|-
+|[[Jardim Alegre]]
+|-
+|[[Lidianópolis]]
+|-
+|[[Lunardelli]]
+|-
+|[[Manoel Ribas]]
+|-
+|[[Nova Tebas]]
+|-
+|[[Rio Branco do Ivaí]]
+|-
+|[[Rosário do Ivaí]]
+|-
+|[[São João do Ivaí]]
+|-
+|[[São Pedro do Ivaí]]
+|-
+|rowspan=6|Londrina
+|[[Cambé]]
+|-
+|[[Ibiporã]]
+|-
+|[[Londrina]]
+|-
+|[[Pitangueiras, Paraná|Pitangueiras]]
+|-
+|[[Rolândia]]
+|-
+|[[Tamarana]]
+|-
+|rowspan=5|Maringa
+|[[Mandaguari]]
+|-
+|[[Marialva]]
+|-
+|[[Maringá]]
+|-
+|[[Paiçandu]]
+|-
+|[[Sarandi, Paraná|Sarandi]]
+|-
+|rowspan=8|Porecatu
+|[[Alvorada do Sul]]
+|-
+|[[Bela Vista do Paraíso]]
+|-
+|[[Florestópolis]]
+|-
+|[[Miraselva]]
+|-
+|[[Porecatu]]
+|-
+|[[Prado Ferreira]]
+|-
+|[[Primeiro de Maio, Paraná|Primeiro de Maio]]
+|-
+|[[Sertanópolis]]
+|-
+|rowspan=46|Norte Pioneiro Paranaense
+|rowspan=8|Assai
+|[[Assaí]]
+|-
+|[[Jataizinho]]
+|-
+|[[Nova Santa Bárbara]]
+|-
+|[[Rancho Alegre]]
+|-
+|[[Santa Cecília do Pavão]]
+|-
+|[[São Jerônimo da Serra]]
+|-
+|[[São Sebastião da Amoreira]]
+|-
+|[[Uraí]]
+|-
+|rowspan=14|Cornelio Procopio
+|[[Abatiá]]
+|-
+|[[Andirá]]
+|-
+|[[Bandeirantes, Paraná|Bandeirantes]]
+|-
+|[[Congonhinhas]]
+|-
+|[[Cornélio Procópio]]
+|-
+|[[Itambaracá]]
+|-
+|[[Leópolis]]
+|-
+|[[Nova América da Colina]]
+|-
+|[[Nova Fátima]]
+|-
+|[[Ribeirão do Pinhal]]
+|-
+|[[Santa Amélia]]
+|-
+|[[Santa Mariana]]
+|-
+|[[Santo Antônio do Paraíso]]
+|-
+|[[Sertaneja]]
+|-
+|rowspan=8|Ibaiti
+|[[Conselheiro Mairinck]]
+|-
+|[[Curiúva]]
+|-
+|[[Figueira, Brazil|Figueira]]
+|-
+|[[Ibaiti]]
+|-
+|[[Jaboti]]
+|-
+|[[Japira]]
+|-
+|[[Pinhalão]]
+|-
+|[[Sapopema]]
+|-
+|rowspan=6|Jacarezinho
+|[[Barra do Jacaré]]
+|-
+|[[Cambará]]
+|-
+|[[Jacarezinho, Paraná|Jacarezinho]]
+|-
+|[[Jundiaí do Sul]]
+|-
+|[[Ribeirão Claro]]
+|-
+|[[Santo Antônio da Platina]]
+|-
+|rowspan=10|Wenceslau Braz
+|[[Carlópolis]]
+|-
+|[[Guapirama]]
+|-
+|[[Joaquim Távora]]
+|-
+|[[Quatiguá]]
+|-
+|[[Salto do Itararé]]
+|-
+|[[Santana do Itararé]]
+|-
+|[[São José da Boa Vista]]
+|-
+|[[Siqueira Campos]]
+|-
+|[[Tomazina]]
+|-
+|[[Wenceslau Braz, Paraná|Wenceslau Braz]]
+|-
+|rowspan=50|Oeste Paranaense
+|rowspan=18|Cascavel
+|[[Anahy]]
+|-
+|[[Boa Vista da Aparecida]]
+|-
+|[[Braganey]]
+|-
+|[[Cafelândia, Paraná|Cafelândia]]
+|-
+|[[Campo Bonito]]
+|-
+|[[Capitão Leônidas Marques]]
+|-
+|[[Cascavel]]
+|-
+|[[Catanduvas, Paraná|Catanduvas]]
+|-
+|[[Corbélia]]
+|-
+|[[Diamante do Sul]]
+|-
+|[[Guaraniaçu]]
+|-
+|[[Ibema]]
+|-
+|[[Iguatu]]
+|-
+|[[Lindoeste]]
+|-
+|[[Nova Aurora, Paraná|Nova Aurora]]
+|-
+|[[Santa Lúcia, Paraná|Santa Lúcia]]
+|-
+|[[Santa Tereza do Oeste]]
+|-
+|[[Três Barras do Paraná]]
+|-
+|rowspan=11|Foz do Iguaçu
+|[[Céu Azul]]
+|-
+|[[Foz do Iguaçu]]
+|-
+|[[Itaipulândia]]
+|-
+|[[Matelândia]]
+|-
+|[[Medianeira]]
+|-
+|[[Missal, Paraná|Missal]]
+|-
+|[[Ramilândia]]
+|-
+|[[Santa Terezinha de Itaipu]]
+|-
+|[[São Miguel do Iguaçu]]
+|-
+|[[Serranópolis do Iguaçu]]
+|-
+|[[Vera Cruz do Oeste]]
+|-
+|rowspan=21|Toledo
+|[[Assis Chateaubriand]]
+|-
+|[[Diamante d'Oeste]]
+|-
+|[[Entre Rios do Oeste]]
+|-
+|[[Formosa do Oeste]]
+|-
+|[[Guaíra (Paraná)|Guaíra]]
+|-
+|[[Iracema do Oeste]]
+|-
+|[[Jesuítas]]
+|-
+|[[Marechal Cândido Rondon]]
+|-
+|[[Maripá]]
+|-
+|[[Mercedes, Paraná|Mercedes]]
+|-
+|[[Nova Santa Rosa]]
+|-
+|[[Ouro Verde do Oeste]]
+|-
+|[[Palotina]]
+|-
+|[[Pato Bragado]]
+|-
+|[[Quatro Pontes]]
+|-
+|[[Santa Helena, Paraná|Santa Helena]]
+|-
+|[[São José das Palmeiras]]
+|-
+|[[São Pedro do Iguaçu]]
+|-
+|[[Terra Roxa, Paraná|Terra Roxa]]
+|-
+|[[Toledo, Paraná|Toledo]]
+|-
+|[[Tupãssi]]
+|-
+|rowspan=21|Sudeste Paranaense
+|rowspan=4|Irati
+|[[Irati, Paraná|Irati]]
+|-
+|[[Mallet, Paraná|Mallet]]
+|-
+|[[Rebouças]]
+|-
+|[[Rio Azul, Paraná|Rio Azul]]
+|-
+|rowspan=7|Prudentopolis
+|[[Fernandes Pinheiro]]
+|-
+|[[Guamiranga]]
+|-
+|[[Imbituva]]
+|-
+|[[Ipiranga, Paraná|Ipiranga]]
+|-
+|[[Ivaí]]
+|-
+|[[Prudentópolis]]
+|-
+|[[Teixeira Soares]]
+|-
+|rowspan=3|Sao Mateus do Sul
+|[[Antônio Olinto]]
+|-
+|[[São João do Triunfo]]
+|-
+|[[São Mateus do Sul]]
+|-
+|rowspan=7|Uniao da Vitoria
+|[[Bituruna]]
+|-
+|[[Cruz Machado]]
+|-
+|[[General Carneiro]]
+|-
+|[[Paula Freitas]]
+|-
+|[[Paulo Frontin]]
+|-
+|[[Porto Vitória]]
+|-
+|[[União da Vitória]]
+|-
+|rowspan=37|Sudoeste Paranaense
+|rowspan=8|Capanema
+|[[Ampére]]
+|-
+|[[Bela Vista da Caroba]]
+|-
+|[[Capanema]]
+|-
+|[[Pérola d'Oeste]]
+|-
+|[[Planalto, Paraná|Planalto]]
+|-
+|[[Pranchita]]
+|-
+|[[Realeza]]
+|-
+|[[Santa Izabel do Oeste]]
+|-
+|rowspan=19|Francisco Beltrao
+|[[Barracão, Paraná|Barracão]]
+|-
+|[[Boa Esperança do Iguaçu]]
+|-
+|[[Bom Jesus do Sul]]
+|-
+|[[Cruzeiro do Iguaçu]]
+|-
+|[[Dois Vizinhos]]
+|-
+|[[Enéas Marques]]
+|-
+|[[Flor da Serra do Sul]]
+|-
+|[[Francisco Beltrão]]
+|-
+|[[Manfrinópolis]]
+|-
+|[[Marmeleiro]]
+|-
+|[[Nova Esperança do Sudoeste]]
+|-
+|[[Nova Prata do Iguaçu]]
+|-
+|[[Pinhal de São Bento]]
+|-
+|[[Renascença]]
+|-
+|[[Salgado Filho]]
+|-
+|[[Salto do Lontra]]
+|-
+|[[Santo Antônio do Sudoeste]]
+|-
+|[[São Jorge d'Oeste]]
+|-
+|[[Verê]]
+|-
+|rowspan=10|Pato Branco
+|[[Bom Sucesso do Sul]]
+|-
+|[[Chopinzinho]]
+|-
+|[[Coronel Vivida]]
+|-
+|[[Itapejara d'Oeste]]
+|-
+|[[Mariópolis]]
+|-
+|[[Pato Branco]]
+|-
+|[[São João, Paraná|São João]]
+|-
+|[[Saudade do Iguaçu]]
+|-
+|[[Sulina, Paraná|Sulina]]
+|-
+|[[Vitorino, Paraná|Vitorino]]
+|}
+
+===[[Rio Grande do Sul|Rio Grande do Sul (RS)]]===
+{|class="wikitable"
+!Mesoregion
+!Microregion
+!Municipality
+|-
+|rowspan=31|Centro Ocidental Rio-Grandense
+|rowspan=9|Restinga Seca
+|[[Agudo, Rio Grande do Sul|Agudo]]
+|-
+|[[Dona Francisca]]
+|-
+|[[Faxinal do Soturno]]
+|-
+|[[Formigueiro]]
+|-
+|[[Ivorá]]
+|-
+|[[Nova Palma]]
+|-
+|[[Restinga Seca]]
+|-
+|[[São João do Polêsine]]
+|-
+|[[Silveira Martins]]
+|-
+|rowspan=13|Santa Maria
+|[[Cacequi]]
+|-
+|[[Dilermando de Aguiar]]
+|-
+|[[Itaara]]
+|-
+|[[Jaguari]]
+|-
+|[[Mata, Rio Grande do Sul|Mata]]
+|-
+|[[Nova Esperança do Sul]]
+|-
+|[[Santa Maria, Rio Grande do Sul|Santa Maria]]
+|-
+|[[São Martinho da Serra]]
+|-
+|[[São Pedro do Sul, Rio Grande do Sul|São Pedro do Sul]]
+|-
+|[[São Sepé]]
+|-
+|[[São Vicente do Sul]]
+|-
+|[[Toropi]]
+|-
+|[[Vila Nova do Sul]]
+|-
+|rowspan=9|Santiago
+|[[Capão do Cipó]]
+|-
+|[[Itacurubi]]
+|-
+|[[Jari, Rio Grande do Sul|Jari]]
+|-
+|[[Júlio de Castilhos (town)|Júlio de Castilhos]]
+|-
+|[[Pinhal Grande]]
+|-
+|[[Quevedos]]
+|-
+|[[Santiago, Rio Grande do Sul|Santiago]]
+|-
+|[[Tupanciretã]]
+|-
+|[[Unistalda]]
+|-
+|rowspan=54|Centro Oriental Rio-Grandense
+|rowspan=7|Cachoeira do Sul
+|[[Cachoeira do Sul]]
+|-
+|[[Cerro Branco]]
+|-
+|[[Novo Cabrais]]
+|-
+|[[Pantano Grande]]
+|-
+|[[Paraíso do Sul]]
+|-
+|[[Passo do Sobrado]]
+|-
+|[[Rio Pardo]]
+|-
+|rowspan=31|Lajeado-Estrela
+|[[Arroio do Meio]]
+|-
+|[[Bom Retiro do Sul]]
+|-
+|[[Boqueirão do Leão]]
+|-
+|[[Canudos do Vale]]
+|-
+|[[Capitão]]
+|-
+|[[Colinas]]
+|-
+|[[Coqueiro Baixo]]
+|-
+|[[Cruzeiro do Sul, Rio Grande do Sul|Cruzeiro do Sul]]
+|-
+|[[Doutor Ricardo]]
+|-
+|[[Encantado, Rio Grande do Sul|Encantado]]
+|-
+|[[Estrela, Rio Grande do Sul|Estrela]]
+|-
+|[[Fazenda Vilanova]]
+|-
+|Forquetinha
+|-
+|[[Imigrante]]
+|-
+|[[Lajeado, Rio Grande do Sul|Lajeado]]
+|-
+|[[Marques de Souza]]
+|-
+|[[Muçum]]
+|-
+|[[Nova Bréscia]]
+|-
+|[[Paverama]]
+|-
+|[[Pouso Novo]]
+|-
+|[[Progresso, Rio Grande do Sul|Progresso]]
+|-
+|[[Relvado]]
+|-
+|[[Roca Sales]]
+|-
+|[[Santa Clara do Sul]]
+|-
+|[[Sério]]
+|-
+|[[Tabaí]]
+|-
+|[[Taquari]]
+|-
+|[[Teutônia]]
+|-
+|[[Travesseiro]]
+|-
+|[[Vespasiano Correa]]
+|-
+|Westfalia
+|-
+|rowspan=16|Santa Cruz do Sul
+|[[Arroio do Tigre]]
+|-
+|[[Candelária, Rio Grande do Sul|Candelária]]
+|-
+|[[Estrela Velha]]
+|-
+|[[Gramado Xavier]]
+|-
+|[[Herveiras]]
+|-
+|[[Ibarama]]
+|-
+|Lagoa Bonita do Sul
+|-
+|[[Mato Leitão]]
+|-
+|[[Passa Sete]]
+|-
+|[[Santa Cruz do Sul]]
+|-
+|[[Segredo]]
+|-
+|[[Sinimbu]]
+|-
+|[[Sobradinho, Rio Grande do Sul|Sobradinho]]
+|-
+|[[Vale do Sol]]
+|-
+|[[Venâncio Aires]]
+|-
+|[[Vera Cruz, Rio Grande do Sul|Vera Cruz]]
+|-
+|rowspan=98|Metropolitana de Porto Alegre
+|rowspan=8|Camaqua
+|[[Arambaré]]
+|-
+|[[Barra do Ribeiro]]
+|-
+|[[Camaquã]]
+|-
+|[[Cerro Grande do Sul]]
+|-
+|[[Chuvisca]]
+|-
+|[[Dom Feliciano]]
+|-
+|[[Sentinela do Sul]]
+|-
+|[[Tapes]]
+|-
+|rowspan=15|Gramado-Canela
+|[[Canela]]
+|-
+|[[Dois Irmãos]]
+|-
+|[[Gramado]]
+|-
+|[[Igrejinha]]
+|-
+|[[Ivoti]]
+|-
+|[[Lindolfo Collor]]
+|-
+|[[Morro Reuter]]
+|-
+|[[Nova Petrópolis]]
+|-
+|[[Picada Café]]
+|-
+|[[Presidente Lucena]]
+|-
+|[[Riozinho]]
+|-
+|[[Rolante]]
+|-
+|[[Santa Maria do Herval]]
+|-
+|[[Taquara]]
+|-
+|[[Três Coroas]]
+|-
+|rowspan=21|Montenegro
+|[[Alto Feliz]]
+|-
+|[[Barão]]
+|-
+|[[Bom Princípio]]
+|-
+|[[Brochier]]
+|-
+|[[Capela de Santana]]
+|-
+|[[Feliz]]
+|-
+|[[Harmonia, Rio Grande do Sul|Harmonia]]
+|-
+|[[Linha Nova]]
+|-
+|[[Maratá]]
+|-
+|[[Montenegro, Rio Grande do Sul|Montenegro]]
+|-
+|[[Pareci Novo]]
+|-
+|[[Poço das Antas]]
+|-
+|[[Portão]]
+|-
+|[[Salvador do Sul]]
+|-
+|[[São José do Hortêncio]]
+|-
+|São José do Sul
+|-
+|[[São Pedro da Serra]]
+|-
+|[[São Sebastião do Caí]]
+|-
+|[[São Vendelino]]
+|-
+|[[Tupandi]]
+|-
+|[[Vale Real]]
+|-
+|rowspan=23|Osorio
+|[[Arroio do Sal]]
+|-
+|[[Balneário Pinhal]]
+|-
+|[[Capão da Canoa]]
+|-
+|[[Capivari do Sul]]
+|-
+|[[Caraá]]
+|-
+|[[Cidreira]]
+|-
+|[[Dom Pedro de Alcântara]]
+|-
+|[[Imbé]]
+|-
+|Itati
+|-
+|[[Mampituba]]
+|-
+|[[Maquiné]]
+|-
+|[[Morrinhos do Sul]]
+|-
+|[[Mostardas]]
+|-
+|[[Osório]]
+|-
+|[[Palmares do Sul]]
+|-
+|[[Santo Antônio da Patrulha]]
+|-
+|[[Tavares, Rio Grande do Sul|Tavares]]
+|-
+|[[Terra de Areia]]
+|-
+|[[Torres, Rio Grande do Sul|Torres]]
+|-
+|[[Tramandaí]]
+|-
+|[[Três Cachoeiras]]
+|-
+|[[Três Forquilhas]]
+|-
+|[[Xangri-lá]]
+|-
+|rowspan=22|Porto Alegre
+|[[Alvorada]]
+|-
+|[[Araricá]]
+|-
+|[[Cachoeirinha]]
+|-
+|[[Campo Bom]]
+|-
+|[[Canoas]]
+|-
+|[[Eldorado do Sul]]
+|-
+|[[Estância Velha]]
+|-
+|[[Esteio]]
+|-
+|[[Glorinha]]
+|-
+|[[Gravataí]]
+|-
+|[[Guaíba]]
+|-
+|[[Mariana Pimentel]]
+|-
+|[[Nova Hartz]]
+|-
+|[[Nova Santa Rita]]
+|-
+|[[Novo Hamburgo]]
+|-
+|[[Parobé]]
+|-
+|[[Porto Alegre]] (State Capital)
+|-
+|[[São Leopoldo]]
+|-
+|[[Sapiranga]]
+|-
+|[[Sapucaia do Sul]]
+|-
+|[[Sertão Santana]]
+|-
+|[[Viamão]]
+|-
+|rowspan=9|Sao Jeronimo
+|[[Arroio dos Ratos]]
+|-
+|[[Barão do Triunfo]]
+|-
+|[[Butiá]]
+|-
+|[[Charqueadas]]
+|-
+|[[General Câmara]]
+|-
+|[[Minas do Leão]]
+|-
+|[[São Jerônimo]]
+|-
+|[[Triunfo]]
+|-
+|[[Vale Verde]]
+|-
+|rowspan=53|Nordeste Rio-Grandense
+|rowspan=18|Caxias do Sul
+|[[Antônio Prado]]
+|-
+|[[Bento Gonçalves (town)|Bento Gonçalves]]
+|-
+|[[Boa Vista do Sul]]
+|-
+|[[Carlos Barbosa]]
+|-
+|[[Caxias do Sul]]
+|-
+|Coronel Pilar
+|-
+|[[Cotiporã]]
+|-
+|[[Fagundes Varela (town)|Fagundes Varela]]
+|-
+|[[Farroupilha (town)|Farroupilha]]
+|-
+|[[Flores da Cunha]]
+|-
+|[[Garibaldi (city)|Garibaldi]]
+|-
+|[[Monte Belo do Sul]]
+|-
+|[[Nova Pádua]]
+|-
+|[[Nova Roma do Sul]]
+|-
+|[[Santa Tereza, Rio Grande do Sul|Santa Tereza]]
+|-
+|[[São Marcos]]
+|-
+|[[Veranópolis]]
+|-
+|[[Vila Flores]]
+|-
+|rowspan=21|Guapore
+|[[André da Rocha]]
+|-
+|[[Anta Gorda]]
+|-
+|[[Arvorezinha]]
+|-
+|[[Dois Lajeados]]
+|-
+|[[Guabiju]]
+|-
+|[[Guaporé, Rio Grande do Sul|Guaporé]]
+|-
+|[[Ilópolis]]
+|-
+|[[Itapuca]]
+|-
+|[[Montauri]]
+|-
+|[[Nova Alvorada]]
+|-
+|[[Nova Araçá]]
+|-
+|[[Nova Bassano]]
+|-
+|[[Nova Prata]]
+|-
+|[[Paraí]]
+|-
+|[[Protásio Alves]]
+|-
+|[[Putinga]]
+|-
+|[[São Jorge, Rio Grande do Sul|São Jorge]]
+|-
+|[[São Valentim do Sul]]
+|-
+|[[Serafina Corrêa]]
+|-
+|[[União da Serra]]
+|-
+|[[Vista Alegre do Prata]]
+|-
+|rowspan=14|Vacaria
+|[[Bom Jesus, Rio Grande do Sul|Bom Jesus]]
+|-
+|[[Cambará do Sul]]
+|-
+|[[Campestre da Serra]]
+|-
+|Capão Bonito do Sul
+|-
+|[[Esmeralda, Rio Grande do Sul|Esmeralda]]
+|-
+|[[Ipê, Rio Grande do Sul|Ipê]]
+|-
+|[[Jaquirana]]
+|-
+|[[Lagoa Vermelha]]
+|-
+|[[Monte Alegre dos Campos]]
+|-
+|[[Muitos Capões]]
+|-
+|Pinhal da Serra
+|-
+|[[São Francisco de Paula]]
+|-
+|[[São José dos Ausentes]]
+|-
+|[[Vacaria]]
+|-
+|rowspan=216|Noroeste Rio-Grandense
+|rowspan=18|Carazinho
+|Almirante Tamandaré do Sul
+|-
+|[[Barra Funda]]
+|-
+|[[Boa Vista das Missões]]
+|-
+|[[Carazinho]]
+|-
+|[[Cerro Grande, Rio Grande do Sul|Cerro Grande]]
+|-
+|[[Chapada, Rio Grande do Sul|Chapada]]
+|-
+|[[Coqueiros do Sul]]
+|-
+|[[Jaboticaba (town)|Jaboticaba]]
+|-
+|[[Lajeado do Bugre]]
+|-
+|[[Nova Boa Vista]]
+|-
+|[[Novo Barreiro]]
+|-
+|[[Palmeira das Missões]]
+|-
+|[[Pinhal, Rio Grande do Sul|Pinhal]]
+|-
+|[[Sagrada Família, Rio Grande do Sul|Sagrada Família]]
+|-
+|[[Santo Antônio do Planalto]]
+|-
+|[[São José das Missões]]
+|-
+|São Pedro das Missões
+|-
+|[[Sarandi, Rio Grande do Sul|Sarandi]]
+|-
+|rowspan=11|Cerro Largo
+|[[Caibaté]]
+|-
+|[[Campina das Missões]]
+|-
+|[[Cerro Largo, Rio Grande do Sul|Cerro Largo]]
+|-
+|[[Guarani das Missões]]
+|-
+|Mato Queimado
+|-
+|[[Porto Xavier]]
+|-
+|[[Roque Gonzales, Rio Grande do Sul|Roque Gonzales]]
+|-
+|[[Salvador das Missões]]
+|-
+|[[São Paulo das Missões]]
+|-
+|[[São Pedro do Butiá]]
+|-
+|[[Sete de Setembro]]
+|-
+|rowspan=14|Cruz Alta
+|[[Alto Alegre, Rio Grande do Sul|Alto Alegre]]
+|-
+|Boa Vista do Cadeado
+|-
+|Boa Vista do Incra
+|-
+|[[Campos Borges]]
+|-
+|[[Cruz Alta, Rio Grande do Sul|Cruz Alta]]
+|-
+|[[Espumoso]]
+|-
+|[[Fortaleza dos Valos]]
+|-
+|[[Ibirubá]]
+|-
+|Jacuizinho
+|-
+|[[Jóia]]
+|-
+|[[Quinze de Novembro]]
+|-
+|[[Saldanha Marinho]]
+|-
+|[[Salto do Jacuí]]
+|-
+|[[Santa Bárbara do Sul]]
+|-
+|rowspan=30|Erechim
+|[[Aratiba]]
+|-
+|[[Áurea]]
+|-
+|[[Barão de Cotegipe]]
+|-
+|[[Barra do Rio Azul]]
+|-
+|[[Benjamin Constant do Sul]]
+|-
+|[[Campinas do Sul]]
+|-
+|[[Carlos Gomes (town)|Carlos Gomes]]
+|-
+|[[Centenário, Rio Grande do Sul|Centenário]]
+|-
+|Cruzaltense
+|-
+|[[Entre Rios do Sul]]
+|-
+|[[Erebango]]
+|-
+|[[Erechim]]
+|-
+|[[Erval Grande]]
+|-
+|[[Estação]]
+|-
+|[[Faxinalzinho]]
+|-
+|[[Floriano Peixoto, Rio Grande do Sul|Floriano Peixoto]]
+|-
+|[[Gaurama]]
+|-
+|[[Getúlio Vargas (town)|Getúlio Vargas]]
+|-
+|[[Ipiranga do Sul]]
+|-
+|[[Itatiba do Sul]]
+|-
+|[[Jacutinga, Rio Grande do Sul|Jacutinga]]
+|-
+|[[Marcelino Ramos]]
+|-
+|[[Mariano Moro]]
+|-
+|Paulo Bento
+|-
+|[[Ponte Preta, Rio Grande do Sul|Ponte Preta]]
+|-
+|Quatro Irmãos
+|-
+|[[São Valentim]]
+|-
+|[[Severiano de Almeida]]
+|-
+|[[Três Arroios]]
+|-
+|[[Viadutos]]
+|-
+|rowspan=27|Frederico Westphalen
+|[[Alpestre, Rio Grande do Sul|Alpestre]]
+|-
+|[[Ametista do Sul]]
+|-
+|[[Caiçara]]
+|-
+|[[Constantina, Rio Grande do Sul|Constantina]]
+|-
+|[[Cristal do Sul]]
+|-
+|[[Dois Irmãos das Missões]]
+|-
+|[[Engenho Velho]]
+|-
+|[[Erval Seco]]
+|-
+|[[Frederico Westphalen]]
+|-
+|[[Gramado dos Loureiros]]
+|-
+|[[Iraí]]
+|-
+|[[Liberato Salzano]]
+|-
+|[[Nonoai]]
+|-
+|[[Novo Tiradentes]]
+|-
+|Novo Xingu
+|-
+|[[Palmitinho]]
+|-
+|[[Pinheirinho do Vale]]
+|-
+|[[Planalto, Rio Grande do Sul|Planalto]]
+|-
+|[[Rio dos Índios]]
+|-
+|[[Rodeio Bonito]]
+|-
+|[[Rondinha]]
+|-
+|[[Seberi]]
+|-
+|[[Taquaruçu do Sul]]
+|-
+|[[Três Palmeiras]]
+|-
+|[[Trindade do Sul]]
+|-
+|[[Vicente Dutra]]
+|-
+|[[Vista Alegre, Rio Grande do Sul|Vista Alegre]]
+|-
+|rowspan=15|Ijui
+|[[Ajuricaba]]
+|-
+|[[Alegria, Rio Grande do Sul|Alegria]]
+|-
+|[[Augusto Pestana]]
+|-
+|Bozano
+|-
+|[[Chiapetta]]
+|-
+|[[Condor, Rio Grande do Sul|Condor]]
+|-
+|[[Coronel Barros]]
+|-
+|[[Coronel Bicaco]]
+|-
+|[[Ijuí]]
+|-
+|[[Inhacorá]]
+|-
+|[[Nova Ramada]]
+|-
+|[[Panambi]]
+|-
+|[[Pejuçara]]
+|-
+|[[Santo Augusto]]
+|-
+|[[São Valério do Sul]]
+|-
+|rowspan=7|Nao-Me-Toque
+|[[Colorado, Rio Grande do Sul|Colorado]]
+|-
+|[[Lagoa dos Três Cantos]]
+|-
+|[[Não-Me-Toque]]
+|-
+|[[Selbach]]
+|-
+|[[Tapera, Rio Grande do Sul|Tapera]]
+|-
+|Tio Hugo
+|-
+|[[Victor Graeff]]
+|-
+|rowspan=26|Passo Fundo
+|[[Água Santa]]
+|-
+|[[Camargo, Rio Grande do Sul|Camargo]]
+|-
+|[[Casca, Rio Grande do Sul|Casca]]
+|-
+|[[Caseiros]]
+|-
+|[[Charrua, Rio Grande do Sul|Charrua]]
+|-
+|[[Ciríaco]]
+|-
+|[[Coxilha]]
+|-
+|[[David Canabarro]]
+|-
+|[[Ernestina, Rio Grande do Sul|Ernestina]]
+|-
+|[[Gentil, Rio Grande do Sul|Gentil]]
+|-
+|[[Ibiraiaras]]
+|-
+|[[Marau]]
+|-
+|[[Mato Castelhano]]
+|-
+|[[Muliterno]]
+|-
+|[[Nicolau Vergueiro]]
+|-
+|[[Passo Fundo]]
+|-
+|[[Pontão]]
+|-
+|[[Ronda Alta]]
+|-
+|Santa Cecília do Sul
+|-
+|[[Santo Antônio do Palma]]
+|-
+|[[São Domingos do Sul]]
+|-
+|[[Sertão, Rio Grande do Sul|Sertão]]
+|-
+|[[Tapejara, Rio Grande do Sul|Tapejara]]
+|-
+|[[Vanini (Brazil)|Vanini]]
+|-
+|[[Vila Lângaro]]
+|-
+|[[Vila Maria]]
+|-
+|rowspan=11|Sananduva
+|[[Barracão, Rio Grande do Sul|Barracão]]
+|-
+|[[Cacique Doble]]
+|-
+|[[Ibiaçá]]
+|-
+|[[Machadinho]]
+|-
+|[[Maximiliano de Almeida]]
+|-
+|[[Paim Filho]]
+|-
+|[[Sananduva]]
+|-
+|[[Santo Expedito do Sul]]
+|-
+|[[São João da Urtiga]]
+|-
+|[[São José do Ouro]]
+|-
+|[[Tupanci do Sul]]
+|-
+|rowspan=13|Santa Rosa
+|[[Alecrim]]
+|-
+|[[Cândido Godói]]
+|-
+|[[Independência, Rio Grande do Sul|Independência]]
+|-
+|[[Novo Machado]]
+|-
+|[[Porto Lucena]]
+|-
+|[[Porto Mauá]]
+|-
+|[[Porto Vera Cruz]]
+|-
+|[[Santa Rosa, Rio Grande do Sul|Santa Rosa]]
+|-
+|[[Santo Cristo, Rio Grande do Sul|Santo Cristo]]
+|-
+|[[São José do Inhacorá]]
+|-
+|[[Três de Maio]]
+|-
+|[[Tucunduva]]
+|-
+|[[Tuparendi]]
+|-
+|rowspan=16|Santo Angelo
+|[[Bossoroca]]
+|-
+|[[Catuípe]]
+|-
+|[[Dezesseis de Novembro]]
+|-
+|[[Entre-Ijuís]]
+|-
+|[[Eugênio de Castro]]
+|-
+|[[Giruá]]
+|-
+|[[Pirapó]]
+|-
+|Rolador
+|-
+|[[Santo Ângelo]]
+|-
+|[[Santo Antônio das Missões]]
+|-
+|[[São Luiz Gonzaga]]
+|-
+|[[São Miguel das Missões]]
+|-
+|[[São Nicolau, Rio Grande do Sul|São Nicolau]]
+|-
+|[[Senador Salgado Filho]]
+|-
+|[[Ubiretama]]
+|-
+|[[Vitória das Missões]]
+|-
+|rowspan=8|Soledade
+|[[Barros Cassal]]
+|-
+|[[Fontoura Xavier]]
+|-
+|[[Ibirapuitã]]
+|-
+|[[Lagoão]]
+|-
+|[[Mormaço]]
+|-
+|[[São José do Herval]]
+|-
+|[[Soledade]]
+|-
+|[[Tunas, Rio Grande do Sul|Tunas]]
+|-
+|rowspan=20|Tres Passos
+|[[Barra do Guarita]]
+|-
+|[[Boa Vista do Buricá]]
+|-
+|[[Bom Progresso]]
+|-
+|[[Braga, Rio Grande do Sul|Braga]]
+|-
+|[[Campo Novo]]
+|-
+|[[Crissiumal]]
+|-
+|[[Derrubadas]]
+|-
+|[[Doutor Maurício Cardoso]]
+|-
+|[[Esperança do Sul]]
+|-
+|[[Horizontina]]
+|-
+|[[Humaitá, Rio Grande do Sul|Humaitá]]
+|-
+|[[Miraguaí]]
+|-
+|[[Nova Candelária]]
+|-
+|[[Redentora]]
+|-
+|[[São Martinho, Rio Grande do Sul|São Martinho]]
+|-
+|[[Sede Nova]]
+|-
+|[[Tenente Portela]]
+|-
+|[[Tiradentes do Sul]]
+|-
+|[[Três Passos]]
+|-
+|[[Vista Gaúcha]]
+|-
+|rowspan=25|Sudeste Rio-Grandense
+|rowspan=3|Jaguarao
+|[[Arroio Grande]]
+|-
+|[[Herval]]
+|-
+|[[Jaguarão]]
+|-
+|rowspan=4|Litoral Lagunar
+|[[Chuí, Rio Grande do Sul|Chuí]]
+|-
+|[[Rio Grande, Rio Grande do Sul|Rio Grande]]
+|-
+|[[Santa Vitória do Palmar]]
+|-
+|[[São José do Norte]]
+|-
+|rowspan=10|Pelotas
+|Arroio do Padre
+|-
+|[[Canguçu]]
+|-
+|[[Capão do Leão]]
+|-
+|[[Cerrito, Rio Grande do Sul|Cerrito]]
+|-
+|[[Cristal, Rio Grande do Sul|Cristal]]
+|-
+|[[Morro Redondo]]
+|-
+|[[Pedro Osório]]
+|-
+|[[Pelotas]]
+|-
+|[[São Lourenço do Sul]]
+|-
+|[[Turuçu]]
+|-
+|rowspan=8|Serras de Sudeste
+|[[Amaral Ferrador]]
+|-
+|[[Caçapava do Sul]]
+|-
+|[[Candiota]]
+|-
+|[[Encruzilhada do Sul]]
+|-
+|Pedras Altas
+|-
+|[[Pinheiro Machado (town)|Pinheiro Machado]]
+|-
+|[[Piratini]]
+|-
+|[[Santana da Boa Vista]]
+|-
+|rowspan=19|Sudoeste Rio-Grandense
+|rowspan=4|Campanha Central
+|[[Rosário do Sul]]
+|-
+|Santa Margarida do Sul
+|-
+|[[Sant'Ana do Livramento]]
+|-
+|[[São Gabriel]]
+|-
+|rowspan=5|Campanha Meridional
+|[[Aceguá, Rio Grande do Sul|Aceguá]]
+|-
+|[[Bagé]]
+|-
+|[[Dom Pedrito]]
+|-
+|[[Hulha Negra]]
+|-
+|[[Lavras do Sul]]
+|-
+|rowspan=10|Campanha Ocidental
+|[[Alegrete]]
+|-
+|[[Barra do Quaraí]]
+|-
+|[[Garruchos, Rio Grande do Sul|Garruchos]]
+|-
+|[[Itaqui]]
+|-
+|[[Maçambara]]
+|-
+|[[Manoel Viana]]
+|-
+|[[São Borja]]
+|-
+|[[São Francisco de Assis, Rio Grande do Sul|São Francisco de Assis]]
+|-
+|[[Uruguaiana]]
+|-
+|[[Quaraí]]
+|}
+
+===[[Santa Catarina (state)|Santa Catarina (SC)]]===
+{|class="wikitable"
+!Mesoregion
+!Microregion
+!Municipality
+|-
+|rowspan=21|Grande Florianópolis
+|rowspan=9|Florianópolis
+|[[Antônio Carlos, Santa Catarina|Antônio Carlos]]
+|-
+|[[Biguaçu]]
+|-
+|[[Florianópolis]] (State Capital)
+|-
+|[[Governador Celso Ramos]]
+|-
+|[[Palhoça]]
+|-
+|[[Paulo Lopes]]
+|-
+|[[Santo Amaro da Imperatriz]]
+|-
+|[[São José, Santa Catarina|São José]]
+|-
+|[[São Pedro de Alcântara, Santa Catarina|São Pedro de Alcântara]]
+|-
+|rowspan=5|Tabuleiro
+|[[Águas Mornas]]
+|-
+|[[Alfredo Wagner]]
+|-
+|[[Anitápolis]]
+|-
+|[[Rancho Queimado]]
+|-
+|[[São Bonifácio]]
+|-
+|rowspan=7|Tijucas
+|[[Angelina, Santa Catarina|Angelina]]
+|-
+|[[Canelinha]]
+|-
+|[[Leoberto Leal]]
+|-
+|[[Major Gercino]]
+|-
+|[[Nova Trento]]
+|-
+|[[São João Batista, Santa Catarina|São João Batista]]
+|-
+|[[Tijucas]]
+|-
+|rowspan=26|Norte Catarinense
+|rowspan=12|Canoinhas
+|[[Bela Vista do Toldo]]
+|-
+|[[Canoinhas]]
+|-
+|[[Irineópolis]]
+|-
+|[[Itaiópolis]]
+|-
+|[[Mafra, Santa Catarina|Mafra]]
+|-
+|[[Major Vieira]]
+|-
+|[[Monte Castelo, Santa Catarina|Monte Castelo]]
+|-
+|[[Papanduva]]
+|-
+|[[Porto União]]
+|-
+|[[Santa Terezinha]]
+|-
+|[[Timbó Grande]]
+|-
+|[[Três Barras]]
+|-
+|rowspan=11|Joinville
+|[[Araquari]]
+|-
+|[[Balneário Barra do Sul]]
+|-
+|[[Corupá]]
+|-
+|[[Garuva]]
+|-
+|[[Guaramirim]]
+|-
+|[[Itapoá]]
+|-
+|[[Jaraguá do Sul]]
+|-
+|[[Joinville]]
+|-
+|[[Massaranduba, Santa Catarina|Massaranduba]]
+|-
+|[[São Francisco do Sul]]
+|-
+|[[Schroeder, Santa Catarina|Schroeder]]
+|-
+|rowspan=3|Sao Bento do Sul
+|[[Campo Alegre, Santa Catarina|Campo Alegre]]
+|-
+|[[Rio Negrinho]]
+|-
+|[[São Bento do Sul]]
+|-
+|rowspan=118|Oeste Catarinense
+|rowspan=38|Chapeco
+|[[Águas de Chapecó]]
+|-
+|[[Águas Frias]]
+|-
+|[[Bom Jesus do Oeste]]
+|-
+|[[Caibi]]
+|-
+|[[Campo Erê]]
+|-
+|[[Caxambu do Sul]]
+|-
+|[[Chapecó]]
+|-
+|[[Cordilheira Alta]]
+|-
+|[[Coronel Freitas]]
+|-
+|[[Cunha Porã]]
+|-
+|[[Cunhataí]]
+|-
+|[[Flor do Sertão]]
+|-
+|[[Formosa do Sul]]
+|-
+|[[Guatambú]]
+|-
+|[[Iraceminha]]
+|-
+|[[Irati, Santa Catarina|Irati]]
+|-
+|[[Jardinópolis, Santa Catarina|Jardinópolis]]
+|-
+|[[Maravilha, Santa Catarina|Maravilha]]
+|-
+|[[Modelo, Santa Catarina|Modelo]]
+|-
+|[[Nova Erechim]]
+|-
+|[[Nova Itaberaba]]
+|-
+|[[Novo Horizonte, Santa Catarina|Novo Horizonte]]
+|-
+|[[Palmitos]]
+|-
+|[[Pinhalzinho, Santa Catarina|Pinhalzinho]]
+|-
+|[[Planalto Alegre]]
+|-
+|[[Quilombo, Santa Catarina|Quilombo]]
+|-
+|[[Saltinho, Santa Catarina|Saltinho]]
+|-
+|[[Santa Terezinha do Progresso]]
+|-
+|[[Santiago do Sul]]
+|-
+|[[São Bernardino]]
+|-
+|[[São Carlos, Santa Catarina|São Carlos]]
+|-
+|[[São Lourenço do Oeste]]
+|-
+|[[São Miguel da Boa Vista]]
+|-
+|[[Saudades, Santa Catarina|Saudades]]
+|-
+|[[Serra Alta]]
+|-
+|[[Sul Brasil]]
+|-
+|[[Tigrinhos]]
+|-
+|[[União do Oeste]]
+|-
+|rowspan=15|Concordia
+|[[Alto Bela Vista]]
+|-
+|[[Arabutã]]
+|-
+|[[Arvoredo]]
+|-
+|[[Concórdia]]
+|-
+|[[Ipira]]
+|-
+|[[Ipumirim]]
+|-
+|[[Irani, Santa Catarina|Irani]]
+|-
+|[[Itá, Santa Catarina|Itá]]
+|-
+|[[Lindóia do Sul]]
+|-
+|[[Paial]]
+|-
+|[[Peritiba]]
+|-
+|[[Piratuba]]
+|-
+|[[Presidente Castello Branco]]
+|-
+|[[Seara]]
+|-
+|[[Xavantina]]
+|-
+|rowspan=27|Joacaba
+|[[Água Doce]]
+|-
+|[[Arroio Trinta]]
+|-
+|[[Caçador]]
+|-
+|[[Calmon]]
+|-
+|[[Capinzal]]
+|-
+|[[Catanduvas, Santa Catarina|Catanduvas]]
+|-
+|[[Erval Velho]]
+|-
+|[[Fraiburgo]]
+|-
+|[[Herval d'Oeste]]
+|-
+|[[Ibiam]]
+|-
+|[[Ibicaré]]
+|-
+|[[Iomerê]]
+|-
+|[[Jaborá]]
+|-
+|[[Joaçaba]]
+|-
+|[[Lacerdópolis]]
+|-
+|[[Lebon Régis]]
+|-
+|[[Luzerna]]
+|-
+|[[Macieira]]
+|-
+|[[Matos Costa]]
+|-
+|[[Ouro]]
+|-
+|[[Pinheiro Preto]]
+|-
+|[[Rio das Antas]]
+|-
+|[[Salto Veloso]]
+|-
+|[[Tangará, Santa Catarina|Tangará]]
+|-
+|[[Treze Tílias]]
+|-
+|[[Vargem Bonita]]
+|-
+|[[Videira]]
+|-
+|rowspan=21|Sao Miguel d'Oeste
+|[[Anchieta, Santa Catarina|Anchieta]]
+|-
+|[[Bandeirante, Santa Catarina|Bandeirante]]
+|-
+|[[Barra Bonita, Santa Catarina|Barra Bonita]]
+|-
+|[[Belmonte, Santa Catarina|Belmonte]]
+|-
+|[[Descanso, Santa Catarina|Descanso]]
+|-
+|[[Dionísio Cerqueira]]
+|-
+|[[Guaraciaba, Santa Catarina|Guaraciaba]]
+|-
+|[[Guarujá do Sul]]
+|-
+|[[Iporã do Oeste]]
+|-
+|[[Itapiranga, Santa Catarina|Itapiranga]]
+|-
+|[[Mondaí]]
+|-
+|[[Palma Sola, Santa Catarina|Palma Sola]]
+|-
+|[[Paraíso, Santa Catarina|Paraíso]]
+|-
+|[[Princesa, Santa Catarina|Princesa]]
+|-
+|[[Riqueza]]
+|-
+|[[Romelândia]]
+|-
+|[[Santa Helena, Santa Catarina|Santa Helena]]
+|-
+|[[São João do Oeste]]
+|-
+|[[São José do Cedro]]
+|-
+|[[São Miguel do Oeste]]
+|-
+|[[Tunápolis]]
+|-
+|rowspan=17|Xanxere
+|[[Abelardo Luz]]
+|-
+|[[Bom Jesus, Santa Catarina|Bom Jesus]]
+|-
+|[[Coronel Martins]]
+|-
+|[[Entre Rios, Santa Catarina|Entre Rios]]
+|-
+|[[Faxinal dos Guedes]]
+|-
+|[[Galvão]]
+|-
+|[[Ipuaçu]]
+|-
+|[[Jupiá]]
+|-
+|[[Lajeado Grande]]
+|-
+|[[Marema, Santa Catarina|Marema]]
+|-
+|[[Ouro Verde, Santa Catarina|Ouro Verde]]
+|-
+|[[Passos Maia]]
+|-
+|[[Ponte Serrada]]
+|-
+|[[São Domingos, Santa Catarina|São Domingos]]
+|-
+|[[Vargeão]]
+|-
+|[[Xanxerê]]
+|-
+|[[Xaxim]]
+|-
+|rowspan=30|Serrana
+|rowspan=18|Campos de Lages
+|[[Anita Garibaldi, Santa Catarina|Anita Garibaldi]]
+|-
+|[[Bocaina do Sul]]
+|-
+|[[Bom Jardim da Serra]]
+|-
+|[[Bom Retiro, Santa Catarina|Bom Retiro]]
+|-
+|[[Campo Belo do Sul]]
+|-
+|[[Capão Alto]]
+|-
+|[[Celso Ramos]]
+|-
+|[[Cerro Negro, Santa Catarina|Cerro Negro]]
+|-
+|[[Correia Pinto]]
+|-
+|[[Lages]]
+|-
+|[[Otacílio Costa]]
+|-
+|[[Painel]]
+|-
+|[[Palmeira, Santa Catarina|Palmeira]]
+|-
+|[[Rio Rufino]]
+|-
+|[[São Joaquim]]
+|-
+|[[São José do Cerrito]]
+|-
+|[[Urubici]]
+|-
+|[[Urupema]]
+|-
+|rowspan=12|Curitibanos
+|[[Abdon Batista]]
+|-
+|[[Brunópolis]]
+|-
+|[[Campos Novos]]
+|-
+|[[Curitibanos]]
+|-
+|[[Frei Rogério]]
+|-
+|[[Monte Carlo, Santa Catarina|Monte Carlo]]
+|-
+|[[Ponte Alta]]
+|-
+|[[Ponte Alta do Norte]]
+|-
+|[[Santa Cecília]]
+|-
+|[[São Cristóvão do Sul]]
+|-
+|[[Vargem, Santa Catarina|Vargem]]
+|-
+|[[Zortéa]]
+|-
+|rowspan=44|Sul Catarinense
+|rowspan=15|Ararangua
+|[[Araranguá]]
+|-
+|[[Balneário Arroio do Silva]]
+|-
+|[[Balneário Gaivota]]
+|-
+|[[Ermo, Santa Catarina|Ermo]]
+|-
+|[[Jacinto Machado]]
+|-
+|[[Maracajá]]
+|-
+|[[Meleiro]]
+|-
+|[[Morro Grande]]
+|-
+|[[Passo de Torres]]
+|-
+|[[Praia Grande, Santa Catarina|Praia Grande]]
+|-
+|[[Santa Rosa do Sul]]
+|-
+|[[São João do Sul]]
+|-
+|[[Sombrio]]
+|-
+|[[Timbé do Sul]]
+|-
+|[[Turvo]]
+|-
+|rowspan=10|Criciuma
+|[[Cocal do Sul]]
+|-
+|[[Criciúma]]
+|-
+|[[Forquilhinha]]
+|-
+|[[Içara]]
+|-
+|[[Lauro Muller, Santa Catarina|Lauro Müller]]
+|-
+|[[Morro da Fumaça]]
+|-
+|[[Nova Veneza, Santa Catarina|Nova Veneza]]
+|-
+|[[Siderópolis]]
+|-
+|[[Treviso, Santa Catarina|Treviso]]
+|-
+|[[Urussanga]]
+|-
+|rowspan=19|Tubarao
+|[[Armazém]]
+|-
+|[[Braço do Norte]]
+|-
+|[[Capivari de Baixo]]
+|-
+|[[Garopaba]]
+|-
+|[[Grão Pará]]
+|-
+|[[Gravatal]]
+|-
+|[[Imaruí]]
+|-
+|[[Imbituba]]
+|-
+|[[Jaguaruna]]
+|-
+|[[Laguna, Santa Catarina|Laguna]]
+|-
+|[[Orleans, Santa Catarina|Orleans]]
+|-
+|Pedras Grandes
+|-
+|[[Rio Fortuna]]
+|-
+|[[Sangão]]
+|-
+|[[Santa Rosa de Lima, Santa Catarina|Santa Rosa de Lima]]
+|-
+|[[São Ludgero]]
+|-
+|[[São Martinho, Santa Catarina|São Martinho]]
+|-
+|[[Treze de Maio]]
+|-
+|[[Tubarão]]
+|-
+|rowspan=54|Vale do Itajai
+|rowspan=15|Blumenau
+|[[Apiúna]]
+|-
+|[[Ascurra]]
+|-
+|[[Benedito Novo]]
+|-
+|[[Blumenau]]
+|-
+|[[Botuverá]]
+|-
+|[[Brusque, Santa Catarina|Brusque]]
+|-
+|[[Doutor Pedrinho]]
+|-
+|[[Gaspar, Santa Catarina|Gaspar]]
+|-
+|[[Guabiruba]]
+|-
+|[[Indaial]]
+|-
+|[[Luiz Alves]]
+|-
+|[[Pomerode]]
+|-
+|[[Rio dos Cedros]]
+|-
+|[[Rodeio]]
+|-
+|[[Timbó]]
+|-
+|rowspan=12|Itajai
+|[[Balneário Camboriú]]
+|-
+|[[Barra Velha]]
+|-
+|[[Bombinhas]]
+|-
+|[[Camboriú]]
+|-
+|[[Ilhota]]
+|-
+|[[Itajaí]]
+|-
+|[[Itapema]]
+|-
+|[[Navegantes]]
+|-
+|[[Penha, Santa Catarina|Penha]]
+|-
+|[[Balneário Piçarras]]
+|-
+|[[Porto Belo]]
+|-
+|[[São João do Itaperiú]]
+|-
+|rowspan=7|Ituporanga
+|[[Agrolândia]]
+|-
+|[[Atalanta, Santa Catarina|Atalanta]]
+|-
+|[[Chapadão do Lageado]]
+|-
+|[[Imbuia, Santa Catarina|Imbuia]]
+|-
+|[[Ituporanga]]
+|-
+|[[Petrolândia]]
+|-
+|[[Vidal Ramos]]
+|-
+|rowspan=20|Rio do Sul
+|[[Agronômica]]
+|-
+|[[Aurora, Santa Catarina|Aurora]]
+|-
+|[[Braço do Trombudo]]
+|-
+|[[Dona Emma]]
+|-
+|[[Ibirama]]
+|-
+|[[José Boiteux]]
+|-
+|[[Laurentino]]
+|-
+|[[Lontras]]
+|-
+|[[Mirim Doce]]
+|-
+|[[Pouso Redondo]]
+|-
+|[[Presidente Getúlio]]
+|-
+|[[Presidente Nereu]]
+|-
+|[[Rio do Campo]]
+|-
+|[[Rio do Oeste]]
+|-
+|[[Rio do Sul]]
+|-
+|[[Salete]]
+|-
+|[[Taió]]
+|-
+|[[Trombudo Central]]
+|-
+|[[Vitor Meireles]]
+|-
+|[[Witmarsum, Santa Catarina|Witmarsum]]
+|}
+
+==External links==
+*[[Municipalities of Brazil]]
+
+[[Category:Lists of municipalities in Brazil]]
+
+[[bg:Списък на общините в Бразилия]]
