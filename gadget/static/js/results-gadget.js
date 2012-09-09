@@ -45,7 +45,7 @@ function loadStrings( s ) {
 }
 
 function setLanguage() {
-	var defaultLanguage = 'fr';
+	var defaultLanguage = 'pt-br';
 	var supportedLanguages = {
 		en: true,
 		es: true,
@@ -89,5 +89,5 @@ if( params.randomize ) opt.writeScript( 'js/names-1000.js', opt.nocache );
 
 opt.writeScript( 'js/polygonzo.js', opt.nocache );
 opt.writeScript( 'js/scriptino.js', opt.nocache );
-opt.writeScript( 'js/elections-fr.js', opt.nocache );
-opt.writeScript( 'js/results-map-fr.js', opt.nocache );
+opt.writeScript( 'js/elections-br.js', opt.nocache );
+opt.writeScript( 'js/results-map-br.js', opt.nocache );
