@@ -1,5 +1,5 @@
 application: election-maps
-version: br2012
+version: br2012-test
 runtime: python27
 threadsafe: no
 api_version: 1
