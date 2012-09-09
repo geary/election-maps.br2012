@@ -533,7 +533,7 @@ class Database:
 
 	def makeFeatureCollection( self,
 		table, boxGeom, polyGeom,
-		geoid, name, idCol, nameCol, extraCol, where, fixid=None
+		geoid, name, idCol, nameCol, extraCol, where='true', fixid=None
 	):
 		print 'makeFeatureCollection'
 		if fixid is None: geoidfix = geoid
