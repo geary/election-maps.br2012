@@ -798,8 +798,9 @@ function nationalEnabled() {
 	function currentGeos() {
 		var json = geoJSON[current.geoid];
 		var jsonBR = geoJSON.BR;
+		jsonBR.state.draw = ! json.muni;
 		return json.muni ?
-				[ json.muni, json.minor, json.meso, json.state ] :
+				[ json.muni, json.minor, json.meso, json.state, jsonBR.state ] :
 				[ json.state, json.region, json.nation ];
 	}
 	
