@@ -6,3 +6,4 @@ scripts/parsetab\.py
 scripts/private\.py$
 shapes/private/
 shapes/shp/private-
+.git
