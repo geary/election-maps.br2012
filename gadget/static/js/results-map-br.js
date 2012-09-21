@@ -22,7 +22,6 @@ if( match ) {
 	params.state = match[1];
 }
 var $body = $('body');
-$body.addClass( 'source-' + params.source );
 
 // Hide Google Elections logo in IE <= 7
 if( $.browser.msie ) {
@@ -279,20 +278,13 @@ document.write(
 		'#centerlabel, #centerlabel * { font-size:12px; xfont-weight:bold; }',
 		'#spinner { z-index:999999; position:absolute; left:', Math.floor( ww/2 - 64 ), 'px; top:', Math.floor( wh/2 - 20 ), 'px; }',
 		'#error { z-index:999999; position:absolute; left:4px; bottom:4px; border:1px solid #888; background-color:#FFCCCC; font-weight:bold; padding:6px; }',
-		'a.logo { position:absolute; bottom:24px; width:48px; height:48px;}',
+		'.logo { position:absolute; bottom:24px; height: 58px; }', // height must be the largest of all logo heights.
+		'#tse-logo { right:64px; width: 42px; background: url(', imgUrl('tse-logo-42x58.png'), ') no-repeat; }',
+		'#google-logo { right:4px; width: 48px; background: url(', imgUrl('google-politics-48.png'), ') no-repeat; }',
+		'#copyright { position:absolute; font-family: Arial,sans-serif; font-size:13px; color:#444; text-align:right; right:2px; bottom:22px; }',
 		'#gop-logo { right:64px; width:48px; background: url(', imgUrl('gop-nv-48.png'), ') no-repeat; }',
-		'body.source-ap #gop-logo { display:none; }',
-		'#ap-logo { right:64px; width:41px; background: url(', imgUrl('ap-logo-48x41.png'), ') no-repeat; }',
-		'#articque-logo { right:64px; width:37px; background: url(', imgUrl('articque-logo-37x48.png'), ') no-repeat; display:none; }',
-		'#articque-attrib { display:none; position:absolute; font-family: Arial,sans-serif; font-size:13px; color:#444; text-align:right; right:2px; bottom:22px; }',
-		'body.source-gop #ap-logo, body.source-articque #ap-logo { display:none; }',
-		'body.source-articque #articque-logo, body.source-articque #articque-attrib { display:block; }',
-		'#google-logo { right:4px; background: url(', imgUrl('google-politics-48.png'), ') no-repeat; }',
-		'body.source-articque #google-logo, body.source-articque #articque-logo { bottom:38px; }',
-		'#gop-logo { right:64px; width:48px; background: url(', imgUrl('gop-nv-48.png'), ') no-repeat; }',
-		'body.hidelogo #gop-logo, body.hidelogo #ap-logo, body.hidelogo #articque-logo  { right:4px; }',
-		'body.hidelogo #google-logo { display:none; }',
-		'body.ie7 #gop-logo, body.ie7 #ap-logo, body.ie7 #articque-logo { right:4px; }',
+		'body.hidelogo .logo { display:none; }',
+		'body.ie7 #tse-logo { right:4px; }',
 		'body.ie7 #google-logo, body.ie7 #linkToMap { display:none; }',
 	'</style>'
 );
@@ -327,18 +319,11 @@ document.write(
 	'</div>',
 	'<div id="maptip">',
 	'</div>',
-	//'<a id="ap-logo" class="logo" target="_blank" href="http://www.youtube.com/apelections" title="', 'dataAttribTitle'.T(), '">',
-	//'</a>',
-	//'<a id="gop-logo" class="logo" target="_blank" href="http://www.nvgopcaucus.com/" title="', 'dataAttribTitleGOP'.T(), '">',
-	//'</a>',
-	'<a id="articque-logo" class="logo" target="_blank" href="http://www.articque.com/" title="', 'articqueCopyright'.T(), '">',
+	'<a id="tse-logo" class="logo" target="_blank" href="http://www.tse.jus.br/" title="', 'tseCopyright'.T(), '">',
 	'</a>',
 	'<a id="google-logo" class="logo" target="_blank" href="http://www.google.br/elections/ed/br" title="', 'googlePoliticsTitle'.T(), '">',
 	'</a>',
 	'<div id="error" style="display:none;">',
-	'</div>',
-	'<div id="articque-attrib">',
-		'articqueCopyright'.T(),
 	'</div>',
 	'<div id="spinner">',
 		'<img border="0" style="width:128px; height:128px;" src="', imgUrl('spinner-124.gif'), '" />',
@@ -750,7 +735,7 @@ function nationalEnabled() {
 	// TODO: refactor with duplicate code in geoReady() and resizeViewNow()
 	var mapWidth = ww - sidebarWidth;
 	$body
-		.toggleClass( 'hidelogo', mapWidth < 140 )
+		.toggleClass( 'hidelogo', mapWidth < 340 )
 		.toggleClass( 'narrow', ww < 770 );
 
 	var map;
@@ -1584,8 +1569,7 @@ function nationalEnabled() {
 			'<div id="sidebar">',
 				'<div class="sidebar-header">',
 					'<div id="election-title" class="title-text">',
-						//geo.nation ? geo.nation.name : geo.commune.name,
-						geo.name,
+						'br'.T(),
 					'</div>',
 					'<div id="election-date-row" class="" style="margin-bottom:8px; position:relative;">',
 						'<div id="election-date" class="subtitle-text" style="float:left;">',
@@ -1604,7 +1588,7 @@ function nationalEnabled() {
 				'<div class="scroller" id="sidebar-scroll">',
 					resultsScrollingHTML,
 					'<div id="sidebar-attrib" class="faint-text" style="padding:4px 8px 0; border-top:1px solid #C2C2C2;">',
-						'frSource'.T(),
+						'brSource'.T(),
 					'</div>',
 				'</div>',
 			'</div>'
@@ -2109,17 +2093,6 @@ function nationalEnabled() {
 		}
 	}
 	
-	//function setContest( contest ) {
-	//	$body.removeClass( 'source-' + params.source );
-	//	delete params.source;
-	//	current.geoid = 'FR';
-	//	current.national = true;
-	//	delete current.party;
-	//	$body.addClass( 'source-' + params.source );
-	//	setElection();
-	//	loadView();
-	//}
-	
 	//function setRound( round ) {
 	//	params.round = round;
 	//	setElection();
@@ -2188,7 +2161,7 @@ function nationalEnabled() {
 		wh = $window.height();
 		$body
 			.css({ width: ww, height: wh })
-			.toggleClass( 'hidelogo', mapWidth < 140 )
+			.toggleClass( 'hidelogo', mapWidth < 340 )
 			.toggleClass( 'narrow', ww < 770 );
 		
 		$('#spinner').css({
