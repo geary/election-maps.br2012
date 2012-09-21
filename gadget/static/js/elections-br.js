@@ -2,7 +2,7 @@
 // By Michael Geary - http://mg.to/
 // See UNLICENSE or http://unlicense.org/ for public domain notice.
 
-var candidatesFR2012 = [
+var candidates2012 = [
 	// Candidate order must match the candidate-photos image for this election
 	{ color: '#33FF00', id: '11', firstName: 'Renly', lastName: 'Baratheon', fullName: 'Renly Baratheon' },
 	{ color: '#169E28', id: '12', firstName: 'Robert', lastName: 'Baratheon', fullName: 'Robert Baratheon' },
@@ -14,7 +14,7 @@ var candidatesFR2012 = [
 	{ color: '#FF0000', id: '17', firstName: 'Stannis', lastName: 'Baratheon', fullName: 'Stannis Baratheon' },
 ];
 
-var partiesFR2012 = [
+var parties2012 = [
 	// Party order must match the party-logos image for this election
 	{ color: '#4DC706', id:  'PRB', num: '10', name: 'P. Republicano Brasileiro' },
 	{ color: '#169E28', id:   'PP', num: '11', name: 'P. Progressista' },
@@ -53,8 +53,8 @@ var elections = {
 		date: '2012-10-22',
 		tzHour: -3,
 		photos: true,
-		candidates: candidatesFR2012,
-		parties: candidatesFR2012,
+		candidates: candidates2012,
+		parties: candidates2012,
 		electionids: {
 			'BR': 2548,
 			'001': 2549,

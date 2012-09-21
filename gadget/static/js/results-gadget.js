@@ -11,7 +11,6 @@
 function parseQuery( query ) {
 	if( query == null ) return {};
 	if( typeof query != 'string' ) return query;
-	if( query.charAt(0) == '{') return eval('(' + query + ')');
 
 	var params = {};
 	if( query ) {

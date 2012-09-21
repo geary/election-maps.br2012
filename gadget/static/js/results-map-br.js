@@ -28,8 +28,8 @@ if( $.browser.msie ) {
 		$body.addClass( 'ie7' );
 }
 
-candidatesFR2012.index('id');
-partiesFR2012.index('id');
+candidates2012.index('id');
+parties2012.index('id');
 
 opt.randomized = params.randomize || params.zero;
 
@@ -151,10 +151,10 @@ function loadCandidatePatterns( callback ) {
 	function loadPattern( candidate ) {
 		++loading;
 		var pattern = candidate.pattern = new Image();
-		pattern.src = imgUrl( 'pattern-' + candidate.id + '.png' );
 		pattern.onload = function() {
 			if( --loading == 0 ) callback && callback();
 		};
+		pattern.src = imgUrl( 'pattern-' + candidate.id + '.png' );
 	}
 }
 
@@ -770,6 +770,7 @@ function nationalEnabled() {
 		// TODO: refactor with duplicate code in resizeViewNow()
 		setLegend();
 		resizeViewOnly();
+		colorize();
 		if( geoMoveNext ) {
 			geoMoveNext = false;
 			moveToGeo();
@@ -1056,7 +1057,6 @@ function nationalEnabled() {
 	
 	function polys() {
 		outlineFeature( null );
-		colorize();
 		//overlays.clear();
 		// Let map display before drawing polys
 		//var pt = polyTimeNext;
@@ -1143,7 +1143,7 @@ function nationalEnabled() {
 				if( row ) {
 					for( var iCol = 0;  iCol < colID;  iCol += colIncr )
 						total += row[iCol];
-					value = row[iColParty];
+					value = row[iCol];
 					var fract = row.fract = total ? value / total : 0
 					if( fract ) {
 						minFract = Math.min( minFract, fract );
@@ -1743,6 +1743,8 @@ function nationalEnabled() {
 	
 	function ordinal( n ) {
 		switch( params.hl ) {
+			case 'br':
+				var suffix = 'o';
 			case 'fr':
 				var suffix = ( n == 1 ? 're' : 'e' );
 				break;
@@ -2568,8 +2570,13 @@ function nationalEnabled() {
 		});
 	
 	$window
-		.bind( 'load', loadView )
 		.bind( 'resize', resizeView );
+
+        $(document).ready(function() {
+            console.log('initial load ', current);
+            loadView();
+            console.log('loaded: ', current);
+        });
 	
 	getScript( S(
 		location.protocol == 'https:' ? 'https://ssl' : 'http://www',
@@ -2578,5 +2585,14 @@ function nationalEnabled() {
 	) );
 	
 	analytics( 'map', 'load' );
+	
+	$('#error').ajaxError(function(evt, xhr, settings, error) {
+		console.log('Ajax error: ', error, xhr);
+		$(this).append(S('<div> Ajax error: ', error, '</div>'));
+		if (debug) {
+			$(this).show();
+			throw error;
+        }
+	});
 	
 })( jQuery );
