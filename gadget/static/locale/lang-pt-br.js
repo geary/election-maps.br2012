@@ -123,7 +123,7 @@ loadStrings({
 "titleViewUSA": "Visualizar resultados por estado", 
 "topbarSubtitle": "1.144 para ganhar a indica\u00e7\u00e3o", 
 "topbarTitle": "Contagem de delegados do GOP", 
-"viewNational-br": "&laquo; Retornar ao mapa geral da Brazil", 
+"viewNational-br": "&laquo; Retornar ao mapa geral do Brasil", 
 "viewNational-fr": "&laquo; Retornar ao mapa geral da Fran\u00e7a", 
 "viewNational-us": "&laquo; Voltar ao mapa geral dos EUA", 
 "viewUSA": "&laquo; Voltar ao mapa geral dos EUA", 
