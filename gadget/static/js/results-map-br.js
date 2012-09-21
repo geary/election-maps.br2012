@@ -10,6 +10,8 @@ var times = {
 // Default params
 var defaultElectionKey = '2012';
 params.year = params.year || '2012';
+params.contest = params.contest || 'mayor';
+params.round = params.round || '1';
 
 params.source = '';
 
@@ -37,7 +39,7 @@ var electionKey, election;
 setElection();
 
 function setElection() {
-	electionKey = params.year;
+	electionKey = [ params.year, params.contest, params.round ].join( '-' );
 	election = elections[electionKey] || elections[defaultElectionKey];
 }
 
@@ -801,8 +803,8 @@ function nationalEnabled() {
 		var jsonBR = geoJSON.BR;
 		jsonBR.state.draw = ! json.muni;
 		return json.muni ?
-				[ json.muni, json.minor, json.meso, json.state, jsonBR.state ] :
-				[ json.state, json.region, json.nation ];
+				[ json.muni, json.state, jsonBR.state ] :
+				[ json.state, json.nation ];
 	}
 	
 	function moveToGeo() {
@@ -1071,13 +1073,10 @@ function nationalEnabled() {
 		var json = geoJSON[current.geoid];
 		if( json.muni ) {
 			colorVotes( json.muni, '#666666', 1, 1 );
-			colorSimple( json.minor, '#FFFFFF', '#444444', 1, 1.5 );
-			colorSimple( json.meso, '#FFFFFF', '#444444', 1, 1.75 );
 			colorSimple( json.state, '#FFFFFF', '#444444', 1, 2 );
 		}
 		else {
 			colorVotes( json.state, '#666666', 1, 1 );
-			colorSimple( json.region, '#FFFFFF', '#444444', 1, 1.5 );
 			colorSimple( json.nation, '#FFFFFF', '#222222', 1, 2 );
 		}
 	}
