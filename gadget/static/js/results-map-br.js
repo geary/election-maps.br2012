@@ -532,6 +532,10 @@ function nationalEnabled() {
 			//features.by['986'].click = false;  // Wallis et Futuna
 			//features.by['987'].click = false;  // French Polynesia
 			//addLivingAbroad( features );
+			var by = json.capitals.byState = {};
+			json.capitals.features.forEach(function(capital) {
+				by[capital.abbrstate] = capital;
+			});
 		}
 	}
 	
@@ -789,7 +793,7 @@ function nationalEnabled() {
 		jsonBR.state.draw = ! json.muni;
 		return json.muni ?
 				[ json.muni, json.state, jsonBR.state ] :
-				[ json.state, json.nation ];
+				[ json.capitals, json.state, json.nation ];
 	}
 	
 	function moveToGeo() {
@@ -1061,7 +1065,8 @@ function nationalEnabled() {
 			colorSimple( json.state, '#FFFFFF', '#444444', 1, 2 );
 		}
 		else {
-			colorVotes( json.state, '#666666', 1, 1 );
+			colorVotes( json.capitals, '#666666', 1, 1 );
+			colorSimple( json.state, '#666666', 1, 1 );
 			colorSimple( json.nation, '#FFFFFF', '#222222', 1, 2 );
 		}
 	}
@@ -1315,12 +1320,19 @@ function nationalEnabled() {
 	// TODO: refactor this into PolyGonzo
 	var outlineOverlay;
 	function outlineFeature( where ) {
+		window.console.trace();
+		window.console.log("outlineOverlay", where);
 		if( outlineOverlay )
 			outlineOverlay.setMap( null );
 		outlineOverlay = null;
 		if( !( where && where.feature ) ) return;
+		var feat = where.feature;
+		// Delegate to capital if state is selected.
+		if (current.national && where.geo.table == 'br.state') {
+			feat = geoJSON.BR.capitals.byState[feat.id] || feat;
+		}
 		var faint = ( where.geo.draw === false );
-		var feat = $.extend( {}, where.feature, {
+		feat = $.extend( {}, feat, {
 			fillColor: '#000000',
 			fillOpacity: 0,
 			strokeWidth: playCounties() ? 5 : opt.counties ? 1.5 : 2.5,
@@ -1754,10 +1766,15 @@ function nationalEnabled() {
 	function formatTip( where ) {
 		var feature = where && where.feature;
 		if( ! feature ) return null;
-		var geoid = where.feature.id;
+		var geo = where.geo;
+		if (current.national && geo.table == 'br.state') {
+			feature = geoJSON.BR.capitals.byState[feature.id] || feature;
+			geo = geoJSON.BR.capitals;
+		}
+		var geoid = feature.id;
 		var future = false;
-		var geo = where.geo, results = geoResults(geo), col = results && results.colsById;
-		var row = geo.draw !== false  &&  featureResults( results, where.feature );
+		var results = geoResults(geo), col = results && results.colsById;
+		var row = geo.draw !== false  &&  featureResults( results, feature );
 		var top = [];
 		if( row  &&  col  &&  mayHaveResults(row,col) ) {
 			row.geoid = geoid;
@@ -2438,7 +2455,7 @@ function nationalEnabled() {
 		var rowsByID = results.rowsByID = {};
 		var rows = results.rows;
 		var geoid = geo.id;
-		var winners = current.geoid == 'FRL' && election.winners;
+		var winners = !current.national && election.winners;
 		if( winners  &&  ! results.didWinners ) {
 			results.didWinners = true;
 			for( var id in winners ) {

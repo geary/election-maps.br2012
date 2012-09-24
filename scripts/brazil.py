@@ -31,3 +31,33 @@ STATE_ABBR_TO_ID = {
 }
 
 STATE_ID_TO_ABBR = { id: abbr for abbr, id in STATE_ABBR_TO_ID.items() }
+
+CAPITALS = {
+	'AC': 'Rio Branco',
+	'AL': 'Maceió',
+	'AM': 'Manaus',
+	'AP': 'Macapá',
+	'BA': 'Salvador',
+	'CE': 'Fortaleza',
+	'DF': 'Brasília',
+	'ES': 'Vitória',
+	'GO': 'Goiânia',
+	'MA': 'São Luís',
+	'MG': 'Belo Horizonte',
+	'MS': 'Campo Grande',
+	'MT': 'Cuiabá',
+	'PA': 'Belém',
+	'PB': 'João Pessoa',
+	'PE': 'Recife',
+	'PI': 'Teresina',
+	'PR': 'Curitiba',
+	'RJ': 'Rio de Janeiro',
+	'RN': 'Natal',
+	'RO': 'Porto Velho',
+	'RR': 'Boa Vista',
+	'RS': 'Porto Alegre',
+	'SC': 'Florianópolis',
+	'SE': 'Aracaju',
+	'SP': 'São Paulo',
+	'TO': 'Palmas',
+}
