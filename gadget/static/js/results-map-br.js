@@ -532,10 +532,6 @@ function nationalEnabled() {
 			//features.by['986'].click = false;  // Wallis et Futuna
 			//features.by['987'].click = false;  // French Polynesia
 			//addLivingAbroad( features );
-			var by = json.capitals.byState = {};
-			json.capitals.features.forEach(function(capital) {
-				by[capital.abbrstate] = capital;
-			});
 		}
 	}
 	
@@ -793,7 +789,7 @@ function nationalEnabled() {
 		jsonBR.state.draw = ! json.muni;
 		return json.muni ?
 				[ json.muni, json.state, jsonBR.state ] :
-				[ json.capitals, json.state, json.nation ];
+				[ json.state, json.nation ];
 	}
 	
 	function moveToGeo() {
@@ -1065,8 +1061,7 @@ function nationalEnabled() {
 			colorSimple( json.state, '#FFFFFF', '#444444', 1, 2 );
 		}
 		else {
-			colorVotes( json.capitals, '#666666', 1, 1 );
-			colorSimple( json.state, '#666666', 1, 1 );
+			colorVotes( json.state, '#666666', 1, 1 );
 			colorSimple( json.nation, '#FFFFFF', '#222222', 1, 2 );
 		}
 	}
@@ -1327,10 +1322,6 @@ function nationalEnabled() {
 		outlineOverlay = null;
 		if( !( where && where.feature ) ) return;
 		var feat = where.feature;
-		// Delegate to capital if state is selected.
-		if (current.national && where.geo.table == 'br.state') {
-			feat = geoJSON.BR.capitals.byState[feat.id] || feat;
-		}
 		var faint = ( where.geo.draw === false );
 		feat = $.extend( {}, feat, {
 			fillColor: '#000000',
@@ -1767,10 +1758,6 @@ function nationalEnabled() {
 		var feature = where && where.feature;
 		if( ! feature ) return null;
 		var geo = where.geo;
-		if (current.national && geo.table == 'br.state') {
-			feature = geoJSON.BR.capitals.byState[feature.id] || feature;
-			geo = geoJSON.BR.capitals;
-		}
 		var geoid = feature.id;
 		var future = false;
 		var results = geoResults(geo), col = results && results.colsById;
@@ -2449,7 +2436,6 @@ function nationalEnabled() {
 		totalPush( null, 'NumBallotBoxes', 0 );
 		totalPush( null, 'NumCountedBallotBoxes', 0 );
 		
-		//var fix = state.fix || {};
 		var features = geo.features;
 		
 		var rowsByID = results.rowsByID = {};

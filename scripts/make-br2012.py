@@ -55,7 +55,7 @@ def loadBrazilMuniTable( db ):
 	db.loadCsvTable(
 		'../shapes/csv/brazil-municipalities.csv',
 		'br.munilist',
-		'region, idstate, abbrstate, state, meso, minor, muni',
+		'region, idstate, abbrstate, state, muni',
 		'''
 			region varchar(30),
 			idstate varchar(2),
@@ -63,6 +63,7 @@ def loadBrazilMuniTable( db ):
 			state varchar(60),
 			meso varchar(60),
 			minor varchar(60),
+			micro varchar(60),
 			muni varchar(60)
 		'''
 	)
@@ -72,12 +73,9 @@ def loadBrazilMuniTable( db ):
 		UPDATE br.munilist
 		SET ttymuni = upper( unaccent(muni) );
 		
-		CREATE INDEX ON br.munilist(region);
 		CREATE INDEX ON br.munilist(idstate);
 		CREATE INDEX ON br.munilist(abbrstate);
 		CREATE INDEX ON br.munilist(state);
-		CREATE INDEX ON br.munilist(meso);
-		CREATE INDEX ON br.munilist(minor);
 		CREATE INDEX ON br.munilist(idmuni);
 		CREATE INDEX ON br.munilist(ttymuni);
 	''' )
@@ -115,7 +113,7 @@ def updateBrazilMuniTable( db ):
 		
 		CREATE VIEW br.muni
 		AS SELECT
-			region, idstate, abbrstate, state, meso, minor, muni, idmuni, ttymuni, (
+			region, idstate, abbrstate, state, muni, idmuni, ttymuni, (
 				SELECT geom FROM br.munishape WHERE cd_geocodm = idmuni
 			) AS geom
 		FROM br.munilist;
@@ -123,10 +121,7 @@ def updateBrazilMuniTable( db ):
 
 
 def mergeAllGeometries( db ):
-	mergeLocalGeometry( db, 'minor' )
-	mergeLocalGeometry( db, 'meso' )
 	mergeLocalGeometry( db, 'state' )
-	mergeNationalGeometry( db, 'region' )
 	mergeNationalGeometry( db, 'nation', "'BR'" )
 
 
@@ -164,11 +159,6 @@ def writeNation( db ):
 		boxGeom, geom, geoid, 'Brazil',
 		'abbrstate', 'state', 'abbrstate'
 	)
-	geoRegion = db.makeFeatureCollection(
-		'br.region',
-		boxGeom, geom, geoid, 'Brazil',
-		'region', 'region', 'region'
-	)
 	geoNation = db.makeFeatureCollection(
 		'br.nation',
 		boxGeom, geom, geoid, 'Brazil',
@@ -176,7 +166,6 @@ def writeNation( db ):
 	)
 	geo = {
 		'nation': geoNation,
-		'region': geoRegion,
 		'state': geoState,
 	}
 	writeGeoJSON( db, geoid, geom, geo )
@@ -195,16 +184,6 @@ def writeEachState( db ):
 			boxGeom, geom, abbr, name,
 			'abbrstate', 'state', 'abbrstate', where
 		)
-		geoMeso = db.makeFeatureCollection(
-			'br.meso',
-			boxGeom, geom, abbr, name,
-			'meso', 'meso', 'abbrstate', where
-		)
-		geoMinor = db.makeFeatureCollection(
-			'br.minor',
-			boxGeom, geom, abbr, name,
-			'minor', 'minor', 'abbrstate', where
-		)
 		geoMuni = db.makeFeatureCollection(
 			'br.muni',
 			boxGeom, geom, abbr, name,
@@ -212,8 +191,6 @@ def writeEachState( db ):
 		)
 		geo = {
 			'state': geoState,
-			'meso': geoMeso,
-			'minor': geoMinor,
 			'muni': geoMuni,
 		}
 		writeGeoJSON( db, abbr, geom, geo )
@@ -224,7 +201,7 @@ def writeGeoJSON( db, geoid, geom, geo ):
 		private.GEOJSON_PATH, schema, geoid, geom
 	)
 	db.writeGeoJSON( filename + '.js', geo, 'loadGeoJSON' )
-	db.writeGeoJSON( filename + '.geojson', geo )
+	#db.writeGeoJSON( filename + '.geojson', geo )
 
 
 def buildDatabase( database ):
@@ -240,6 +217,7 @@ def buildDatabase( database ):
 	loadBrazilMuniTable( db )
 	loadBrazilMuniShapes( db )
 	updateBrazilMuniTable( db )
+	db.registerGeometryColumn('br', 'munishape', 'muni')
 	mergeAllGeometries( db )
 	return db
 

@@ -17,7 +17,7 @@ writer = csv.writer( file(MUNIS_CSV,'wb') )
 writer.writerow([
 	'region',
 	'idstate', 'abbrstate', 'state',
-	'meso', 'micro', 'muni', 'capital'
+	'muni'
 ])
 
 def writeFile( filename, data ):
@@ -81,14 +81,11 @@ def doEndRow( match ):
 	meso = rowspans[0]['name']
 	micro = rowspans[1]['name']
 	muni = rowspans[2]['name']
-	capital = 'f'
-	if brazil.CAPITALS[stateAbbr] == muni:
-		capital = 't'
 	#print '%s | %s | %s | %s | %s | %s' %( region, stateAbbr, stateName, meso, micro, muni )
 	writer.writerow([
 		region,
 		brazil.STATE_ABBR_TO_ID[stateAbbr], stateAbbr, stateName,
-		meso, micro, muni, capital
+		muni
 	])
 	cleanRow()
 
