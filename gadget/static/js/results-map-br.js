@@ -1080,7 +1080,7 @@ function nationalEnabled() {
 	
 	function colorVotes( geo, strokeColor, strokeOpacity, strokeWidth ) {
 		if( ! geo ) return;
-		var colIncr = 1;
+		var colIncr = (geo.tablename == 'br.muni') ? 4 : 1;
 		var features = geo.features;
 		var time = now() + times.offset;
 		var results = geoResults();
@@ -1093,6 +1093,9 @@ function nationalEnabled() {
 				//if( row.wonRound1 ) feature.click = false;
 				if( ! row  ||  row.candidateMax < 0 ) {
 					var candidate = null;
+				}
+				else if ( row.candidates[row.candidateMax] ) {
+					candidate = row.candidates[row.candidateMax];
 				}
 				else {
 					var id = ( cols[row.candidateMax] || '' ).replace( 'TabCount-', '' );
@@ -1120,18 +1123,19 @@ function nationalEnabled() {
 			var minFract = Infinity, maxFract = 0;
 			var partyID = current.party, party = parties.by.id[partyID],
 				color = party.color;
-			var colID = col.ID;
+			var colParty = col['TabCount-' + partyID];
+			var colTotal = col['TabTotal'];
 			for( var iFeature = -1, feature;  feature = features[++iFeature]; ) {
 				var row = featureResults( results, feature );
 				var total = 0, value = 0;
 				if( row ) {
-					for( var iCol = 0;  iCol < colID;  iCol += colIncr )
-						total += row[iCol];
-					value = row[iCol];
-					var fract = row.fract = total ? value / total : 0
+					total = row[colTotal];
+					value = row[colParty];
+					var fract = total ? value / total : 0
 					if( fract ) {
 						minFract = Math.min( minFract, fract );
 						maxFract = Math.max( maxFract, fract );
+						row.fract = fract;
 					}
 				}
 			}
@@ -1315,8 +1319,6 @@ function nationalEnabled() {
 	// TODO: refactor this into PolyGonzo
 	var outlineOverlay;
 	function outlineFeature( where ) {
-		window.console.trace();
-		window.console.log("outlineOverlay", where);
 		if( outlineOverlay )
 			outlineOverlay.setMap( null );
 		outlineOverlay = null;
@@ -1450,34 +1452,45 @@ function nationalEnabled() {
 	}
 	
 	function getTopCandidates( results, row, sortBy, max ) {
-		var showAll = false;
+		var useSortKey = false;
 		var colIncr = 1;
 		max = max || Infinity;
 		if( ! row ) return [];
 		var col = results.colsById;
 		if( row == -1 ) {
-			showAll = false;
+			useSortKey = true;
 			row = results.totals.row;
 			col = results.totals.colsById;
 			colIncr = 1;
 		}
-		var top = ( row.candidates || results.parties || [] ).slice();
+		if (!row.candidates) {
+			return []
+		}
+		var top = row.candidates.slice();
 		var total = 0;
+		var totalValid = 0;
 		for( var i = 0, iCol = 0;  i < top.length; ++i, iCol += colIncr ) {
-			total += row[iCol];
-		}
-		for( var i = 0, iCol = 0;  i < top.length; ++i, iCol += colIncr ) {
-			var candidate = top[i], votes = row[iCol];
+			var candidate = top[i];
+			var votes = row[iCol];
 			candidate.votes = votes;
-			candidate.vsAll = votes / total;
-			//candidate.total = total;
+			candidate.valid = !election.parties.by.id[candidate.id].invalid;
+			if (useSortKey) {
+				candidate.sortKey = election.parties.by.id[candidate.id].sortKey;
+			}
+			total += votes;
+			if (candidate.valid) {
+				totalValid += votes;
+			}
 		}
-		top = sortArrayBy( top, sortBy, { numeric:true } )
-			.reverse()
-			.slice( 0, max );
-		if( ! showAll )
-			while( top.length  &&  ! top[top.length-1].votes )
-				top.pop();
+		for( var i = 0; i < top.length; ++i ) {
+			top[i].vsAll = top[i].votes ? (top[i].votes / total) : 0;
+		}
+		var sorter = function(a, b) {
+			var aKey = a.sortKey || a[sortBy];
+			var bKey = b.sortKey || b[sortBy];
+			return bKey - aKey;
+		};
+		top = top.sort(sorter).slice( 0, max );
 		if( top.length ) {
 			var most = top[0].votes;
 			for( var i = -1;  ++i < top.length; ) {
@@ -1630,7 +1643,7 @@ function nationalEnabled() {
 				'</td>',
 				'<td>',
 					'<div class="legend-candidate">',
-						candidate.name || candidate.lastName,
+						candidate.label || candidate.name,
 					'</div>',
 				'</td>',
 				'<td>',
@@ -1702,11 +1715,8 @@ function nationalEnabled() {
 					'<div class="candidate-name" style="',
 								election.photos ? '' : 'margin-top:4px; margin-bottom:4px;',
 							'">',
-						'<div class="first-name">',
-							candidate.firstName,
-						'</div>',
 						'<div class="last-name" style="font-weight:bold;">',
-							candidate.lastName,
+							candidate.label || candidate.name,
 						'</div>',
 					'</div>',
 				'</td>',
@@ -1882,16 +1892,19 @@ function nationalEnabled() {
 	// TODO: rewrite this
 	function formatNumber( nStr ) {
 		var dsep = 'decimalSep'.T(), tsep = 'thousandsSep'.T();
-		nStr += '';
-		x = nStr.split('.');
-		x1 = x[0];
-		x2 = x.length > 1 ? dsep + x[1] : '';
-		var rgx = /(\d+)(\d{3})/;
-		while( rgx.test(x1) ) {
-			x1 = x1.replace( rgx, '$1' + tsep + '$2' );
-		}
-		return x1 + x2;
+		return formatMoney(parseInt(nStr), 0, tsep, dsep);
 	}
+
+// Taken from the webz.
+function formatMoney( n, decPlaces, thouSeparator, decSeparator) {
+	decPlaces = isNaN(decPlaces = Math.abs(decPlaces)) ? 2 : decPlaces,
+	decSeparator = decSeparator == undefined ? "." : decSeparator,
+	thouSeparator = thouSeparator == undefined ? "," : thouSeparator,
+	sign = n < 0 ? "-" : "",
+	i = parseInt(n = Math.abs(+n || 0).toFixed(decPlaces)) + "",
+	j = (j = i.length) > 3 ? j % 3 : 0;
+	return sign + (j ? i.substr(0, j) + thouSeparator : "") + i.substr(j).replace(/(\d{3})(?=\d)/g, "$1" + thouSeparator) + (decPlaces ? decSeparator + Math.abs(n - i).toFixed(decPlaces).slice(2) : "");
+}
 	
 	function formatPercent( n ) {
 		return percent1( n, 'decimalSep'.T() );
@@ -2257,11 +2270,25 @@ function nationalEnabled() {
 		reloadTimer = null;
 		//delete params.randomize;
 		
+		var nCandidates = 6;
+		var colIncr = 3;
+		var offSet = randomInt(5);
 		var col = [];
-		election.candidates.forEach( function( candidate ) {
-			if( candidate.skip ) return;
-			col.push( 'TabCount-' + candidate.id );
-		});
+		if ( current.national ) {
+			nCandidates = election.parties.length;
+			colIncr = 1;
+			election.parties.forEach( function( party ) {
+				col.push( 'TabCount-' + party.id );
+			});
+		} else {
+			for (var i = 0; i < nCandidates; i++) {
+				col.push(
+					'TabCount-' + i,
+					'Name-' + i,
+					'PartyId-' + i
+				);
+			};
+		}
 		col = col.concat(
 			'ID',
 			'TabTotal',
@@ -2270,11 +2297,11 @@ function nationalEnabled() {
 		);
 		col.index();
 		
+		var partyOffset = randomInt(new Date().getSeconds()) % election.parties.length;
 		var rows = currentGeo().features.map( function( feature ) {
 			var row = [];
 			var colID = col.ID;
 			row[colID] = feature.id;
-			var nVoters = 0;
 			var nPrecincts = row[col.NumBallotBoxes] = random( 50 ) + 5;
 			var nCounted = row[col.NumCountedBallotBoxes] =
 				params.randomize == '100' ? nPrecincts :
@@ -2285,8 +2312,17 @@ function nationalEnabled() {
 					)
 				);
 			var total = 0;
-			for( var iCol = -1;  ++iCol < colID; )
-				total += row[iCol] = nCounted ? random(100000) : 0;
+			var available = 1000000 + randomInt(Math.abs(feature.centroid[0]));
+			for( var iCol = 0;  iCol < colID; iCol += colIncr) {
+				var votes = randomInt(available / 2);
+				var partyId = (partyOffset++ % election.parties.length);
+				available -= votes
+				total += row[iCol] = nCounted ? votes : 0;
+				if ( ! current.national ) {
+					row[iCol+1] = election.candidates.random().fullName;
+					row[iCol+2] = partyId;
+				}
+			}
 			row[col.TabTotal] = total + random(total*2);
 			return row;
 		});
@@ -2411,72 +2447,38 @@ function nationalEnabled() {
 			cols: colsT,
 			colsById: colT
 		};
-		function totalPush( prefix, id, value, party ) {
-			var colID = prefix ? prefix + id : id;
+		function totalPush( colID, value, opt_party ) {
 			colT[colID] = colsT.length;
 			colsT.push( colID );
 			rowT.push( value );
-			if( party ) {
+			if( opt_party ) {
 				rowT.candidates.push({
-					color: party.color,
-					id: id,
-					party: party,
-					name: party.name,
-					// for candidates:
-					firstName: party.firstName,
-					lastName: party.lastName,
-					fullName: party.fullName
+					color: opt_party.color,
+					id: opt_party.id,
+					party: opt_party,
+					label: opt_party.label,
+					name: opt_party.name,
 				});
 			}
 		}
 		election.parties.forEach( function( party ) {
-			totalPush( 'TabCount-', party.id, 0, party );
+			totalPush( 'TabCount-' + party.id, 0, party );
 		});
-		totalPush( null, 'TabTotal', 0 );
-		totalPush( null, 'NumBallotBoxes', 0 );
-		totalPush( null, 'NumCountedBallotBoxes', 0 );
+		totalPush( 'TabTotal', 0 );
+		totalPush( 'NumBallotBoxes', 0 );
+		totalPush( 'NumCountedBallotBoxes', 0 );
 		
 		var features = geo.features;
 		
 		var rowsByID = results.rowsByID = {};
 		var rows = results.rows;
 		var geoid = geo.id;
-		var winners = !current.national && election.winners;
-		if( winners  &&  ! results.didWinners ) {
-			results.didWinners = true;
-			for( var id in winners ) {
-				var winner = winners[id];
-				var row = [];
-				row[0] = 1;
-				row[1] = winner.firstName;
-				row[2] = winner.lastName;
-				row[3] = winner.party;
-				for( var iCol = 4;  iCol < colID;  iCol += colIncr ) {
-					row[iCol] = 0;
-					row[iCol+1] = '';
-					row[iCol+2] = '';
-					row[iCol+3] = '';
-				}
-				row[colID] = id;
-				row[col.TabTotal] = 1;
-				row[col.NumBallotBoxes] = 1;
-				row[col.NumCountedBallotBoxes] = 0;
-				row.wonRound1 = winner.party;
-				rows.push( row );
-				rowsByID[id] = row;
-			}
-		}
-		for( var row, iRow = -1;  row = rows[++iRow]; ) {
+		for( var row, iRow = -1; row = rows[++iRow]; ) {
 			var id = row[colID];
 			row[colID] = id = fixup( geoid, id );
 			if( id === null ) continue;
-			//var fixed = fix[id];
-			//if( fixed ) {
-			//	id = row[colID] = fixed;
-			//}
 			rowsByID[id] = row;
-			if( /^\d\d000$/.test(id) ) rowsByID[id.slice(0,2)] = row;
-			var max = 0,  candidateMax = -1;
+			var max = 0, candidateMax = -1;
 			if( zero  &&  ! row.wonRound1 ) {
 				for( var iCol = 0;  iCol < colID;  iCol += colIncr ) {
 					row[iCol] = 0;
@@ -2489,7 +2491,7 @@ function nationalEnabled() {
 				var candidates = row.candidates = [];
 				for( var iCol = 0;  iCol < colID;  ++iCol ) {
 					var idCol = cols[iCol], id = idCol.replace( 'TabCount-', '' );
-					candidates.push( election.candidates.by.id[id] );
+					candidates.push( election.parties.by.id[id] );
 					var count = row[iCol];
 					rowT[ colT[idCol] ] += count;
 					if( count > max ) {
