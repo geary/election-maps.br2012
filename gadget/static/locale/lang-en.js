@@ -5,7 +5,7 @@ loadStrings({
 "articqueCopyright": "Copyright ARTICQUE, legislative district boundaries", 
 "automaticUpdate": "This page updates automatically", 
 "br": "Brazil", 
-"brSource": "Source: TSE", 
+"brSource": "Source: Supreme Electoral Court", 
 "candidate": "Candidate", 
 "caucus": "{{name}} Caucus", 
 "caucuses": "{{name}} Caucuses", 

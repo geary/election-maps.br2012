@@ -5,7 +5,7 @@ loadStrings({
 "articqueCopyright": "Copyright ARTICQUE, limites de distritos legislativos", 
 "automaticUpdate": "Esta p\u00e1gina \u00e9 atualizada automaticamente", 
 "br": "Brasil", 
-"brSource": "Fonte: TSE", 
+"brSource": "Fonte: Tribunal Superior Eleitoral", 
 "candidate": "Candidato", 
 "caucus": "{{name}} Conven\u00e7\u00e3o partid\u00e1ria", 
 "caucuses": "{{name}} Conven\u00e7\u00f5es partid\u00e1rias", 
