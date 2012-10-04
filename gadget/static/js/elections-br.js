@@ -15,7 +15,9 @@ var candidates2012 = [
 ];
 
 var parties2012 = [
-	// Party order must match the party-logos image for this election
+	// Blank and null pseudo-parties must come first, in that order.
+	{ color: '#FFFFFF', label:'Brancos', id: '00', name: 'Votos em branco', sortKey: -1, invalid: true },
+	{ color: '#000000', label:'Nulos', id: '01', name: 'Nulos', sortKey: -2, invalid: true },
 	{ color: '#4DC706', label:  'PRB', id: '10', name: 'P. Republicano Brasileiro' },
 	{ color: '#169E28', label:   'PP', id: '11', name: 'P. Progressista' },
 	{ color: '#F00000', label:  'PDT', id: '12', name: 'P. Democr&aacute;tico Trabalhista' },
@@ -45,10 +47,11 @@ var parties2012 = [
 	{ color: '#000033', label:  'PPL', id: '54', name: 'P. P&aacute;tria Livre' },
 	{ color: '#000033', label:  'PSD', id: '55', name: 'P. Social Democr&aacute;tico' },
 	{ color: '#000033', label:'PCdoB', id: '65', name: 'P. Comunista do Brasil' },
-	{ color: '#000033', label:'PTdoB', id: '70', name: 'P. Trabalhista do Brasil' },
-	{ color: '#FFFFFF', label:'Brancos', id: '00', name: 'Votos em branco', sortKey: -1, invalid: true },
-	{ color: '#000000', label:'Nulos', id: '01', name: 'Nulos', sortKey: -2, invalid: true }
+	{ color: '#000033', label:'PTdoB', id: '70', name: 'P. Trabalhista do Brasil' }
 ];
+
+parties2012.blankID = '00';
+parties2012.nullID = '01';
 
 var elections = {
 	'2012': {
