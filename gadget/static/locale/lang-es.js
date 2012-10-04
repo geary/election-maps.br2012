@@ -5,7 +5,7 @@ loadStrings({
 "articqueCopyright": "Derechos de autor ARTICQUE, los l\u00edmites de distritos legislativos", 
 "automaticUpdate": "Esta p\u00e1gina se actualiza autom\u00e1ticamente", 
 "br": "Brasil", 
-"brSource": "Fuente: TSE", 
+"brSource": "Fuente: Tribunal Supremo Electoral", 
 "candidate": "Candidato", 
 "caucus": "Asamblea Partidista de {{name}}", 
 "caucuses": "Asambleas Partidistas de {{name}}", 

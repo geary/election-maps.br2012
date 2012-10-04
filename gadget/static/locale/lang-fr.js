@@ -5,7 +5,7 @@ loadStrings({
 "articqueCopyright": "Copyright ARTICQUE, contour des circonscriptions administratives", 
 "automaticUpdate": "Cette page se met \u00e0 jour automatiquement", 
 "br": "Br\u00e9sil", 
-"brSource": "Source: TSE", 
+"brSource": "Source: Cour Supr\u00eame \u00c9lectoral", 
 "candidate": "Candidat", 
 "caucus": "{{name}} Comit\u00e9 \u00e9lectoral", 
 "caucuses": "{{name}} Comit\u00e9s \u00e9lectoraux", 
