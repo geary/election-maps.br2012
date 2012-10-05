@@ -33,7 +33,7 @@ for entry in feed['entry']:
 			lang = match.group( 1 )
 			if lang not in langs: langs[lang] = {}
 			if id in langs[lang]:
-				print: 'duplicate entry discarded: langs[%s][%s] = %s' % (lang, id, entry[col]['$t'])
+				print 'duplicate entry discarded: langs[%s][%s] = %s' % (lang, id, entry[col]['$t'])
 			langs[lang][id] = entry[col]['$t']
 
 for lang in langs:

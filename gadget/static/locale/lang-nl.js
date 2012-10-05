@@ -52,6 +52,8 @@ loadStrings({
 "monthName10": "Oktober", 
 "monthName11": "November", 
 "monthName12": "December", 
+"municipalities": "", 
+"municipality": "", 
 "neverVotesHere": "Deze locatie geeft geen stemresultaten door", 
 "noLocal": "Geen gedetailleerde resultaten beschikbaar", 
 "noVotesHere": "Deze locatie heeft geen stemresultaten doorgegeven", 
