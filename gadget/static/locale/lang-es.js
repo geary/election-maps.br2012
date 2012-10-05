@@ -52,6 +52,8 @@ loadStrings({
 "monthName10": "Octubre", 
 "monthName11": "Noviembre", 
 "monthName12": "Diciembre", 
+"municipalities": "", 
+"municipality": "", 
 "neverVotesHere": "Esta ubicaci\u00f3n no notifica los resultados electorales", 
 "noLocal": "Resultados detallados no est\u00e1 disponible", 
 "noVotesHere": "Esta ubicaci\u00f3n no ha notificado los resultados electorales", 
