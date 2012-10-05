@@ -16,8 +16,8 @@ var candidates2012 = [
 
 var parties2012 = [
 	// Blank and null pseudo-parties must come first, in that order.
-	{ color: '#FFFFFF', label:'Brancos', id: '00', name: 'Votos em branco', sortKey: -1, invalid: true },
-	{ color: '#000000', label:'Nulos', id: '01', name: 'Nulos', sortKey: -2, invalid: true },
+	{ color: '#FFFFFF', label:'Brancos', id: '00', name: 'Votos em branco', sortKey: -1, synthetic: true },
+	{ color: '#000000', label:'Nulos', id: '01', name: 'Nulos', sortKey: -2, synthetic: true },
 	{ color: '#4DC706', label:  'PRB', id: '10', name: 'P. Republicano Brasileiro' },
 	{ color: '#169E28', label:   'PP', id: '11', name: 'P. Progressista' },
 	{ color: '#F00000', label:  'PDT', id: '12', name: 'P. Democr&aacute;tico Trabalhista' },
@@ -61,7 +61,34 @@ var elections = {
 		candidates: candidates2012,
 		parties: parties2012,
 		electionids: {
-			'BR': 2786, // TODO(tms): use real election ids instead of french leg
+			'BR': 2793,
+			'AC': 2794,
+			'AL': 2795,
+			'AM': 2796,
+			'AP': 2797,
+			'BA': 2798,
+			'CE': 2799,
+			'DF': 0,
+			'ES': 2800,
+			'GO': 2801,
+			'MA': 2802,
+			'MG': 2803,
+			'MS': 2804,
+			'MT': 2805,
+			'PA': 2806,
+			'PB': 2807,
+			'PE': 2808,
+			'PI': 2809,
+			'PR': 2810,
+			'RJ': 2811,
+			'RN': 2812,
+			'RO': 2813,
+			'RR': 2814,
+			'RS': 2815,
+			'SC': 2816,
+			'SE': 2817,
+			'SP': 2818,
+			'TO': 2819
 		}
 	}
 };
