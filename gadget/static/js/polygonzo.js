@@ -118,7 +118,7 @@ PolyGonzo = {
 					c.stroke();
 					
 					c.globalAlpha = fillOpacity;
-					if( fillColor && fillColor.image ) {
+					if( fillColor.image ) {
 						var pattern = patterns[fillColor.image.src];
 						if( ! pattern ) {
 							pattern = patterns[fillColor.image.src] =
@@ -290,6 +290,10 @@ PolyGonzo = {
 						geo.draw === false  ||  feature.draw === false ?
 							function() {} :
 							callback;
+					if (!feature.fillColor) {
+						// feature has not been colorized yet.
+						continue;
+					}
 					var geometry = feature.geometry, type = geometry.type;
 					var polys =
 						type == 'Polygon' ? [ geometry.coordinates ] :
