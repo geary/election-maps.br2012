@@ -323,7 +323,7 @@ document.write(
 	'</div>',
 	'<div id="maptip">',
 	'</div>',
-	'<a id="tse-logo" class="logo" target="_blank" href="http://www.tse.jus.br/" title="', 'tseCopyright'.T(), '">',
+	'<a id="tse-logo" class="logo" target="_blank" href="http://www.tse.jus.br/" alt="', 'brSource'.T(), '">',
 	'</a>',
 	'<a id="google-logo" class="logo" target="_blank" href="http://www.google.br/elections/ed/br" title="', 'googlePoliticsTitle'.T(), '">',
 	'</a>',
@@ -538,6 +538,10 @@ function nationalEnabled() {
 			//features.by['986'].click = false;  // Wallis et Futuna
 			//features.by['987'].click = false;  // French Polynesia
 			//addLivingAbroad( features );
+			var df = json.state.features.by['DF'];
+			if (df) {
+				df.draw = df.showTip = df.click = false;
+			}
 		}
 	}
 	
@@ -761,9 +765,9 @@ function nationalEnabled() {
 	var didGeoReady;
 	function geoReady() {
 		// TODO: refactor with duplicate code in resizeViewNow()
+		colorize();
 		setLegend();
 		resizeViewOnly();
-		colorize();
 		if( geoMoveNext ) {
 			geoMoveNext = false;
 			moveToGeo();
@@ -1031,6 +1035,7 @@ function nationalEnabled() {
 	};
 	
 	function draw() {
+		window.console.log('draw()');
 		var geos = currentGeos();
 		if( useInset() )
 			geos.unshift( insetGeo() );
@@ -1057,10 +1062,11 @@ function nationalEnabled() {
 		//if( pt )
 		//	setTimeout( draw, 250 );
 		//else
-			draw();
+		draw();
 	}
 	
 	function colorize() {
+		window.console.log('colorize');
 		var json = geoJSON[current.geoid];
 		if( json.muni ) {
 			colorVotes( json.muni, '#666666', 1, 1 );
@@ -1466,16 +1472,15 @@ function nationalEnabled() {
 		if (!row.total) {
 			var total = 0;
 			var totalValid = 0;
-			for( var i = 0, iCol = 0;  i < top.length; ++i, iCol += colIncr ) {
+			for( var i = 0; i < top.length; ++i) {
 				var candidate = top[i];
-				var votes = row[iCol];
-				candidate.votes = votes;
-				if (useSortKey) {
+				candidate.votes = parseInt(row[i*colIncr]) || 0;
+				total += candidate.votes;
+				if (useSortKey && candidate.party.sortKey) {
 					candidate.sortKey = candidate.party.sortKey;
 				}
-				total += votes;
 				if (candidate.party.valid) {
-					totalValid += votes;
+					totalValid += candidate.votes;
 				}
 			}
 			row.total = total;
@@ -1498,14 +1503,22 @@ function nationalEnabled() {
 				return bKey - aKey;
 			};
 			top = top.sort(sorter).slice( 0, max );
+			var most = top[0].votes;
 			if (useSortKey) {
 				top = top.concat(syntheticCandidates.sort(sorter));
+				for (var i = 0; i < syntheticCandidates.length; i++) {
+					if (syntheticCandidates[i].votes > most) {
+						most = syntheticCandidates[i].votes;
+					}
+				}
 			}
-			var most = top[0].votes;
 			top.total = 0;
 			for( var i = -1;  ++i < top.length; ) {
 				var candidate = top[i];
-				top.total += candidate.votes;
+				if (typeof(candidate.votes) != 'number') {
+					window.console.log('WTF');
+				}
+				top.total += candidate.votes || 0;
 				candidate.vsAll = candidate.votes / row.total;
 				candidate.vsTop = candidate.votes / most;
 			}
@@ -1551,7 +1564,7 @@ function nationalEnabled() {
 			var topCandidates = getTopCandidates( results, -1, 'votes' );
 			var none = ! topCandidates.length;
 			var total = topCandidates.total;
-			var top = none ? '' : formatSidebarTopCandidates( topCandidates.slice( 0, 4 ), topCandidates.total);
+			var top = none ? '' : formatSidebarTopCandidates( topCandidates.slice( 0, 4 ), total);
 			var test = testFlag( results );
 			var viewNational = nationalEnabled() ? S(
 				'<a href="#" id="viewNational" title="', 'titleViewNational-br'.T(), '" style="">',
@@ -1795,7 +1808,7 @@ function nationalEnabled() {
 	
 	function formatTip( where ) {
 		var feature = where && where.feature;
-		if( ! feature ) return null;
+		if( ! feature || feature.showTip === false ) return null;
 		var geo = where.geo;
 		var geoid = feature.id;
 		var future = false;
@@ -2537,7 +2550,7 @@ function formatMoney( n, decPlaces, thouSeparator, decSeparator) {
 			row.candidateMax = -1;
 			var candidates = row.candidates = [];
 			for( var iCol = 0;  iCol < colID;  iCol += colIncr ) {
-				var tabCount = row[iCol];
+				var tabCount = parseInt(row[iCol]) || 0;
 				var candidateName = multiColumn ? row[iCol+1] : '';
 				// iCol+2 = last name is skipped.
 				var partyID = multiColumn ? row[iCol+3] : extractPartyId(cols[iCol]);
@@ -2551,7 +2564,8 @@ function formatMoney( n, decPlaces, thouSeparator, decSeparator) {
 				var candidate = {
 					id: partyID,
 					party: party,
-					name: candidateName
+					name: candidateName,
+					votes: tabCount
 				};
 				candidates.push( candidate );
 				rowT[ colT['TabCount-' + partyID] ] += tabCount;
@@ -2560,7 +2574,7 @@ function formatMoney( n, decPlaces, thouSeparator, decSeparator) {
 				} else {
 					rowT[colT.ValidTotal] += tabCount;
 				}
-				if( tabCount > max ) {
+				if( tabCount > max && !candidate.party.synthetic) {
 					row.candidateMax = candidates.length - 1;
 					max = tabCount;
 				}
@@ -2572,7 +2586,7 @@ function formatMoney( n, decPlaces, thouSeparator, decSeparator) {
 		var missing = [];
 		if( debug  &&  ! features.didMissingCheck ) {
 			for( var row, iRow = -1;  row = rows[++iRow]; ) {
-				var id = row[colID];
+				var id = fixup( geoid, row[colID], features, geo.table);
 				if( ! features.by[id] )
 					missing.push( S( id, ' in results but not in GeoJSON' ) );
 			}
@@ -2587,6 +2601,12 @@ function formatMoney( n, decPlaces, thouSeparator, decSeparator) {
 		if( electionsPending.length == 0 )
 			geoReady();
 		
+		// hook for testing.
+		if (debug && params.loc && params.loc != current.geoid) {
+			var loc = params.loc;
+			delete params.loc;
+			loadViewID(loc);
+		}
 		if( debug == 'verbose'  ||  ( missing.length  &&  debug  &&  debug != 'quiet' ) ) {
 			if( ! missing.length ) missing.push( 'none' );
 			alert( S( 'Missing locations:\n', missing.sort().join( '\n' ) ) );

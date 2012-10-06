@@ -118,7 +118,7 @@ PolyGonzo = {
 					c.stroke();
 					
 					c.globalAlpha = fillOpacity;
-					if( fillColor.image ) {
+					if( fillColor && fillColor.image ) {
 						var pattern = patterns[fillColor.image.src];
 						if( ! pattern ) {
 							pattern = patterns[fillColor.image.src] =
