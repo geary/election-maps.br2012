@@ -1100,14 +1100,15 @@ function nationalEnabled() {
 		if( !( parties && current.party ) ) {
 			// Multiple party view
 			for( var iFeature = -1, feature;  feature = features[++iFeature]; ) {
+				feature.fillColor = '#FFFFFF';
+				feature.fillOpacity = 0;
 				var row = featureResults( results, feature );
 				if( row  &&  row.candidateMax >= 0 ) {
 					var candidate = row.candidates[row.candidateMax];
-					feature.fillColor = candidate.party.color;
-					feature.fillOpacity = .6;
-				} else {
-					feature.fillColor = '#FFFFFF';
-					feature.fillOpacity = 0;
+					if (candidate.votes) {
+						feature.fillColor = candidate.party.color;
+						feature.fillOpacity = .6;
+					}
 				}
 				//var complete = row &&
 				//	row[col.NumCountedBallotBoxes] ==
@@ -1131,7 +1132,7 @@ function nationalEnabled() {
 				if( row ) {
 					total = row[colTotal];
 					value = row[colParty];
-					var fract = total ? value / total : 0
+					var fract = (total && value) ? value / total : 0
 					if( fract ) {
 						minFract = Math.min( minFract, fract );
 						maxFract = Math.max( maxFract, fract );
@@ -2537,7 +2538,7 @@ function formatMoney( n, decPlaces, thouSeparator, decSeparator) {
 			var id = current.national ? colTitle.substring(l, l+2) : colTitle.substring(l);
 			if (!(id in election.parties.by)) {
 				window.console.log('Test id ' + id);
-				var party =  election.parties[(parseInt(id) % election.parties.length) + 1];
+				var party = election.parties[(parseInt(id) % election.parties.length) + 1];
 				election.parties.by.id[id] = party;
 			}
 			return id;
