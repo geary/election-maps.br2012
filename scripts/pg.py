@@ -80,7 +80,7 @@ class Database:
 		self.executeCommit('''
 			CREATE DATABASE %(database)s
 				WITH ENCODING = 'UTF8'
-			TEMPLATE = template_postgis_20
+			TEMPLATE = template_postgis_15
 			CONNECTION LIMIT = -1;
 		''' % {
 			'database': database,
@@ -88,8 +88,6 @@ class Database:
 	
 	def addUtilityFunctions( self ):
 		self.executeCommit('''
-			CREATE EXTENSION unaccent;
-			
 			CREATE OR REPLACE FUNCTION lpad_notrunc( text, int4, varchar(1) )
 			RETURNS text
 			AS $$
@@ -133,7 +131,7 @@ class Database:
 	def createSchema( self, schema ):
 		self.executeCommit('''
 			DROP SCHEMA IF EXISTS %(schema)s CASCADE;
-			CREATE SCHEMA %(schema)s AUTHORIZATION postgres;
+			CREATE SCHEMA %(schema)s AUTHORIZATION tms;
 		''' % {
 			'schema': schema,
 		})
@@ -317,6 +315,17 @@ class Database:
 				);
 		''' % vars )
 		self.connection.commit()
+
+	def registerGeometryColumn( self, schema, from_table, to_table ):
+		srid = self.getSRID( '%s.%s' % (schema, from_table), 'geom')
+		self.executeCommit('''
+			INSERT INTO public.geometry_columns values('',
+				'%(schema)s', '%(table)s', 'geom', 2, %(srid)d, 'MULTIPOLYGON');
+			''' % ({
+				'schema': schema,
+				'table': to_table,
+				'srid': srid
+			}))
 	
 	def indexGeometryColumn( self, table, geom ):
 		print 'indexGeometryColumn %s %s' %( table, geom )
@@ -350,9 +359,9 @@ class Database:
 				%(googeom)s = ST_Multi(
 					ST_Transform(
 						ST_Force_2D(
-							ST_MakeValid(
+							--ST_MakeValid(
 								%(llgeom)s
-							)
+							--)
 						),
 						3857
 					)
@@ -386,7 +395,7 @@ class Database:
 				%(targetGeom)s = (
 					SELECT
 						ST_Multi(
-							ST_MakeValid(
+							--ST_MakeValid(
 								ST_Union(
 									--ST_SnapToGrid(
 										%(sourceGeom)s
@@ -394,7 +403,7 @@ class Database:
 									--	0.0000001
 									--)
 								)
-							)
+							--)
 						)
 					FROM
 						%(sourceTable)s
@@ -443,7 +452,7 @@ class Database:
 			SELECT nextval('%(targetTable)s_gid_seq'),
 				%(cols)s,
 				ST_Multi(
-					ST_MakeValid(
+					--ST_MakeValid(
 						ST_Union(
 							--ST_SnapToGrid(
 								%(sourceGeom)s
@@ -451,7 +460,7 @@ class Database:
 							--	0.0000001
 							--)
 						)
-					)
+					--)
 				)
 			FROM
 				%(sourceTable)s
@@ -487,12 +496,12 @@ class Database:
 			SET
 				%(targetGeom)s =
 					ST_Multi(
-						ST_MakeValid(
+						--ST_MakeValid(
 							ST_SimplifyPreserveTopology(
 								%(sourceGeom)s,
 								%(tolerance)f
 							)
-						)
+						--)
 					)
 			;
 			
@@ -579,9 +588,10 @@ class Database:
 		
 		self.execute('''
 			SELECT
-				%(idCol)s, %(nameCol)s, %(extraCol)s, 
+				%(idCol)s, %(nameCol)s,
 				ST_AsGeoJSON( ST_Centroid( %(polyGeom)s ), %(digits)s, 1 ),
-				ST_AsGeoJSON( %(polyGeom)s, %(digits)s, 1 )
+				ST_AsGeoJSON( %(polyGeom)s, %(digits)s, 1 ),
+				%(extraCol)s
 			FROM
 				%(table)s
 			WHERE
@@ -604,8 +614,10 @@ class Database:
 		print 'SELECT rows %.1f seconds' %( t3 - t2 )
 		
 		features = []
-		for featuregeoid, featurename, featureextra, centroidjson, geomjson in self.cursor.fetchall():
+		for feature_cursor in self.cursor.fetchall():
 			#print featurename
+			(featuregeoid, featurename, centroidjson, geomjson) = feature_cursor[0:4]
+			featureextra = feature_cursor[4:]
 			if fixid is None: featuregeoidfix = featuregeoid
 			else: featuregeoidfix = fixid( featuregeoid, geoid )
 			if not centroidjson or not geomjson:
@@ -618,10 +630,13 @@ class Database:
 				'bbox': geometry['bbox'],
 				'id': featuregeoidfix,
 				'name': featurename,
-				extraCol: featureextra,
 				'centroid': centroid['coordinates'],
 				'geometry': geometry,
 			}
+			extras = 0
+			for name in extraCol.split(','):
+				feature[name.strip()] = featureextra[extras]
+				extras += 1
 			features.append( feature )
 			del geometry['bbox']
 		featurecollection = {
