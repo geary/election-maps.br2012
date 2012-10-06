@@ -6,5 +6,7 @@ scripts/parsetab\.py
 scripts/private\.py$
 shapes/private/
 shapes/shp/private-
+shapes/csv/brazil_missing.csv
+shapes/csv/brazil-municipalities.csv
 .git
 \.swp$

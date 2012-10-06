@@ -27,7 +27,7 @@ codemap = {
 	'DF': {}
 }
 missing = csv.writer (file (MISSING_CSV, 'wb') )
-missing.writerow(['state', 'original', 'uppercased'])
+missing.writerow(['state', 'original', 'uppercased', 'missing from'])
 def readCodes():
 	codes = csv.reader( file(TSE_CSV, 'rb') )
 	for row in codes:
@@ -35,7 +35,7 @@ def readCodes():
 		if not statemap:
 			codemap[row[0]] = statemap = {}
 		muni = unescape(row[1].replace('&apos;', '\'').decode('iso-8859-1')).upper()
-		statemap[muni] = row[2]
+		statemap[muni] = [row[2], 0]
 		#print 'Muni code for %s (%s, %s): %s' % (muni.encode('utf-8'), row[1], row[0], row[2])
 
 def unescape( uni ):
@@ -97,33 +97,47 @@ def doCell( match ):
 	})
 
 
-def getCod( key ):
+def getCod( origKey ):
 	map = codemap[stateAbbr];
+	key = origKey
 	if key in map:
 		return map[key]
-	key = key.replace('D\'', 'DO ')
+	key = origKey.replace('D\'', 'DO ')
 	if key in map:
 		return map[key]
-		
+	key = origKey.replace('-', ' ')
+	if key in map:
+		return map[key]
+	if stateAbbr == 'MG':
+		print 'did not find %s in map: %s' % (origKey, [k for k in map.keys() if k.startswith(origKey[0:min(3,len(key))])])
+
+def ignored(state, muni, cod):
+	if cod == '00000':
+		return True
+	return False
 
 def doEndRow( match ):
 	if len(rowspans) != 3:
+		print 'ARGH! %s ' % rowspans
 		return
 	meso = rowspans[0]['name']
 	micro = rowspans[1]['name']
 	muni = rowspans[2]['name']
 	key = unescape(muni.decode('utf-8')).upper()
 	cod = getCod(key)
-	if not cod:
-		print 'Muni codes for %s (%s, %s): %s' % (key.encode('utf-8'), muni, stateAbbr, cod)
-		missing.writerow([stateAbbr, muni, key.encode('utf-8')])
-		cod = '00000'
+	if cod:
+		cod[1] = cod[1] + 1
+		#print 'Muni codes for %s (%s, %s): %s' % (key.encode('utf-8'), muni, stateAbbr, cod[0])
+	else:
+		cod = ('00000', 0)
+		missing.writerow([stateAbbr, muni, key.encode('utf-8'), 'TSE'])
 	#print '%s | %s | %s | %s | %s | %s' %( region, stateAbbr, stateName, meso, micro, muni )
-	writer.writerow([
-		region,
-		brazil.STATE_ABBR_TO_ID[stateAbbr], stateAbbr, stateName,
-		muni, cod
-	])
+	if not ignored(stateAbbr, muni, cod):
+		writer.writerow([
+			region,
+			brazil.STATE_ABBR_TO_ID[stateAbbr], stateAbbr, stateName,
+			muni, cod[0]
+		])
 	cleanRow()
 
 
@@ -151,9 +165,16 @@ def afterBar( s ):
 	return reBarSplit.match(s).group(2)
 
 
+def writeMissing():
+	for state, munis in codemap.iteritems():
+		for key, value in munis.iteritems():
+			if not value[1]:
+				missing.writerow([state, '-', key, 'GEO'])
+
 def main():
 	readCodes()
 	process()
+	writeMissing()
 	print 'Done!'
 
 
