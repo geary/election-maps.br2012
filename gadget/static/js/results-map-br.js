@@ -1035,7 +1035,6 @@ function nationalEnabled() {
 	};
 	
 	function draw() {
-		window.console.log('draw()');
 		var geos = currentGeos();
 		if( useInset() )
 			geos.unshift( insetGeo() );
@@ -1066,7 +1065,6 @@ function nationalEnabled() {
 	}
 	
 	function colorize() {
-		window.console.log('colorize');
 		var json = geoJSON[current.geoid];
 		if( json.muni ) {
 			colorVotes( json.muni, '#666666', 1, 1 );
@@ -1103,13 +1101,16 @@ function nationalEnabled() {
 				feature.fillColor = '#FFFFFF';
 				feature.fillOpacity = 0;
 				var row = featureResults( results, feature );
+				var fract = 0;
 				if( row  &&  row.candidateMax >= 0 ) {
+					var total = row[cols['TabTotal']];
 					var candidate = row.candidates[row.candidateMax];
 					if (candidate.votes) {
 						feature.fillColor = candidate.party.color;
-						feature.fillOpacity = .6;
+						fract = candidate.votes / total;
 					}
 				}
+				feature.fillOpacity = 0.5 + ((fract || 0) * 0.5);
 				//var complete = row &&
 				//	row[col.NumCountedBallotBoxes] ==
 				//	row[col.NumBallotBoxes];
@@ -1124,35 +1125,21 @@ function nationalEnabled() {
 			var minFract = Infinity, maxFract = 0;
 			var partyID = current.party, party = parties.by.id[partyID],
 				color = party.color;
-			var colParty = col['TabCount-' + partyID];
+			var colParty = col['TabCount-' + partyID + '-A'];
 			var colTotal = col['TabTotal'];
 			for( var iFeature = -1, feature;  feature = features[++iFeature]; ) {
 				var row = featureResults( results, feature );
-				var total = 0, value = 0;
+				var total = 0, value = 0, fract = 0;
 				if( row ) {
-					total = row[colTotal];
-					value = row[colParty];
-					var fract = (total && value) ? value / total : 0
-					if( fract ) {
-						minFract = Math.min( minFract, fract );
-						maxFract = Math.max( maxFract, fract );
-						row.fract = fract;
+					if (colParty === undefined && row.colsById) {
+						colParty = row.colsById[partyID];
 					}
+					total = row[colTotal];
+					value = row[colParty] || 0;
+					fract = value / total;
 				}
-			}
-			var fractRange = maxFract - minFract;
-			for( var iFeature = -1, feature;  feature = features[++iFeature]; ) {
-				var row = featureResults( results, feature );
+				feature.fillOpacity = (fract) ? (0.3 + fract * 0.7) : 0;
 				feature.fillColor = party.color;
-				feature.fillOpacity =
-					! row  ||  row.fract == 0 ?
-						0 :
-					fractRange > 0 ?
-						( row.fract - minFract ) / fractRange * .75 :
-						.75;
-				//var complete = row &&
-				//	row[col.NumCountedBallotBoxes] ==
-				//	row[col.NumBallotBoxes];
 				feature.strokeColor = strokeColor;
 				feature.strokeOpacity = strokeOpacity;
 				feature.strokeWidth = strokeWidth;
@@ -1454,15 +1441,15 @@ function nationalEnabled() {
 	
 	function getTopCandidates( results, row, sortBy, max, useSortKey ) {
 		if( ! row ) return [];
-		var pruneEmpty = true;
+		var showAll = false;
 		var colIncr = current.national ? 2 : 4;
 		var col = results.colsById;
 		max = max || Infinity;
 		if( row == -1 ) {
 			// Use totals column.
+			showAll = current.national;
 			colIncr = 2;
 			useSortKey = true;
-			pruneEmpty = false;
 			row = results.totals.row;
 			col = results.totals.colsById;
 		}
@@ -1491,7 +1478,7 @@ function nationalEnabled() {
 			if ( useSortKey && top[i].party.synthetic ) {
 				var removed = top.splice(i, 1);
 				syntheticCandidates.push(removed[0]);
-			} else if (pruneEmpty && !top[i].votes) {
+			} else if (!showAll && !top[i].votes) {
 				top.splice(i, 1);  // remove;
 			} else {
 				i++;
@@ -1516,9 +1503,6 @@ function nationalEnabled() {
 			top.total = 0;
 			for( var i = -1;  ++i < top.length; ) {
 				var candidate = top[i];
-				if (typeof(candidate.votes) != 'number') {
-					window.console.log('WTF');
-				}
 				top.total += candidate.votes || 0;
 				candidate.vsAll = candidate.votes / row.total;
 				candidate.vsTop = candidate.votes / most;
@@ -1537,9 +1521,10 @@ function nationalEnabled() {
 		if( ! current.party )
 			return;
 		var results = geoResults();
-		var col = results.totals.colsById[ 'TabCount-' + current.party ];
-		if( ! results.totals.row[col] )
+		var col = results.totals.colsById[ 'TabCount-' + current.party];
+		if( ! (col in results.totals.row) ) {
 			current.party = null;
+		}
 	}
 	
 	function nameCase( name ) {
@@ -1557,15 +1542,15 @@ function nationalEnabled() {
 	}
 	
 	function formatSidebar() {
+		window.console.log('parties: ', election.parties);
 		var resultsHeaderHTML = '';
 		var resultsScrollingHTML = '';
 		var geo = currentGeo();
 		var results = geoResults();
 		if( results ) {
 			var topCandidates = getTopCandidates( results, -1, 'votes' );
-			var none = ! topCandidates.length;
-			var total = topCandidates.total;
-			var top = none ? '' : formatSidebarTopCandidates( topCandidates.slice( 0, 4 ), total);
+			var cutOff = Math.min(topCandidates.length, 4);
+			var top = cutOff ? formatSidebarTopCandidates( topCandidates.slice( 0, cutOff ), topCandidates.total) : '';
 			var test = testFlag( results );
 			var viewNational = nationalEnabled() ? S(
 				'<a href="#" id="viewNational" title="', 'titleViewNational-br'.T(), '" style="">',
@@ -1586,15 +1571,18 @@ function nationalEnabled() {
 				'</div>'
 			);
 			var candidates = topCandidates.map( formatSidebarCandidate );
-			resultsScrollingHTML = none ? '' : S(
-				formatCandidateList(
-					[ top ].concat( candidates ),
-					function( candidate ) {
-						return candidate;
-					},
-					false
-				)
-			);
+			resultsScrollingHTML = '';
+			if (cutOff) {
+				resultsScrollingHTML = S(
+					formatCandidateList(
+						[ top ].concat( candidates ),
+						function( candidate ) {
+							return candidate;
+						},
+						false
+					)
+				);
+			}
 		}
 		//var linkHTML = !(
 		//	params.usa ||
@@ -2473,7 +2461,8 @@ function formatMoney( n, decPlaces, thouSeparator, decSeparator) {
 			if (feature) {
 				return feature.id;
 			}
-			window.console.log('Did not find feature id [', id, '] in features: ', opt_features);
+			debug && console && console.log('Did not find feature id [', id, '] in features: ', opt_features);
+			return null;
 		}
 		return id;
 	}
@@ -2498,8 +2487,17 @@ function formatMoney( n, decPlaces, thouSeparator, decSeparator) {
 		
 		var multiColumn = (geo.table == 'br.muni');
 		var colIncr = multiColumn ? 4 : 2;
+
+		// trigger potential switch.
+		var probePartyId = multiColumn ? results.rows[3] : extractPartyId(cols[0]);
+		if (parseInt(probePartyId) > 70 && election.parties === election.allParties[0]) {
+			window.console.log('Test parties detected');
+			election.parties = election.allParties[1];
+			election.allParties[1].index('id');
+		}
 		
 		var rowT = [], colsT = [], colT = {};
+		colsT.by = {};
 		rowT.candidates = [];
 		var totals = results.totals = {
 			row: rowT,
@@ -2520,6 +2518,7 @@ function formatMoney( n, decPlaces, thouSeparator, decSeparator) {
 		}
 		election.parties.forEach( function( party ) {
 			totalPush( 'TabCount-' + party.id, 0, party );
+			totalPush( 'TabCountW-' + party.id, 0);
 		});
 		totalPush( 'TabTotal', 0 );
 		totalPush( 'NumBallotBoxes', 0 );
@@ -2536,19 +2535,17 @@ function formatMoney( n, decPlaces, thouSeparator, decSeparator) {
 		function extractPartyId(colTitle) {
 			var l = 'TabCount-'.length;
 			var id = current.national ? colTitle.substring(l, l+2) : colTitle.substring(l);
-			if (!(id in election.parties.by)) {
-				window.console.log('Test id ' + id);
-				var party = election.parties[(parseInt(id) % election.parties.length) + 1];
-				election.parties.by.id[id] = party;
-			}
 			return id;
 		}
+		results.cols.by = {};
 		for( var row, iRow = -1; row = rows[++iRow]; ) {
 			var id = fixup( geoid, row[colID], features, geo.table);
 			if( id === null ) continue;
 			rowsByID[id] = row;
+			row.colsById = {};
 			var max = 0;
 			row.candidateMax = -1;
+			row.colsById = {};
 			var candidates = row.candidates = [];
 			for( var iCol = 0;  iCol < colID;  iCol += colIncr ) {
 				var tabCount = parseInt(row[iCol]) || 0;
@@ -2562,6 +2559,7 @@ function formatMoney( n, decPlaces, thouSeparator, decSeparator) {
 					}
 					console && console.log && console.log('no party for id ' + partyID);
 				}
+				row.colsById[partyID] = iCol;
 				var candidate = {
 					id: partyID,
 					party: party,

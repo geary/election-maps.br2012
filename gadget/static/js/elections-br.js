@@ -50,8 +50,25 @@ var parties2012 = [
 	{ color: '#000033', label:'PTdoB', id: '70', name: 'P. Trabalhista do Brasil' }
 ];
 
-parties2012.blankID = '00';
-parties2012.nullID = '01';
+var testParties = [
+	// Blank and null pseudo-parties must come first, in that order.
+	{ color: '#FFFFFF', label:'Brancos', id: '00', name: 'Votos em branco', sortKey: -1, synthetic: true },
+	{ color: '#000000', label:'Nulos', id: '01', name: 'Nulos', sortKey: -2, synthetic: true },
+	{ color: '#169E28', label: 'P71', id: '71', name: 'P. 71'},
+	{ color: '#F00000', label: 'P72', id: '72', name: 'P. 72' },
+	{ color: '#001EFF', label: 'P73', id: '73', name: 'P. 73' },
+	{ color: '#000000', label: 'P74', id: '74', name: 'P. 74' },
+	{ color: '#EF4BB6', label: 'P75', id: '75', name: 'P. 75' },
+	{ color: '#DE7676', label: 'P76', id: '76', name: 'P. 76' },
+	{ color: '#A3A3A3', label: 'P77', id: '77', name: 'P. 77' },
+	{ color: '#1BA5E0', label: 'P78', id: '78', name: 'P. 78' },
+	{ color: '#696969', label: 'P79', id: '79', name: 'P. 79' },
+	{ color: '#1006C7', label: 'P80', id: '80', name: 'P. 80' },
+	{ color: '#1006C7', label: 'P81', id: '81', name: 'P. 81' }
+];
+
+testParties.blankID = parties2012.blankID = '00';
+testParties.nullID = parties2012.nullID = '01';
 
 var elections = {
 	'2012': {
@@ -59,6 +76,7 @@ var elections = {
 		tzHour: -3,
 		photos: false,
 		candidates: candidates2012,
+		allParties: [parties2012, testParties],
 		parties: parties2012,
 		electionids: {
 			'BR': 2793,
