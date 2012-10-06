@@ -2302,9 +2302,7 @@ function formatMoney( n, decPlaces, thouSeparator, decSeparator) {
 	}
 
 	function featureId(feature) {
-		var state = feature.abbrstate;
-		var name = feature.name;
-		return S(name, ', ', state);
+		return feature.tsecod || feature.id;
 	}
 		
 	
@@ -2458,10 +2456,10 @@ function formatMoney( n, decPlaces, thouSeparator, decSeparator) {
 				id = id.toUpperCase();
 			}
 			var feature = opt_features.by[id];
-			if (!feature) {
-				window.console.log('Did not find feature id [', id, '] in features: ', opt_features);
+			if (feature) {
+				return feature.id;
 			}
-			return feature.id;
+			window.console.log('Did not find feature id [', id, '] in features: ', opt_features);
 		}
 		return id;
 	}
@@ -2523,7 +2521,7 @@ function formatMoney( n, decPlaces, thouSeparator, decSeparator) {
 
 		function extractPartyId(colTitle) {
 			var l = 'TabCount-'.length;
-			var id = colTitle.substring(l, l+2);
+			var id = current.national ? colTitle.substring(l, l+2) : colTitle.substring(l);
 			if (!(id in election.parties.by)) {
 				window.console.log('Test id ' + id);
 				var party =  election.parties[(parseInt(id) % election.parties.length) + 1];
@@ -2545,6 +2543,9 @@ function formatMoney( n, decPlaces, thouSeparator, decSeparator) {
 				var partyID = multiColumn ? row[iCol+3] : extractPartyId(cols[iCol]);
 				var party = election.parties.by.id[partyID];
 				if (!party) {
+					if (multiColumn && !candidateName) {
+						continue;  // padded at the end.
+					}
 					console && console.log && console.log('no party for id ' + partyID);
 				}
 				var candidate = {
