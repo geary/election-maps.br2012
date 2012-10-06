@@ -352,7 +352,7 @@ Here is the list of all 5,564 [[Municipalities of Brazil|municipalities]] of Bra
 |-
 |[[Santo Antônio do Tauá]]
 |-
-|rowspan=49|Nordeste Paraense
+|rowspan=50|Nordeste Paraense
 |rowspan=13|Bragantina
 |[[Augusto Corrêa]]
 |-
@@ -445,12 +445,14 @@ Here is the list of all 5,564 [[Municipalities of Brazil|municipalities]] of Bra
 |-
 |[[Vigia, Pará|Vigia]]
 |-
-|rowspan=5|Tomé-Açu
+|rowspan=6|Tomé-Açu
 |[[Acará]]
 |-
 |[[Concórdia do Pará]]
 |-
 |[[Moju]]
+|-
+|[[Mojuí dos Campos]]
 |-
 |[[Tailândia, Pará|Tailândia]]
 |-
