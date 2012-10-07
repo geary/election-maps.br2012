@@ -230,7 +230,7 @@ document.write(
 		'body.tv div.candidate-name { margin-right:20px; }',
 		'body.tv div.candidate-name div { line-height:1.1em; }',
 		'body.tv div.first-name { font-size:20px; }',
-		'body.tv div.last-name { font-size:24px; font-weight:bold; }',
+		'body.tv div.last-name { font-size:24px; font-weight:normal; }',
 		'body.tv #maptip { border:none; }',
 		'body.tv #map { border-left:1px solid #333; }',
 		'body.tv span.tiptitletext { font-size:28px; }',
@@ -251,9 +251,10 @@ document.write(
 		'#maptip table.candidates { width:100%; }',
 		'#maptip table.candidates tr.first td { border-top:none; }',
 		'#maptip div.candidate-delegates { font-size:130%; font-weight:bold; }',
-		'.candidate-votes { font-weight:bold; min-width: 8em; }',
-		'.candidate-percent { font-size:80%; }',
-		'.candidate-percent { float: right; min-width: 4em; }',
+		'.national .candidate-votes, .state .candidate-percent { min-width: 8em; font-weight: bold;}',
+		'.national .candidate-percent { font-size: 80%; position: relative; top: 18px; min-width: 4em; }',
+		'.national .candidate-votes { position: relative; top: -14px; }',
+		'.state .candidate-votes { font-size: 80%; min-width: 4em; }',
 		'#maptip div.click-for-local { padding:4px; }',
 		'body.tv #maptip div.candidate-percent { font-size:20px; font-weight:bold; }',
 		'#sidebar-scroll { padding:0 4px; }',
@@ -1111,9 +1112,6 @@ function nationalEnabled() {
 					}
 				}
 				feature.fillOpacity = 0.5 + ((fract || 0) * 0.5);
-				//var complete = row &&
-				//	row[col.NumCountedBallotBoxes] ==
-				//	row[col.NumBallotBoxes];
 				feature.strokeColor = strokeColor;
 				feature.strokeOpacity = strokeOpacity;
 				feature.strokeWidth = strokeWidth;
@@ -1130,15 +1128,13 @@ function nationalEnabled() {
 			for( var iFeature = -1, feature;  feature = features[++iFeature]; ) {
 				var row = featureResults( results, feature );
 				var total = 0, value = 0, fract = 0;
-				if( row ) {
-					if (colParty === undefined && row.colsById) {
-						colParty = row.colsById[partyID];
+				feature.fillOpacity = 0;
+				if( row && row.candidateMax >= 0) {
+					var leader = row.candidates[row.candidateMax];
+					if (leader.id == partyID) {
+						feature.fillOpacity = 0.75;
 					}
-					total = row[colTotal];
-					value = row[colParty] || 0;
-					fract = value / total;
 				}
-				feature.fillOpacity = (fract) ? (0.3 + fract * 0.7) : 0;
 				feature.fillColor = party.color;
 				feature.strokeColor = strokeColor;
 				feature.strokeOpacity = strokeOpacity;
@@ -1547,16 +1543,22 @@ function nationalEnabled() {
 		var resultsScrollingHTML = '';
 		var geo = currentGeo();
 		var results = geoResults();
-		if( results ) {
+		var viewNational = nationalEnabled() ? S(
+			'<a href="#" id="viewNational" title="', 'titleViewNational-br'.T(), '" style="">',
+				'viewNational-br'.T(),
+			'</a>'
+		) : '&nbsp;';
+		if( !results ) {
+			resultsHeaderHTML = S(
+				'<div style="padding-bottom:3px;">',
+					viewNational,
+				'</div>'
+			);
+		} else {
 			var topCandidates = getTopCandidates( results, -1, 'votes' );
 			var cutOff = Math.min(topCandidates.length, 4);
 			var top = cutOff ? formatSidebarTopCandidates( topCandidates.slice( 0, cutOff ), topCandidates.total) : '';
 			var test = testFlag( results );
-			var viewNational = nationalEnabled() ? S(
-				'<a href="#" id="viewNational" title="', 'titleViewNational-br'.T(), '" style="">',
-					'viewNational-br'.T(),
-				'</a>'
-			) : '&nbsp;';
 			resultsHeaderHTML = S(
 				'<div id="percent-reporting" class="body-text">',
 					'percentReporting'.T( totalReporting(results) ),
@@ -1746,7 +1748,7 @@ function nationalEnabled() {
 					'<div class="candidate-name" style="',
 								election.photos ? '' : 'margin-top:4px; margin-bottom:4px;',
 							'">',
-						'<div class="last-name" style="font-weight:bold;">',
+						'<div class="last-name">',
 							candidateLabel,
 						'</div>',
 					'</div>',
@@ -1785,6 +1787,9 @@ function nationalEnabled() {
 	
 	function formatFeatureName( feature ) {
 		if( ! feature ) return '';
+		if (debug) {
+			return S( '(', featureId(feature), ') ', feature.name);
+		}
 		return feature.name;
 	}
 	
@@ -2324,7 +2329,8 @@ function formatMoney( n, decPlaces, thouSeparator, decSeparator) {
 			nCandidates = election.parties.length;
 			colIncr = 2;
 			election.parties.forEach( function( party ) {
-				col.push( 'TabCount-' + party.id );
+				col.push( 'TabCount-' + party.id + '-A');
+				col.push( 'TabCount-' + party.id + '-W');
 			});
 		} else {
 			for (var i = 0; i < nCandidates + 2; i++) {
@@ -2468,6 +2474,11 @@ function formatMoney( n, decPlaces, thouSeparator, decSeparator) {
 	}
 	
 	function loadResultTable( json, loading ) {
+		// only show test data in debug mode.
+		if ( json.mode == 'test'  &&  ! debug ) {
+			geoReady();
+			return;
+		}
 		if( loading )
 			cacheResults.add( json.electionid, json, opt.resultCacheTime );
 		
@@ -2489,7 +2500,7 @@ function formatMoney( n, decPlaces, thouSeparator, decSeparator) {
 		var colIncr = multiColumn ? 4 : 2;
 
 		// trigger potential switch.
-		var probePartyId = multiColumn ? results.rows[3] : extractPartyId(cols[0]);
+		var probePartyId = multiColumn ? results.rows[3][colID-1] : extractPartyId(cols[0]);
 		if (parseInt(probePartyId) > 70 && election.parties === election.allParties[0]) {
 			window.console.log('Test parties detected');
 			election.parties = election.allParties[1];
@@ -2567,7 +2578,9 @@ function formatMoney( n, decPlaces, thouSeparator, decSeparator) {
 					votes: tabCount
 				};
 				candidates.push( candidate );
-				rowT[ colT['TabCount-' + partyID] ] += tabCount;
+				if (!multiColumn) {
+					rowT[ colT['TabCount-' + partyID] ] += tabCount;
+				}
 				if (party.synthetic) {
 					rowT[colT.InvalidTotal] += tabCount;
 				} else {
@@ -2577,6 +2590,10 @@ function formatMoney( n, decPlaces, thouSeparator, decSeparator) {
 					row.candidateMax = candidates.length - 1;
 					max = tabCount;
 				}
+			}
+			if (multiColumn && row.candidateMax >= 0) {
+				candidate = candidates[row.candidateMax];
+				rowT[ colT['TabCount-' + candidate.id ] ] += 1;
 			}
 			rowT[colT.TabTotal] += row[col.TabTotal];
 			rowT[colT.NumBallotBoxes] += row[col.NumBallotBoxes];
