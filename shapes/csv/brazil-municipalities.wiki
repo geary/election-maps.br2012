@@ -79,8 +79,8 @@ Here is the list of all 5,564 [[Municipalities of Brazil|municipalities]] of Bra
 |-
 |[[Oiapoque]]
 |-
-|rowspan=11|Sul do Amapa
-|rowspan=8|Macapa
+|rowspan=12|Sul do Amapa
+|rowspan=9|Macapa
 |[[Cutias]]
 |-
 |[[Ferreira Gomes]]
@@ -88,6 +88,8 @@ Here is the list of all 5,564 [[Municipalities of Brazil|municipalities]] of Bra
 |[[Itaubal]]
 |-
 |[[Macapá]] (State Capital)
+|-
+|[[Água Branca do Amapari]]
 |-
 |[[Pedra Branca do Amapari]]
 |-
@@ -3031,8 +3033,14 @@ Here is the list of all 5,564 [[Municipalities of Brazil|municipalities]] of Bra
 !Microregion
 !Municipality
 |-
-|rowspan=66|Agreste Paraibano
-|rowspan=8|Brejo Paraibano
+|rowspan=69|Agreste Paraibano
+|rowspan=11|Brejo Paraibano
+|[[São Vicente do Seridó]]
+|-
+|[[São Domingos de Pombal]]
+|-
+|[[Joca Claudino]]
+|-
 |[[Alagoa Grande]]
 |-
 |[[Alagoa Nova]]
@@ -4612,7 +4620,7 @@ Here is the list of all 5,564 [[Municipalities of Brazil|municipalities]] of Bra
 |-
 |[[Parnamirim, Rio Grande do Norte|Parnamirim]]
 |-
-|rowspan=62|Oeste Potiguar
+|rowspan=65|Oeste Potiguar
 |rowspan=4|Chapada do Apodi
 |[[Apodi]]
 |-
@@ -4725,7 +4733,13 @@ Here is the list of all 5,564 [[Municipalities of Brazil|municipalities]] of Bra
 |-
 |[[Umarizal]]
 |-
-|rowspan=9|Vale do Açu
+|rowspan=12|Vale do Açu
+|[[Campo Grande, Rio Grande do Norte|Campo Grande]]
+|-
+|[[Serra Caiada]]
+|-
+|[[Boa Saúde]]
+|-
 |[[Açu]]
 |-
 |[[Alto do Rodrigues]]
@@ -5763,8 +5777,10 @@ Here is the list of all 5,564 [[Municipalities of Brazil|municipalities]] of Bra
 !Microregion
 !Municipality
 |-
-|rowspan=16|Centro Norte de Mato Grosso do Sul
-|rowspan=8|Alto Taquari
+|rowspan=17|Centro Norte de Mato Grosso do Sul
+|rowspan=9|Alto Taquari
+|Paraíso das Águas
+|-
 |[[Alcinópolis]]
 |-
 |[[Camapuã]]
@@ -7927,8 +7943,10 @@ Here is the list of all 5,564 [[Municipalities of Brazil|municipalities]] of Bra
 !Microregion
 !Municipality
 |-
-|rowspan=10|Baixadas
-|rowspan=3|Bacia de Sao Joao
+|rowspan=11|Baixadas
+|rowspan=4|Bacia de Sao Joao
+|[[Trajano de Morais]]
+|-
 |[[Casimiro de Abreu, Rio de Janeiro|Casimiro de Abreu]]
 |-
 |[[Rio das Ostras]]
@@ -10372,8 +10390,12 @@ Here is the list of all 5,564 [[Municipalities of Brazil|municipalities]] of Bra
 !Microregion
 !Municipality
 |-
-|rowspan=31|Centro Ocidental Rio-Grandense
-|rowspan=9|Restinga Seca
+|rowspan=33|Centro Ocidental Rio-Grandense
+|rowspan=11|Restinga Seca
+|[[Sant'Ana do Livramento]]
+|-
+|[[Pinto Bandeira]]
+|-
 |[[Agudo, Rio Grande do Sul|Agudo]]
 |-
 |[[Dona Francisca]]
@@ -11912,8 +11934,12 @@ Here is the list of all 5,564 [[Municipalities of Brazil|municipalities]] of Bra
 |-
 |[[Tubarão]]
 |-
-|rowspan=54|Vale do Itajai
-|rowspan=15|Blumenau
+|rowspan=56|Vale do Itajai
+|rowspan=17|Blumenau
+|[[Pescaria Brava]]
+|-
+|[[Balneário Rincão]]
+|-
 |[[Apiúna]]
 |-
 |[[Ascurra]]
