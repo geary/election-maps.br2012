@@ -326,7 +326,7 @@ document.write(
 	'</div>',
 	'<a id="tse-logo" class="logo" target="_blank" href="http://www.tse.jus.br/" alt="', 'brSource'.T(), '">',
 	'</a>',
-	'<a id="google-logo" class="logo" target="_blank" href="http://www.google.br/elections/ed/br" title="', 'googlePoliticsTitle'.T(), '">',
+	'<a id="google-logo" class="logo" target="_blank" href="http://www.google.com.br/elections/ed/br" title="', 'googlePoliticsTitle'.T(), '">',
 	'</a>',
 	'<div id="error" style="display:none;">',
 	'</div>',
