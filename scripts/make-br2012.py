@@ -207,15 +207,15 @@ def buildDatabase( database ):
 	build = True
 	if not build:
 		return openDatabase( database )
-	createDatabase( database)
+	#createDatabase( database)
+	#db.addUtilityFunctions()
 	db = openDatabase( database )
-	db.addUtilityFunctions()
 	createSchema( db )
 	loadBrazilStateTable( db )
 	loadBrazilMuniTable( db )
 	loadBrazilMuniShapes( db )
 	updateBrazilMuniTable( db )
-	db.registerGeometryColumn('br', 'munishape', 'muni')
+	#db.registerGeometryColumn('br', 'munishape', 'muni')
 	mergeAllGeometries( db )
 	return db
 

@@ -2464,7 +2464,7 @@ function formatMoney( n, decPlaces, thouSeparator, decSeparator) {
 				id = id.toUpperCase();
 			}
 			var feature = opt_features.by[id];
-			if (feature) {
+			if (feature && feature.id) {
 				return feature.id;
 			}
 			debug && console && console.log('Did not find feature id [', id, '] in features: ', opt_features);
@@ -2604,7 +2604,7 @@ function formatMoney( n, decPlaces, thouSeparator, decSeparator) {
 			for( var row, iRow = -1;  row = rows[++iRow]; ) {
 				var id = fixup( geoid, row[colID], features, geo.table);
 				if( ! features.by[id] )
-					missing.push( S( id, ' in results but not in GeoJSON' ) );
+					missing.push( S( id, '(', row[colID], ') in results but not in GeoJSON' ) );
 			}
 			for( var feature, iFeature = -1;  feature = features[++iFeature]; ) {
 				var id = feature.id;

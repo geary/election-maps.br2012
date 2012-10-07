@@ -112,8 +112,8 @@ def getCod( origKey ):
 		print 'did not find %s in map: %s' % (origKey, [k for k in map.keys() if k.startswith(origKey[0:min(3,len(key))])])
 
 def ignored(state, muni, cod):
-	if cod == '00000':
-		return True
+	if cod[0] == '00000':
+		return False
 	return False
 
 def doEndRow( match ):
