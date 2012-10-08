@@ -1538,7 +1538,6 @@ function nationalEnabled() {
 	}
 	
 	function formatSidebar() {
-		window.console.log('parties: ', election.parties);
 		var resultsHeaderHTML = '';
 		var resultsScrollingHTML = '';
 		var geo = currentGeo();
@@ -2502,7 +2501,6 @@ function formatMoney( n, decPlaces, thouSeparator, decSeparator) {
 		// trigger potential switch.
 		var probePartyId = multiColumn ? results.rows[3][colID-1] : extractPartyId(cols[0]);
 		if (parseInt(probePartyId) > 70 && election.parties === election.allParties[0]) {
-			window.console.log('Test parties detected');
 			election.parties = election.allParties[1];
 			election.allParties[1].index('id');
 		}
@@ -2650,9 +2648,7 @@ function formatMoney( n, decPlaces, thouSeparator, decSeparator) {
 		.bind( 'resize', resizeView );
 
         $(document).ready(function() {
-            console.log('initial load ', current);
             loadView();
-            console.log('loaded: ', current);
         });
 	
 	getScript( S(
@@ -2664,12 +2660,11 @@ function formatMoney( n, decPlaces, thouSeparator, decSeparator) {
 	analytics( 'map', 'load' );
 	
 	$('#error').ajaxError(function(evt, xhr, settings, error) {
-		console.log('Ajax error: ', error, xhr);
-		$(this).append(S('<div> Ajax error: ', error, '</div>'));
 		if (debug) {
+			$(this).append(S('<div> Ajax error: ', error, '</div>'));
 			$(this).show();
 			throw error;
-        }
+		}
 	});
 	
 })( jQuery );
