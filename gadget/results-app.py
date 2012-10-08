@@ -31,37 +31,7 @@ def checkReferer( req, required ):
 	if ver == 'nv2012': return True
 	if ver == 'fr2012': return True
 	if ver == 'fr2012-test': return True
-	return checkRefererURL( req.headers.get('Referer'), required )
-
-
-#def checkRefererURL( referer, required ):
-#	if referer is not None: referer = referer.lower()
-#	return refcheck.check( referer, required )
-
-
-def checkRefererURL( referer, required ):
-	if not referer:
-		return not required
-	ref = urlparse( referer.lower() )
-	if not ref:
-		return False
-	for goodURL in private.whitelist:
-		good = urlparse( goodURL.lower() )
-		if checkParsedURL( good, ref ):
-			return True
-	return False
-
-
-def checkParsedURL( good, url ):
-	return(
-		( good.scheme == ''  or  url.scheme == good.scheme )
-			and
-		( good.hostname is None  or  url.hostname.endswith(good.hostname) )
-			and
-		( good.port is None  or  url.port == good.port )
-			and
-		( good.path is None  or  url.path.startswith(good.path) )
-	)
+	return private.checkRefererURL( req.headers.get('Referer'), required )
 
 
 class VoteDataHandler( webapp.RequestHandler ):
@@ -142,6 +112,4 @@ def test():
 
 
 if __name__ == '__main__':
-	if private.runtest:
-		test()
 	main()
