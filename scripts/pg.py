@@ -542,7 +542,8 @@ class Database:
 
 	def makeFeatureCollection( self,
 		table, boxGeom, polyGeom,
-		geoid, name, idCol, nameCol, extraCol, where='true', fixid=None
+		geoid, name, idCol, nameCol, extraCol, where='true', fixid=None,
+    orderBy=None
 	):
 		print 'makeFeatureCollection'
 		if fixid is None: geoidfix = geoid
@@ -586,6 +587,8 @@ class Database:
 		else:
 			t2 = time.clock()
 		
+		if orderBy is None:
+			orderBy = idCol
 		self.execute('''
 			SELECT
 				%(idCol)s, %(nameCol)s,
@@ -599,7 +602,7 @@ class Database:
 --			AND
 				%(where)s
 			ORDER BY
-				%(idCol)s
+				%(orderBy)s
 			;
 		''' % {
 			'table': table,
@@ -609,6 +612,7 @@ class Database:
 			'nameCol': nameCol,
 			'extraCol': extraCol, 
 			'where': where,
+			'orderBy': orderBy
 		})
 		t3 = time.clock()
 		print 'SELECT rows %.1f seconds' %( t3 - t2 )

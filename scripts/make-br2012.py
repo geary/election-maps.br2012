@@ -55,13 +55,14 @@ def loadBrazilMuniTable( db ):
 	db.loadCsvTable(
 		'../shapes/csv/brazil-municipalities.csv',
 		'br.munilist',
-		'region, idstate, abbrstate, state, muni, tsecod',
+		'region, idstate, abbrstate, state, muni, tsecod, rounds',
 		'''
 			region varchar(30),
 			idstate varchar(2),
 			abbrstate varchar(2),
 			state varchar(60),
 			tsecod varchar(5),
+			rounds int,
 			muni varchar(60)
 		'''
 	)
@@ -111,7 +112,7 @@ def updateBrazilMuniTable( db ):
 		
 		CREATE VIEW br.muni
 		AS SELECT
-			region, idstate, abbrstate, state, muni, idmuni, tsecod, ttymuni, (
+			region, idstate, abbrstate, state, muni, idmuni, tsecod, rounds, ttymuni, (
 				SELECT geom FROM br.munishape WHERE cd_geocodm = idmuni
 			) AS geom
 		FROM br.munilist;
@@ -162,11 +163,23 @@ def writeNation( db ):
 		boxGeom, geom, geoid, 'Brazil',
 		'nation', 'nation', 'nation'
 	)
+	geoRound2 = db.makeFeatureCollection(
+		'br.muni',
+		boxGeom, geom, 'BR2', 'Brazil',
+		'idmuni', 'muni', 'abbrstate, tsecod',
+    '( rounds > 1 )', orderBy='ttymuni'
+	)
 	geo = {
 		'nation': geoNation,
 		'state': geoState,
 	}
 	writeGeoJSON( db, geoid, geom, geo )
+	geo = {
+		'nation': geoNation,
+		'state': geoState,
+		'muni': geoRound2
+	}
+	writeGeoJSON( db, 'BR2', geom, geo )
 
 
 def writeEachState( db ):
