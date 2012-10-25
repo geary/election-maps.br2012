@@ -33,6 +33,7 @@ loadStrings({
 "delegatesAttrib": "Voorspellingen van Associated Press", 
 "district": "District {{name}}", 
 "districtNum": "{{name}} {{ordinal}} District", 
+"featureSelect": "", 
 "finalResults": "Definitieve Resultaten", 
 "frSource": "Bron: Ministerie van Binnenlandse Zaken", 
 "googlePoliticsTitle": "Google Politics & Elections", 

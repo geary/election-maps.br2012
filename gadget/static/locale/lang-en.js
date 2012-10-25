@@ -33,6 +33,7 @@ loadStrings({
 "delegatesAttrib": "Associated Press projections", 
 "district": "District {{name}}", 
 "districtNum": "{{name}} {{ordinal}} District", 
+"featureSelect": "Select an area", 
 "finalResults": "Final Results", 
 "frSource": "Source: Ministry of the Interior", 
 "googlePoliticsTitle": "Google Politics & Elections", 

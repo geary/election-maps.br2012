@@ -33,6 +33,7 @@ loadStrings({
 "delegatesAttrib": "Proje\u00e7\u00f5es da Associated Press", 
 "district": "Distrito {{name}}", 
 "districtNum": "{{name}} {{ordinal}} Distrito", 
+"featureSelect": "Selectione uma regi\u00e3o", 
 "finalResults": "Resultados Finais", 
 "frSource": "Fonte: Minist\u00e9rio do Interior", 
 "googlePoliticsTitle": "Pol\u00edtica e elei\u00e7\u00f5es no Google", 

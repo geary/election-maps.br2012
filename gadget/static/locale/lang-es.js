@@ -33,6 +33,7 @@ loadStrings({
 "delegatesAttrib": "Pron\u00f3sticos de Associated Press", 
 "district": "Distrito {{name}}", 
 "districtNum": "{{name}} {{ordinal}} Distrito", 
+"featureSelect": "", 
 "finalResults": "Resultados Finales", 
 "frSource": "Fuente: Ministerio del Interior", 
 "googlePoliticsTitle": "Pol\u00edtica y elecciones de Google", 

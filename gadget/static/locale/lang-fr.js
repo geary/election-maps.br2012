@@ -33,6 +33,7 @@ loadStrings({
 "delegatesAttrib": "Estimations de l'Associated Press", 
 "district": "Circonscription {{name}}", 
 "districtNum": "{{name}} {{ordinal}} Circonscription", 
+"featureSelect": "", 
 "finalResults": "R\u00e9sultats Finaux", 
 "frSource": "Source: Minist\u00e8re de l'Int\u00e9rieur", 
 "googlePoliticsTitle": "Google\u00a0Politics\u00a0&\u00a0Elections", 
