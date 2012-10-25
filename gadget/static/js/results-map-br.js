@@ -8,7 +8,7 @@ var times = {
 };
 
 // Default params
-var defaultElectionKey = '2012';
+var defaultElectionKey = '2012-mayor-1';
 params.year = params.year || '2012';
 params.contest = params.contest || 'mayor';
 params.round = params.round || '1';
@@ -35,11 +35,12 @@ parties2012.index('id');
 opt.randomized = params.randomize || params.zero;
 
 var electionKey, election;
-setElection();
 
 function setElection() {
 	electionKey = [ params.year, params.contest, params.round ].join( '-' );
 	election = elections[electionKey] || elections[defaultElectionKey];
+	geoMoveNext = (current.geoid != election.initialGeoid);
+	current.geoid = election.initialGeoid
 }
 
 function longDateFromYMD( yyyymmdd ) {
@@ -58,8 +59,10 @@ if( params.date ) {
 }
 
 var current = {
-	geoid: 'BR',
-	national: true
+	geoid: '',
+	isNational: function() {
+		return (current.geoid == 'BR' && params.round == 1);
+	},
 };
 
 //states.index('abbr').index('electionid').index('fips');
@@ -95,7 +98,7 @@ var current = {
 //	delete params.view;  // too slow for all-county view
 //}
 
-//var view = ( params.view == 'county' || ! current.national ? 'county' : 'state' );
+//var view = ( params.view == 'county' || ! current.isNational() ? 'county' : 'state' );
 
 // Analytics
 var _gaq = _gaq || [];
@@ -419,14 +422,13 @@ function formatSidebarTable( cells ) {
 					//	'legislative'.T(),
 					//'</a>',
 					//'&nbsp;&nbsp;&nbsp;&nbsp;',
-					//'<a class="button', params.round == 1 ? ' selected' : '', '" id="btnRound1">',
-					//	'round1'.T(),
-					//'</a>',
-					//'&nbsp;',
-					//'<a class="button',
-					//			params.round == 2 ? ' selected' : '', '" id="btnRound2">',
-					//	'round2'.T(),
-					//'</a>',
+					'<a class="button', params.round == '1' ? ' selected' : '', '" id="btnRound1">',
+						'round1'.T(),
+					'</a>',
+					'&nbsp;',
+					'<a class="button', params.round == '2' ? ' selected' : '', '" id="btnRound2">',
+						'round2'.T(),
+					'</a>',
 				'</div>',
 				'<div style="clear:both;">',
 				'</div>',
@@ -435,7 +437,7 @@ function formatSidebarTable( cells ) {
 	}
 	
 function nationalEnabled() {
-	return ! current.national;
+	return current.geoid != election.initialGeoid;
 }
 
 (function( $ ) {
@@ -467,16 +469,13 @@ function nationalEnabled() {
 	
 	var geoJSON = {};
 	function loadRegion( geoid ) {
-		var level =
-			params.level != null ? params.level :
-			geoid == 'BR' ? '' : '';
 		geoid = geoid || current.geoid;
 		var json = geoJSON[geoid];
 		if( json ) {
 			loadGeoJSON( json, true );
 		}
 		else {
-			var file = S( 'br-', geoid, '-geom', level, '.js' );
+			var file = S( 'br-', geoid, '-geom', '.js' );
 			getGeoJSON( 'shapes/json/' + file );
 		}
 	}
@@ -506,7 +505,6 @@ function nationalEnabled() {
 			}
 		}
 		var geoid = ( json.muni || json.state ).id;
-		current.national = ( geoid == 'BR' );
 		current.geoid = geoid;
 		if( ! geoJSON[geoid] ) {
 			geoJSON[geoid] = json;
@@ -535,10 +533,6 @@ function nationalEnabled() {
 	
 	var tweakGeoJSON = {
 		BR: function( json, geoid ) {
-			//var features = geoJSON.FR.departement.features;
-			//features.by['986'].click = false;  // Wallis et Futuna
-			//features.by['987'].click = false;  // French Polynesia
-			//addLivingAbroad( features );
 			var df = json.state.features.by['DF'];
 			if (df) {
 				df.draw = df.showTip = df.click = false;
@@ -575,7 +569,6 @@ function nationalEnabled() {
 			]);
 		}
 		ring.push( ring[0] );
-		return [ ring ];
 	}
 	
 	// TODO: refactor with addLivingAbroad()
@@ -775,6 +768,7 @@ function nationalEnabled() {
 		}
 		else {
 			polys();
+			onSearchBoxSelect($('#feature-name-select').val());
 		}
 		//$('#view-usa').toggle( state.fips != '00' );
 		$('#spinner').hide();
@@ -796,11 +790,16 @@ function nationalEnabled() {
 	
 	function currentGeos() {
 		var json = geoJSON[current.geoid];
-		var jsonBR = geoJSON.BR;
-		jsonBR.state.draw = ! json.muni;
-		return json.muni ?
-				[ json.muni, json.state, jsonBR.state ] :
-				[ json.state, json.nation ];
+		if (json.muni) {
+			if (params.round == 2) {
+				return [ json.muni, json.nation ]
+			} else {
+				var jsonBR = geoJSON.BR;
+				jsonBR.state.draw = ! json.muni;
+				return [ json.muni, json.state, jsonBR.state ]
+			}
+		}
+		return [ json.state, json.nation ]
 	}
 	
 	function moveToGeo() {
@@ -826,7 +825,7 @@ function nationalEnabled() {
 			//	bbox: [ 18205000, -2600000, 18720000, -2215000 ]
 			//},
 			_: 0
-		}[current.geoid] || json.state;
+		}[current.geoid] || json.state || json.nation;
 		geo && fitBbox( geo.bbox );
 	}
 	
@@ -939,7 +938,7 @@ function nationalEnabled() {
 /*
 		nationalEnabled() && gme.addListener( map, 'zoom_changed', function() {
 			var zoom = map.getZoom();
-			if( zoom <= 4  &&  ! current.national )
+			if( zoom <= 4  &&  ! current.isNational() )
 				gotoGeo( '00', 'zoom' );
 		});
 */
@@ -947,6 +946,7 @@ function nationalEnabled() {
 	
 	function maybeGo( where, feature, why ) {
 		if(
+			params.round == '1' &&
 			where.geo.id == 'BR'  &&
 			feature.id != current.geoid  &&
 			feature.click !== false
@@ -985,7 +985,10 @@ function nationalEnabled() {
 					'default';
 				map.setOptions({ draggableCursor: cursor });
 				outlineFeature( where );
-				showTipThrottle( function() { showTip(where); });
+				showTipThrottle( function() {
+					 $('#feature-name-select').val( feature ? feature.fid : '');
+					 showTip(where);
+				 });
 			});
 		},
 		touchstart: function( event, where ) {
@@ -1069,7 +1072,7 @@ function nationalEnabled() {
 		var json = geoJSON[current.geoid];
 		if( json.muni ) {
 			colorVotes( json.muni, '#666666', 1, 1 );
-			colorSimple( json.state, '#FFFFFF', '#444444', 1, 2 );
+			colorSimple( json.state || json.nation, '#FFFFFF', '#444444', 1, 2 );
 		}
 		else {
 			colorVotes( json.state, '#666666', 1, 1 );
@@ -1145,14 +1148,14 @@ function nationalEnabled() {
 	
 	function useInset() {
 		return false;
-		if( ! current.national ) return false;
+		if( ! current.isNational() ) return false;
 		var zoom = map.getZoom();
 		return zoom >= 3  &&  zoom <= 6;
 	}
 	
 	function getInsetUnderlay() {
 		return null;
-		if( ! current.national ) return null;
+		if( ! current.isNational() ) return null;
 		var zoom = map.getZoom();
 		var extra = zoom - 5;
 		var pow = Math.pow( 2, extra );
@@ -1345,7 +1348,7 @@ function nationalEnabled() {
 				showTip( false );
 				event.preventDefault();
 			}
-			else if( current.national ) {
+			else if( current.isNational() ) {
 				// Only touch devices for now
 				var feature = touch && touch.where && touch.where.feature;
 				if( feature ) gotoGeo( feature, 'tap' );
@@ -1357,6 +1360,7 @@ function nationalEnabled() {
 		tipHtml = formatTip( where );
 		if( tipHtml ) {
 			$maptip.html( tipHtml ).show();
+			current.selectedFeature = featureId(where.feature);
 		}
 		else {
 			$maptip.hide();
@@ -1438,12 +1442,12 @@ function nationalEnabled() {
 	function getTopCandidates( results, row, sortBy, max, useSortKey ) {
 		if( ! row ) return [];
 		var showAll = false;
-		var colIncr = current.national ? 2 : 4;
+		var colIncr = current.isNational() ? 2 : 4;
 		var col = results.colsById;
 		max = max || Infinity;
 		if( row == -1 ) {
 			// Use totals column.
-			showAll = current.national;
+			showAll = current.isNational();
 			colIncr = 2;
 			useSortKey = true;
 			row = results.totals.row;
@@ -1533,9 +1537,38 @@ function nationalEnabled() {
 		return debug && results && ( results.mode == 'test'  ||  opt.randomized );
 	}
 	
-	function viewNationalEnabled() {
-		return ! current.national  &&  nationalEnabled();
+	function formatSearchBox( geo ) {
+		var options = geo.features.map(function (feature) {
+			var name = feature.name;
+			var id = featureId(feature);
+			if (feature.click === false) {
+				return '';
+			}
+			var selected = (id == current.selectedFeature) ? ' selected' : '';
+			return S('<option value="', id, '"', selected, '>', name, '</option>');
+		});
+		return S(
+			'<select id=feature-name-select>',
+			'<option value="">', 'featureSelect'.T(), '</option>',
+			options.join(''),
+			'</select>');
 	}
+
+	function onSearchBoxSelect(val) {
+		if (!val) return;
+		current.selectedFeature = val;
+		if (current.isNational()) {
+			gotoGeo(val, 'select');
+		} else {
+			var geo = currentGeo();
+			var where = { geo: geo, feature: geo.features.by[val] };
+			if (where && where.feature) {
+				outlineFeature( where );
+				setTimeout( function() { showTip(where); }, 0 );
+			}
+		}
+	}
+
 	
 	function formatSidebar() {
 		var resultsHeaderHTML = '';
@@ -1569,6 +1602,9 @@ function nationalEnabled() {
 				'</div>',
 				'<div style="padding-bottom:3px;">',
 					viewNational,
+				'</div>',
+				'<div style="padding-bottom:3px;">',
+					formatSearchBox(geo),
 				'</div>'
 			);
 			var candidates = topCandidates.map( formatSidebarCandidate );
@@ -1673,9 +1709,9 @@ function nationalEnabled() {
 					'</div>',
 				'</td>',
 				// '<td>',
-				// 	'<div class="legend-candidate" style="text-align:right;">',
-				// 		formatPercent( candidate.vsAll ),
-				// 	'</div>',
+				//	'<div class="legend-candidate" style="text-align:right;">',
+				//		formatPercent( candidate.vsAll ),
+				//	'</div>',
 				// '</td>',
 				'<td class="right">',
 					'<div class="legend-candidate">',
@@ -1698,11 +1734,11 @@ function nationalEnabled() {
 				'</th>',
 				'<th style="text-align:right; padding-bottom:4px;">',
 					header.value,
-					//current.national  &&  view != 'county' ? 'delegatesAbbr'.T() : '',
+					//current.isNational()  &&  view != 'county' ? 'delegatesAbbr'.T() : '',
 				'</th>',
 			'</tr>'
 		) : '';
-		var cls = current.national ? 'national' : 'state';
+		var cls = current.isNational() ? 'national' : 'state';
 		return S(
 			'<table class="candidates ', cls, '" cellpadding="0" cellspacing="0">',
 				thead,
@@ -1759,7 +1795,7 @@ function nationalEnabled() {
 				'</td>',
 				'<td class="right" style="text-align:right; padding-left:6px;">',
 					voteDivs,
-					//current.national  &&  view != 'county' ? S(
+					//current.isNational()  &&  view != 'county' ? S(
 					//	'<div class="candidate-delegates">',
 					//		candidate.delegates,
 					//	'</div>'
@@ -1814,8 +1850,8 @@ function nationalEnabled() {
 			top = getTopCandidates( results, row, 'votes', 4 , /* useSortKey */ true);
 			if( row.wonRound1 ) top[0].wonRound1 = true;
 			var heading = {
-				title: current.national ? 'party'.T() : 'candidate'.T(),
-				value: current.national ? 'municipalities'.T() : 'votes'.T()
+				title: current.isNational() ? 'party'.T() : 'candidate'.T(),
+				value: current.isNational() ? 'municipalities'.T() : 'votes'.T()
 			};
 			var content = S(
 				'<div class="tipcontent">',
@@ -1842,7 +1878,7 @@ function nationalEnabled() {
 		
 		var clickForLocal =
 			top.length &&
-			current.national ? S(
+			current.isNational() ? S(
 				'<div class="click-for-local faint-text">',
 					( feature.click === false ? 'noLocal' : touch ? 'tapForLocal' : 'clickForLocal' ).T(),
 				'</div>'
@@ -1905,7 +1941,9 @@ function nationalEnabled() {
 			y < mapPixBounds.top  ||
 			y >= mapPixBounds.bottom
 		) {
-			showTip( false );
+			$maptip.css({left: 'auto', right: '20%', top: 'auto', bottom: '20%'});
+			return;
+			//showTip( false );
 		}
 		x += tipOffset.x;
 		y += tipOffset.y;
@@ -1926,7 +1964,7 @@ function nationalEnabled() {
 		if( y < pad )
 			y = wh - pad - height - tipOffset.y * 2;
 		
-		$maptip.css({ left:x, top:y });
+		$maptip.css({ left:x, top:y, right: 'auto', bottom: 'auto' });
 	}
 	
 	// TODO: rewrite this
@@ -2096,6 +2134,9 @@ function formatMoney( n, decPlaces, thouSeparator, decSeparator) {
 				setCandidate( id, 'click' );
 			}
 		});
+		$(document).on('change keypress click', '#feature-name-select', function(e) {
+			onSearchBoxSelect($(this).val());
+		});
 		
 		$topbar.delegate( 'a', {
 			mouseover: function( event ) {
@@ -2150,11 +2191,11 @@ function formatMoney( n, decPlaces, thouSeparator, decSeparator) {
 		}
 	}
 	
-	//function setRound( round ) {
-	//	params.round = round;
-	//	setElection();
-	//	loadView();
-	//}
+	function setRound( round ) {
+		params.round = round;
+		setElection();
+		loadView();
+	}
 	
 	function setYear( year ) {
 		params.year = year;
@@ -2258,7 +2299,7 @@ function formatMoney( n, decPlaces, thouSeparator, decSeparator) {
 	//	if( state.shapes ) callback();
 	//	else getJSON( 'shapes', opt.shapeUrl, state.abbr.toLowerCase() + '.json', 3600, function( shapes ) {
 	//		state.shapes = shapes;
-	//		//if( current.national ) shapes.features.state.index('state');
+	//		//if( current.isNational() ) shapes.features.state.index('state');
 	//		callback();
 	//	});
 	//}
@@ -2324,7 +2365,7 @@ function formatMoney( n, decPlaces, thouSeparator, decSeparator) {
 		var colIncr = 4;
 		var offSet = randomInt(5);
 		var col = [];
-		if ( current.national ) {
+		if ( current.isNational() ) {
 			nCandidates = election.parties.length;
 			colIncr = 2;
 			election.parties.forEach( function( party ) {
@@ -2354,7 +2395,7 @@ function formatMoney( n, decPlaces, thouSeparator, decSeparator) {
 		var rows = currentGeo().features.map( function( feature ) {
 			var row = [];
 			var colID = col.ID;
-			row[colID] = current.national ? feature.abbrstate.toLowerCase() : featureId(feature);
+			row[colID] = current.isNational() ? feature.abbrstate.toLowerCase() : featureId(feature);
 			var nPrecincts = row[col.NumBallotBoxes] = random( 50 ) + 5;
 			var nCounted = row[col.NumCountedBallotBoxes] =
 				params.randomize == '100' ? nPrecincts :
@@ -2365,11 +2406,11 @@ function formatMoney( n, decPlaces, thouSeparator, decSeparator) {
 					)
 				);
 			var total = 0;
-			var available = current.national ? currentGeo().features.length : 1000000 + randomInt(Math.abs(feature.centroid[0]));
+			var available = current.isNational() ? currentGeo().features.length : 1000000 + randomInt(Math.abs(feature.centroid[0]));
 			function pushCandidate(iCol, votes, name, partyID) {
 				available -= votes
 				total += row[iCol] = nCounted ? votes : 0;
-				if ( ! current.national ) {
+				if ( ! current.isNational() ) {
 					row[iCol+1] = name;
 					// last name empty.
 					row[iCol+2] = '';
@@ -2459,7 +2500,7 @@ function formatMoney( n, decPlaces, thouSeparator, decSeparator) {
 		if( id === null )
 			return null;
 		if (opt_features) {
-			if (current.national) {
+			if (current.isNational()) {
 				id = id.toUpperCase();
 			}
 			var feature = opt_features.by[id];
@@ -2543,7 +2584,7 @@ function formatMoney( n, decPlaces, thouSeparator, decSeparator) {
 
 		function extractPartyId(colTitle) {
 			var l = 'TabCount-'.length;
-			var id = current.national ? colTitle.substring(l, l+2) : colTitle.substring(l);
+			var id = current.isNational() ? colTitle.substring(l, l+2) : colTitle.substring(l);
 			return id;
 		}
 		results.cols.by = {};
@@ -2619,6 +2660,8 @@ function formatMoney( n, decPlaces, thouSeparator, decSeparator) {
 		if (debug && params.loc && params.loc != current.geoid) {
 			var loc = params.loc;
 			delete params.loc;
+			stopCycle();
+			geoMoveNext = true;
 			loadViewID(loc);
 		}
 		if( debug == 'verbose'  ||  ( missing.length  &&  debug  &&  debug != 'quiet' ) ) {
@@ -2644,13 +2687,12 @@ function formatMoney( n, decPlaces, thouSeparator, decSeparator) {
 			$(this).stop().fadeTo( 500, .5 );
 		});
 	
-	$window
-		.bind( 'resize', resizeView );
+	$(document).ready(function() {
+		setElection();
+		loadView();
+		$window.bind( 'resize', resizeView );
+	});
 
-        $(document).ready(function() {
-            loadView();
-        });
-	
 	getScript( S(
 		location.protocol == 'https:' ? 'https://ssl' : 'http://www',
 		'.google-analytics.com/',
