@@ -20,7 +20,7 @@ writer = csv.writer( file(MUNIS_CSV,'wb') )
 writer.writerow([
 	'region',
 	'idstate', 'abbrstate', 'state',
-	'muni', 'tsecod'
+	'muni', 'tsecod', 'rounds'
 ])
 
 codemap = {
@@ -35,7 +35,7 @@ def readCodes():
 		if not statemap:
 			codemap[row[0]] = statemap = {}
 		muni = unescape(row[1].replace('&apos;', '\'').decode('iso-8859-1')).upper()
-		statemap[muni] = [row[2], 0]
+		statemap[muni] = [0, row[2], row[3]]
 		#print 'Muni code for %s (%s, %s): %s' % (muni.encode('utf-8'), row[1], row[0], row[2])
 
 def unescape( uni ):
@@ -112,7 +112,7 @@ def getCod( origKey ):
 		print 'did not find %s in map: %s' % (origKey, [k for k in map.keys() if k.startswith(origKey[0:min(3,len(key))])])
 
 def ignored(state, muni, cod):
-	if cod[0] == '00000':
+	if cod[1] == '00000':
 		return False
 	return False
 
@@ -126,17 +126,17 @@ def doEndRow( match ):
 	key = unescape(muni.decode('utf-8')).upper()
 	cod = getCod(key)
 	if cod:
-		cod[1] = cod[1] + 1
+		cod[0] = cod[0] + 1
 		#print 'Muni codes for %s (%s, %s): %s' % (key.encode('utf-8'), muni, stateAbbr, cod[0])
 	else:
-		cod = ('00000', 0)
+		cod = (0, '00000', 0)
 		missing.writerow([stateAbbr, muni, key.encode('utf-8'), 'TSE'])
 	#print '%s | %s | %s | %s | %s | %s' %( region, stateAbbr, stateName, meso, micro, muni )
 	if not ignored(stateAbbr, muni, cod):
 		writer.writerow([
 			region,
 			brazil.STATE_ABBR_TO_ID[stateAbbr], stateAbbr, stateName,
-			muni, cod[0]
+			muni, cod[1], cod[2]
 		])
 	cleanRow()
 
