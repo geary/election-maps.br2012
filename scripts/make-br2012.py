@@ -176,7 +176,6 @@ def writeNation( db ):
 	writeGeoJSON( db, geoid, geom, geo )
 	geo = {
 		'nation': geoNation,
-		'state': geoState,
 		'muni': geoRound2
 	}
 	writeGeoJSON( db, 'BR2', geom, geo )
