@@ -71,13 +71,14 @@ testParties.blankID = parties2012.blankID = '00';
 testParties.nullID = parties2012.nullID = '01';
 
 var elections = {
-	'2012': {
+	'2012-mayor-1': {
 		date: '2012-10-22',
 		tzHour: -3,
 		photos: false,
 		candidates: candidates2012,
 		allParties: [parties2012, testParties],
 		parties: parties2012,
+		initialGeoid: 'BR',
 		electionids: {
 			'BR': 2793,
 			'AC': 2794,
@@ -107,6 +108,18 @@ var elections = {
 			'SE': 2817,
 			'SP': 2818,
 			'TO': 2819
+		}
+	},
+	'2012-mayor-2': {
+		date: '2012-10-22',
+		tzHour: -3,
+		photos: false,
+		candidates: candidates2012,
+		allParties: [parties2012, testParties],
+		parties: parties2012,
+		initialGeoid: 'BR2',
+		electionids: {
+			'BR2': 3000,
 		}
 	}
 };
