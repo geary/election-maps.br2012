@@ -11,7 +11,7 @@ var times = {
 var defaultElectionKey = '2012-mayor-1';
 params.year = params.year || '2012';
 params.contest = params.contest || 'mayor';
-params.round = params.round || '1';
+params.round = params.round || '2';
 
 params.source = '';
 
@@ -61,7 +61,7 @@ if( params.date ) {
 var current = {
 	geoid: '',
 	isNational: function() {
-		return (current.geoid == 'BR' && params.round == 1);
+		return current.geoid == 'BR';
 	},
 };
 
@@ -537,6 +537,12 @@ function nationalEnabled() {
 			if (df) {
 				df.draw = df.showTip = df.click = false;
 			}
+		},
+		BR2: function( json, geoid ) {
+			json.nation.features.forEach(function(feature) {
+				feature.overlay = false;
+				feature.click = feature.showTip = false;
+			});
 		}
 	}
 	
@@ -559,16 +565,20 @@ function nationalEnabled() {
 		features.by['099'] = feature;
 	}
 	
-	function drawCircle( radius, steps ) {
+	function drawCircle( radius, steps, centroid ) {
 		var ring = [];
 		var pi2 = Math.PI * 2;
+		if ( !centroid ) {
+			centroid = [ 0, 0 ];
+		}
 		for( var i = 0;  i < steps;  ++i ) {
 			ring.push([
-				radius * Math.sin( i / steps * pi2 ),
-				radius * Math.cos( i / steps * pi2 )
+				centroid[0] + radius * Math.sin( i / steps * pi2 ),
+				centroid[1] + radius * Math.cos( i / steps * pi2 )
 			]);
 		}
 		ring.push( ring[0] );
+		return [ ring ];
 	}
 	
 	// TODO: refactor with addLivingAbroad()
@@ -791,7 +801,7 @@ function nationalEnabled() {
 	function currentGeos() {
 		var json = geoJSON[current.geoid];
 		if (json.muni) {
-			if (params.round == 2) {
+			if (params.round == '2') {
 				return [ json.muni, json.nation ]
 			} else {
 				var jsonBR = geoJSON.BR;
@@ -1071,8 +1081,12 @@ function nationalEnabled() {
 	function colorize() {
 		var json = geoJSON[current.geoid];
 		if( json.muni ) {
-			colorVotes( json.muni, '#666666', 1, 1 );
-			colorSimple( json.state || json.nation, '#FFFFFF', '#444444', 1, 2 );
+			colorVotes( json.muni, '#666666', 1, 1.5 );
+			if ( json.state ) {
+				colorSimple( json.state, '#FFFFFF', '#444444', 1, 2 );
+			} else {
+				colorSimple( json.nation, '#FFFFFF', '#222222', 0.5, 1.5);
+			}
 		}
 		else {
 			colorVotes( json.state, '#666666', 1, 1 );
@@ -1311,13 +1325,15 @@ function nationalEnabled() {
 		outlineOverlay = null;
 		if( !( where && where.feature ) ) return;
 		var feat = where.feature;
-		var faint = ( where.geo.draw === false );
+		var strokeOpacity = ( where.geo.draw === false) ?
+			0.25 : ( where.feature.overlay === false) ?
+			0 : feat.strokeOpacity;
 		feat = $.extend( {}, feat, {
 			fillColor: '#000000',
 			fillOpacity: 0,
-			strokeWidth: playCounties() ? 5 : opt.counties ? 1.5 : 2.5,
+			strokeWidth: feat.strokeWidth + 0.5,
 			strokeColor: '#000000',
-			strokeOpacity: faint ? .25 : 1
+			strokeOpacity: strokeOpacity
 		});
 		outlineOverlay = new PolyGonzo.PgOverlay({
 			map: map,
